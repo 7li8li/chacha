@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,TR/ Duyurular
-http://aybytv.xyz:8080/bnt1301/bnt1301/183792
 #EXTINF:-1, group-title="AYBYTV",beIN SPORTS 4K (Feed)
 http://aybytv.xyz:8080/bnt1301/bnt1301/35650
 #EXTINF:-1, group-title="AYBYTV",beIN SPORTS 8K (Feed)
@@ -273,147 +271,147 @@ http://188.95.65.168:25461/454543/4534543/2467
 http://188.95.65.168:25461/454543/4534543/2468
 #EXTINF:-1, group-title="SHORTLIST",beIN SPORTS Max 2
 http://188.95.65.168:25461/454543/4534543/2469
-#EXTINF:-1 tvg-name=" beIN SPORTS 1 4K" tvg-logo="http://xc2.dyndns.org:5055/images/1b28c1ba35a3f28dac4c41e7b0b152aa.png" group-title="XC1", beIN SPORTS 1 4K
+#EXTINF:-1 tvg-name=" beIN SPORTS 1 4K" tvg-logo="" group-title="XC1", beIN SPORTS 1 4K
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93098.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 1 UHD" tvg-logo="http://xc2.dyndns.org:5055/images/1b28c1ba35a3f28dac4c41e7b0b152aa.png" group-title="XC1", beIN SPORTS 1 UHD
+#EXTINF:-1 tvg-name=" beIN SPORTS 1 UHD" tvg-logo="" group-title="XC1", beIN SPORTS 1 UHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1174.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 1 HQ FEED" tvg-logo="http://xc2.dyndns.org:5055/images/1b28c1ba35a3f28dac4c41e7b0b152aa.png" group-title="XC1", beIN SPORTS 1 HQ FEED
+#EXTINF:-1 tvg-name=" beIN SPORTS 1 HQ FEED" tvg-logo="" group-title="XC1", beIN SPORTS 1 HQ FEED
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/60489.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 1 SD" tvg-logo="http://xc2.dyndns.org:5055/images/1b28c1ba35a3f28dac4c41e7b0b152aa.png" group-title="XC1", beIN SPORTS 1 SD
+#EXTINF:-1 tvg-name=" beIN SPORTS 1 SD" tvg-logo="" group-title="XC1", beIN SPORTS 1 SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/2752.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 2 SD" tvg-logo="http://xc2.dyndns.org:5055/images/2a6c88e5b0b589ab6425755dea6cd25b.png" group-title="XC1", beIN SPORTS 2 SD
+#EXTINF:-1 tvg-name=" beIN SPORTS 2 SD" tvg-logo="" group-title="XC1", beIN SPORTS 2 SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3938.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS  3 SD" tvg-logo="http://xc2.dyndns.org:5055/images/0c66c97a5796cbea0cc1a595a616fac7.png" group-title="XC1", beIN SPORTS  3 SD
+#EXTINF:-1 tvg-name=" beIN SPORTS  3 SD" tvg-logo="" group-title="XC1", beIN SPORTS  3 SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92610.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 4 SD" tvg-logo="http://xc2.dyndns.org:5055/images/2e6e67c4cd38b87c758628474f38b726.png" group-title="XC1", beIN SPORTS 4 SD
+#EXTINF:-1 tvg-name=" beIN SPORTS 4 SD" tvg-logo="" group-title="XC1", beIN SPORTS 4 SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/45274.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 5 SD" tvg-logo="http://xc2.dyndns.org:5055/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="XC1", beIN SPORTS 5 SD
+#EXTINF:-1 tvg-name=" beIN SPORTS 5 SD" tvg-logo="" group-title="XC1", beIN SPORTS 5 SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/113215.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 1 HD" tvg-logo="http://xc2.dyndns.org:5055/images/1b28c1ba35a3f28dac4c41e7b0b152aa.png" group-title="XC1", beIN SPORTS 1 HD
+#EXTINF:-1 tvg-name=" beIN SPORTS 1 HD" tvg-logo="" group-title="XC1", beIN SPORTS 1 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3937.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 2 HD" tvg-logo="http://xc2.dyndns.org:5055/images/2a6c88e5b0b589ab6425755dea6cd25b.png" group-title="XC1", beIN SPORTS 2 HD
+#EXTINF:-1 tvg-name=" beIN SPORTS 2 HD" tvg-logo="" group-title="XC1", beIN SPORTS 2 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1177.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 3 HD" tvg-logo="http://xc2.dyndns.org:5055/images/0c66c97a5796cbea0cc1a595a616fac7.png" group-title="XC1", beIN SPORTS 3 HD
+#EXTINF:-1 tvg-name=" beIN SPORTS 3 HD" tvg-logo="" group-title="XC1", beIN SPORTS 3 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1178.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 4 HD" tvg-logo="http://xc2.dyndns.org:5055/images/2e6e67c4cd38b87c758628474f38b726.png" group-title="XC1", beIN SPORTS 4 HD
+#EXTINF:-1 tvg-name=" beIN SPORTS 4 HD" tvg-logo="" group-title="XC1", beIN SPORTS 4 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1179.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 5 HD" tvg-logo="http://xc2.dyndns.org:5055/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="XC1", beIN SPORTS 5 HD
+#EXTINF:-1 tvg-name=" beIN SPORTS 5 HD" tvg-logo="" group-title="XC1", beIN SPORTS 5 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/106797.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 1 HQ" tvg-logo="http://xc2.dyndns.org:5055/images/1b28c1ba35a3f28dac4c41e7b0b152aa.png" group-title="XC1", beIN SPORTS 1 HQ
+#EXTINF:-1 tvg-name=" beIN SPORTS 1 HQ" tvg-logo="" group-title="XC1", beIN SPORTS 1 HQ
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/2551.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 2 HQ" tvg-logo="http://xc2.dyndns.org:5055/images/2a6c88e5b0b589ab6425755dea6cd25b.png" group-title="XC1", beIN SPORTS 2 HQ
+#EXTINF:-1 tvg-name=" beIN SPORTS 2 HQ" tvg-logo="" group-title="XC1", beIN SPORTS 2 HQ
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92602.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 3 HQ" tvg-logo="http://xc2.dyndns.org:5055/images/0c66c97a5796cbea0cc1a595a616fac7.png" group-title="XC1", beIN SPORTS 3 HQ
+#EXTINF:-1 tvg-name=" beIN SPORTS 3 HQ" tvg-logo="" group-title="XC1", beIN SPORTS 3 HQ
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92603.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 4 HQ" tvg-logo="http://xc2.dyndns.org:5055/images/2e6e67c4cd38b87c758628474f38b726.png" group-title="XC1", beIN SPORTS 4 HQ
+#EXTINF:-1 tvg-name=" beIN SPORTS 4 HQ" tvg-logo="" group-title="XC1", beIN SPORTS 4 HQ
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92604.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 5 HQ" tvg-logo="http://xc2.dyndns.org:5055/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="XC1", beIN SPORTS 5 HQ
+#EXTINF:-1 tvg-name=" beIN SPORTS 5 HQ" tvg-logo="" group-title="XC1", beIN SPORTS 5 HQ
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/113213.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 1 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/1b28c1ba35a3f28dac4c41e7b0b152aa.png" group-title="XC1", beIN SPORTS 1 FHD
+#EXTINF:-1 tvg-name=" beIN SPORTS 1 FHD" tvg-logo="" group-title="XC1", beIN SPORTS 1 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92601.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 2 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/2a6c88e5b0b589ab6425755dea6cd25b.png" group-title="XC1", beIN SPORTS 2 FHD
+#EXTINF:-1 tvg-name=" beIN SPORTS 2 FHD" tvg-logo="" group-title="XC1", beIN SPORTS 2 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/28025.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 3 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/0c66c97a5796cbea0cc1a595a616fac7.png" group-title="XC1", beIN SPORTS 3 FHD
+#EXTINF:-1 tvg-name=" beIN SPORTS 3 FHD" tvg-logo="" group-title="XC1", beIN SPORTS 3 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3939.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 4 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/2e6e67c4cd38b87c758628474f38b726.png" group-title="XC1", beIN SPORTS 4 FHD
+#EXTINF:-1 tvg-name=" beIN SPORTS 4 FHD" tvg-logo="" group-title="XC1", beIN SPORTS 4 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3940.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS 5 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="XC1", beIN SPORTS 5 FHD
+#EXTINF:-1 tvg-name=" beIN SPORTS 5 FHD" tvg-logo="" group-title="XC1", beIN SPORTS 5 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/113214.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS MAX 1 HD" tvg-logo="http://xc2.dyndns.org:5055/images/9a964745587d22bb3824b630bb69ac04.png" group-title="XC1", beIN SPORTS MAX 1 HD
+#EXTINF:-1 tvg-name=" beIN SPORTS MAX 1 HD" tvg-logo="" group-title="XC1", beIN SPORTS MAX 1 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1182.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS MAX 2 HD" tvg-logo="http://xc2.dyndns.org:5055/images/dc329f5b1c8b2a8c4075af622f0b026b.png" group-title="XC1", beIN SPORTS MAX 2 HD
+#EXTINF:-1 tvg-name=" beIN SPORTS MAX 2 HD" tvg-logo="" group-title="XC1", beIN SPORTS MAX 2 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1183.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS MAX 1 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/9a964745587d22bb3824b630bb69ac04.png" group-title="XC1", beIN SPORTS MAX 1 FHD
+#EXTINF:-1 tvg-name=" beIN SPORTS MAX 1 FHD" tvg-logo="" group-title="XC1", beIN SPORTS MAX 1 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3941.ts
-#EXTINF:-1 tvg-name=" beIN SPORTS MAX 2 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/dc329f5b1c8b2a8c4075af622f0b026b.png" group-title="XC1", beIN SPORTS MAX 2 FHD
+#EXTINF:-1 tvg-name=" beIN SPORTS MAX 2 FHD" tvg-logo="" group-title="XC1", beIN SPORTS MAX 2 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3942.ts
-#EXTINF:-1 tvg-name=" beIN-CONNECT CANLI 1" tvg-logo="http://xc2.dyndns.org:5055/images/b773306a412341c324e916473eb00e1b.png" group-title="XC1", beIN-CONNECT CANLI 1
+#EXTINF:-1 tvg-name=" beIN-CONNECT CANLI 1" tvg-logo="" group-title="XC1", beIN-CONNECT CANLI 1
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/71374.ts
-#EXTINF:-1 tvg-name=" beIN-CONNECT CANLI 2" tvg-logo="http://xc2.dyndns.org:5055/images/b773306a412341c324e916473eb00e1b.png" group-title="XC1", beIN-CONNECT CANLI 2
+#EXTINF:-1 tvg-name=" beIN-CONNECT CANLI 2" tvg-logo="" group-title="XC1", beIN-CONNECT CANLI 2
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/71375.ts
-#EXTINF:-1 tvg-name=" beIN-CONNECT CANLI 3" tvg-logo="http://xc2.dyndns.org:5055/images/b773306a412341c324e916473eb00e1b.png" group-title="XC1", beIN-CONNECT CANLI 3
+#EXTINF:-1 tvg-name=" beIN-CONNECT CANLI 3" tvg-logo="" group-title="XC1", beIN-CONNECT CANLI 3
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/71376.ts
-#EXTINF:-1 tvg-name=" beIN-CONNECT CANLI 4" tvg-logo="http://xc2.dyndns.org:5055/images/b773306a412341c324e916473eb00e1b.png" group-title="XC1", beIN-CONNECT CANLI 4
+#EXTINF:-1 tvg-name=" beIN-CONNECT CANLI 4" tvg-logo="" group-title="XC1", beIN-CONNECT CANLI 4
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/71377.ts
-#EXTINF:-1 tvg-name=" beIN-CONNECT CANLI 5" tvg-logo="http://xc2.dyndns.org:5055/images/b773306a412341c324e916473eb00e1b.png" group-title="XC1", beIN-CONNECT CANLI 5
+#EXTINF:-1 tvg-name=" beIN-CONNECT CANLI 5" tvg-logo="" group-title="XC1", beIN-CONNECT CANLI 5
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/71378.ts
-#EXTINF:-1 tvg-name=" beIN-CONNECT CANLI 6" tvg-logo="http://xc2.dyndns.org:5055/images/b773306a412341c324e916473eb00e1b.png" group-title="XC1", beIN-CONNECT CANLI 6
+#EXTINF:-1 tvg-name=" beIN-CONNECT CANLI 6" tvg-logo="" group-title="XC1", beIN-CONNECT CANLI 6
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/71379.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 SD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 1 SD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 SD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116242.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 576p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 1 576p
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 576p" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 576p
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116243.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 720p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 1 720p
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 720p" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 720p
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116244.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 1 FHD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 FHD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/91401.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 2 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 2 FHD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 2 FHD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 2 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/91402.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 3 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 3 FHD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 3 FHD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 3 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/91403.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 4 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 4 FHD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 4 FHD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 4 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93110.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 5 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 5 FHD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 5 FHD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 5 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93111.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 6 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 6 FHD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 6 FHD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 6 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93112.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 7 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 7 FHD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 7 FHD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 7 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93113.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 8 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 8 FHD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 8 FHD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 8 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/106446.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 1 HD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 HD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92007.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 2 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 2 HD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 2 HD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 2 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92008.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 3 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 3 HD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 3 HD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 3 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92009.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 4 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 4 HD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 4 HD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 4 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92010.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 5 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 5 HD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 5 HD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 5 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92011.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 6 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 6 HD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 6 HD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 6 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92012.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 7 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 7 HD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 7 HD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 7 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92455.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 8 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 8 HD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 8 HD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 8 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92456.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 SD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 1 SD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 SD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116242.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 576p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 1 576p
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 576p" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 576p
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116243.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 720p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 1 720p
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 720p" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 720p
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116244.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 1 FHD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 FHD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/91401.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 2 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 2 FHD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 2 FHD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 2 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/91402.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 3 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 3 FHD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 3 FHD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 3 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/91403.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 4 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 4 FHD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 4 FHD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 4 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93110.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 5 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 5 FHD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 5 FHD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 5 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93111.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 6 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 6 FHD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 6 FHD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 6 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93112.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 7 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 7 FHD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 7 FHD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 7 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93113.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 8 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 8 FHD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 8 FHD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 8 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/106446.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 1 HD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 1 HD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92007.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 2 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 2 HD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 2 HD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 2 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92008.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 3 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 3 HD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 3 HD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 3 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92009.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 4 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 4 HD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 4 HD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 4 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92010.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 5 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 5 HD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 5 HD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 5 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92011.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 6 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 6 HD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 6 HD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 6 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92012.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 7 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 7 HD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 7 HD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 7 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92455.ts
-#EXTINF:-1 tvg-name=" EXXEN-SPORTS 8 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="XC1", EXXEN-SPORTS 8 HD
+#EXTINF:-1 tvg-name=" EXXEN-SPORTS 8 HD" tvg-logo="" group-title="XC1", EXXEN-SPORTS 8 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92456.ts
 #EXTINF:-1 tvg-name="TABii SPOR 1 FHD" group-title="XC1",TABii SPOR 1 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120042.ts
@@ -455,345 +453,257 @@ http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120059.ts
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120060.ts
 #EXTINF:-1 tvg-name="TABii SPOR 10 HD" group-title="XC1",TABii SPOR 10 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120061.ts
-#EXTINF:-1 tvg-name="S-SPORT 1 HD" tvg-logo="http://xc2.dyndns.org:5055/images/4e3c69fd2fc7cd09455966e5e9228192.png" group-title="XC1",S-SPORT 1 HD
+#EXTINF:-1 tvg-name="S-SPORT 1 HD" tvg-logo="" group-title="XC1",S-SPORT 1 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1196.ts
-#EXTINF:-1 tvg-name="S-SPORT 2 HD" tvg-logo="http://xc2.dyndns.org:5055/images/544ea375efab3941fd485293ba837f4c.png" group-title="XC1",S-SPORT 2 HD
+#EXTINF:-1 tvg-name="S-SPORT 2 HD" tvg-logo="" group-title="XC1",S-SPORT 2 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3068.ts
-#EXTINF:-1 tvg-name="S-SPORT 1 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/4e3c69fd2fc7cd09455966e5e9228192.png" group-title="XC1",S-SPORT 1 FHD
+#EXTINF:-1 tvg-name="S-SPORT 1 FHD" tvg-logo="" group-title="XC1",S-SPORT 1 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1197.ts
-#EXTINF:-1 tvg-name="S-SPORT 2 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/544ea375efab3941fd485293ba837f4c.png" group-title="XC1",S-SPORT 2 FHD
+#EXTINF:-1 tvg-name="S-SPORT 2 FHD" tvg-logo="" group-title="XC1",S-SPORT 2 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3943.ts
-#EXTINF:-1 tvg-name="S-SPORT-PLUS 1 HD" tvg-logo="http://xc2.dyndns.org:5055/images/4e3c69fd2fc7cd09455966e5e9228192.png" group-title="XC1",S-SPORT-PLUS 1 HD
+#EXTINF:-1 tvg-name="S-SPORT-PLUS 1 HD" tvg-logo="" group-title="XC1",S-SPORT-PLUS 1 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92461.ts
-#EXTINF:-1 tvg-name="S-SPORT-PLUS 2 HD" tvg-logo="http://xc2.dyndns.org:5055/images/4e3c69fd2fc7cd09455966e5e9228192.png" group-title="XC1",S-SPORT-PLUS 2 HD
+#EXTINF:-1 tvg-name="S-SPORT-PLUS 2 HD" tvg-logo="" group-title="XC1",S-SPORT-PLUS 2 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92462.ts
-#EXTINF:-1 tvg-name="S-SPORT-PLUS 3 HD" tvg-logo="http://xc2.dyndns.org:5055/images/4e3c69fd2fc7cd09455966e5e9228192.png" group-title="XC1",S-SPORT-PLUS 3 HD
+#EXTINF:-1 tvg-name="S-SPORT-PLUS 3 HD" tvg-logo="" group-title="XC1",S-SPORT-PLUS 3 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92463.ts
-#EXTINF:-1 tvg-name="S-SPORT-PLUS 4 HD" tvg-logo="http://xc2.dyndns.org:5055/images/4e3c69fd2fc7cd09455966e5e9228192.png" group-title="XC1",S-SPORT-PLUS 4 HD
+#EXTINF:-1 tvg-name="S-SPORT-PLUS 4 HD" tvg-logo="" group-title="XC1",S-SPORT-PLUS 4 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92464.ts
-#EXTINF:-1 tvg-name="S-SPORT-PLUS 6 HD" tvg-logo="http://xc2.dyndns.org:5055/images/4e3c69fd2fc7cd09455966e5e9228192.png" group-title="XC1",S-SPORT-PLUS 6 HD
+#EXTINF:-1 tvg-name="S-SPORT-PLUS 6 HD" tvg-logo="" group-title="XC1",S-SPORT-PLUS 6 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92466.ts
-#EXTINF:-1 tvg-name="S-SPORT-PLUS 5 HD" tvg-logo="http://xc2.dyndns.org:5055/images/4e3c69fd2fc7cd09455966e5e9228192.png" group-title="XC1",S-SPORT-PLUS 5 HD
+#EXTINF:-1 tvg-name="S-SPORT-PLUS 5 HD" tvg-logo="" group-title="XC1",S-SPORT-PLUS 5 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92465.ts
-#EXTINF:-1 tvg-name="SMART-SPOR 1 HD" tvg-logo="http://xc2.dyndns.org:5055/images/c110ff9ac6d3181d16b7894d45753aa5.png" group-title="XC1",SMART-SPOR 1 HD
+#EXTINF:-1 tvg-name="SMART-SPOR 1 HD" tvg-logo="" group-title="XC1",SMART-SPOR 1 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/4957.ts
-#EXTINF:-1 tvg-name="SMART SPOR 2 HD" tvg-logo="http://xc2.dyndns.org:5055/images/abf7b834a871502908c122cd2e3e8eb0.png" group-title="XC1",SMART SPOR 2 HD
+#EXTINF:-1 tvg-name="SMART SPOR 2 HD" tvg-logo="" group-title="XC1",SMART SPOR 2 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/60516.ts
-#EXTINF:-1 tvg-name="SMART SPOR 1 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/c110ff9ac6d3181d16b7894d45753aa5.png" group-title="XC1",SMART SPOR 1 FHD
+#EXTINF:-1 tvg-name="SMART SPOR 1 FHD" tvg-logo="" group-title="XC1",SMART SPOR 1 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1200.ts
-#EXTINF:-1 tvg-name="SMART SPOR 2 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/abf7b834a871502908c122cd2e3e8eb0.png" group-title="XC1",SMART SPOR 2 FHD
+#EXTINF:-1 tvg-name="SMART SPOR 2 FHD" tvg-logo="" group-title="XC1",SMART SPOR 2 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/60515.ts
-#EXTINF:-1 tvg-name="TIVIBU SPOR 1 HD" tvg-logo="http://xc2.dyndns.org:5055/images/5a9738189b34430b7bf331f6af042e3a.png" group-title="XC1",TIVIBU SPOR 1 HD
+#EXTINF:-1 tvg-name="TIVIBU SPOR 1 HD" tvg-logo="" group-title="XC1",TIVIBU SPOR 1 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1193.ts
-#EXTINF:-1 tvg-name="TIVIBU SPOR 2 HD" tvg-logo="http://xc2.dyndns.org:5055/images/f15162cf771ac8686475f2a06af5ceae.png" group-title="XC1",TIVIBU SPOR 2 HD
+#EXTINF:-1 tvg-name="TIVIBU SPOR 2 HD" tvg-logo="" group-title="XC1",TIVIBU SPOR 2 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1194.ts
-#EXTINF:-1 tvg-name="TIVIBU SPOR 3 HD" tvg-logo="http://xc2.dyndns.org:5055/images/f31c55349394757cca604f827ae1fd27.png" group-title="XC1",TIVIBU SPOR 3 HD
+#EXTINF:-1 tvg-name="TIVIBU SPOR 3 HD" tvg-logo="" group-title="XC1",TIVIBU SPOR 3 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1195.ts
-#EXTINF:-1 tvg-name="TIVIBU-SPOR 4 HD" tvg-logo="http://xc2.dyndns.org:5055/images/27b62dfd1b716ef9a98cf2c4190116ab.png" group-title="XC1",TIVIBU-SPOR 4 HD
+#EXTINF:-1 tvg-name="TIVIBU-SPOR 4 HD" tvg-logo="" group-title="XC1",TIVIBU-SPOR 4 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/106958.ts
-#EXTINF:-1 tvg-name="TIVIBU SPOR 1 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/5a9738189b34430b7bf331f6af042e3a.png" group-title="XC1",TIVIBU SPOR 1 FHD
+#EXTINF:-1 tvg-name="TIVIBU SPOR 1 FHD" tvg-logo="" group-title="XC1",TIVIBU SPOR 1 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1190.ts
-#EXTINF:-1 tvg-name="TIVIBU SPOR 2 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/f15162cf771ac8686475f2a06af5ceae.png" group-title="XC1",TIVIBU SPOR 2 FHD
+#EXTINF:-1 tvg-name="TIVIBU SPOR 2 FHD" tvg-logo="" group-title="XC1",TIVIBU SPOR 2 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/2565.ts
-#EXTINF:-1 tvg-name="TIVIBU SPOR 3 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/f31c55349394757cca604f827ae1fd27.png" group-title="XC1",TIVIBU SPOR 3 FHD
+#EXTINF:-1 tvg-name="TIVIBU SPOR 3 FHD" tvg-logo="" group-title="XC1",TIVIBU SPOR 3 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/2564.ts
 #EXTINF:-1 tvg-name="TIVIBU SPOR 4 FHD" group-title="XC1",TIVIBU SPOR 4 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116233.ts
-#EXTINF:-1 tvg-name="A SPOR SD" tvg-logo="http://xc2.dyndns.org:5055/images/aa1821b360d50f6e5eb294dfc9677546.png" group-title="XC1",A SPOR SD
+#EXTINF:-1 tvg-name="A SPOR SD" tvg-logo="" group-title="XC1",A SPOR SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1204.ts
-#EXTINF:-1 tvg-name="A SPOR HD" tvg-logo="http://xc2.dyndns.org:5055/images/aa1821b360d50f6e5eb294dfc9677546.png" group-title="XC1",A SPOR HD
+#EXTINF:-1 tvg-name="A SPOR HD" tvg-logo="" group-title="XC1",A SPOR HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1203.ts
-#EXTINF:-1 tvg-name="A SPOR FHD" tvg-logo="http://xc2.dyndns.org:5055/images/aa1821b360d50f6e5eb294dfc9677546.png" group-title="XC1",A SPOR FHD
+#EXTINF:-1 tvg-name="A SPOR FHD" tvg-logo="" group-title="XC1",A SPOR FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/36178.ts
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ SD" tvg-logo="http://xc2.dyndns.org:5055/images/f701059b195ea121d5f4c49076dea0dc.png" group-title="XC1",TRT SPOR YILDIZ SD
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ SD" tvg-logo="" group-title="XC1",TRT SPOR YILDIZ SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93069.ts
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ HD" tvg-logo="http://xc2.dyndns.org:5055/images/f701059b195ea121d5f4c49076dea0dc.png" group-title="XC1",TRT SPOR YILDIZ HD
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ HD" tvg-logo="" group-title="XC1",TRT SPOR YILDIZ HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93068.ts
-#EXTINF:-1 tvg-name="TRT SPOR SD" tvg-logo="http://xc2.dyndns.org:5055/images/546f23ee37f8862a1d99fc33076b3fca.png" group-title="XC1",TRT SPOR SD
+#EXTINF:-1 tvg-name="TRT SPOR SD" tvg-logo="" group-title="XC1",TRT SPOR SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/24046.ts
-#EXTINF:-1 tvg-name="TRT SPOR HD" tvg-logo="http://xc2.dyndns.org:5055/images/546f23ee37f8862a1d99fc33076b3fca.png" group-title="XC1",TRT SPOR HD
+#EXTINF:-1 tvg-name="TRT SPOR HD" tvg-logo="" group-title="XC1",TRT SPOR HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1205.ts
-#EXTINF:-1 tvg-name="TRT SPOR FHD" tvg-logo="http://xc2.dyndns.org:5055/images/546f23ee37f8862a1d99fc33076b3fca.png" group-title="XC1",TRT SPOR FHD
+#EXTINF:-1 tvg-name="TRT SPOR FHD" tvg-logo="" group-title="XC1",TRT SPOR FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/36176.ts
-#EXTINF:-1 tvg-name="SPORTS TV HD" tvg-logo="http://xc2.dyndns.org:5055/images/931254267211da41b0a6a7d3508f9f1e.png" group-title="XC1",SPORTS TV HD
+#EXTINF:-1 tvg-name="SPORTS TV HD" tvg-logo="" group-title="XC1",SPORTS TV HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/45277.ts
-#EXTINF:-1 tvg-name="SPORTS TV FHD" tvg-logo="http://xc2.dyndns.org:5055/images/931254267211da41b0a6a7d3508f9f1e.png" group-title="XC1",SPORTS TV FHD
+#EXTINF:-1 tvg-name="SPORTS TV FHD" tvg-logo="" group-title="XC1",SPORTS TV FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/38233.ts
-#EXTINF:-1 tvg-name="EUROSPORT 1 HD" tvg-logo="http://xc2.dyndns.org:5055/images/311af97d1561f7130762f5761406ec91.png" group-title="XC1",EUROSPORT 1 HD
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="XC1",EUROSPORT 1 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1201.ts
-#EXTINF:-1 tvg-name="EUROSPORT 2 HD" tvg-logo="http://xc2.dyndns.org:5055/images/fbc75254bdfc1521f7034acfa50fb833.png" group-title="XC1",EUROSPORT 2 HD
+#EXTINF:-1 tvg-name="EUROSPORT 2 HD" tvg-logo="" group-title="XC1",EUROSPORT 2 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1202.ts
-#EXTINF:-1 tvg-name="KICKBOKS" tvg-logo="https://w7.pngwing.com/pngs/517/880/png-transparent-bulls-fight-academy-kickboxing-bull-fighting-logo-sports-equipment-fictional-character-thumbnail.png" group-title="XC1",KICKBOKS
+#EXTINF:-1 tvg-name="KICKBOKS" tvg-logo="" group-title="XC1",KICKBOKS
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/65256.ts
-#EXTINF:-1 tvg-name="FIGHTBOX HD" tvg-logo="http://xc2.dyndns.org:5055/images/894f0078dfa8149e162727107290fca1.png" group-title="XC1",FIGHTBOX HD
+#EXTINF:-1 tvg-name="FIGHTBOX HD" tvg-logo="" group-title="XC1",FIGHTBOX HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3947.ts
-#EXTINF:-1 tvg-name="NBA TV HD" tvg-logo="http://xc2.dyndns.org:5055/images/c335a4a554815dc560235cf339801260.png" group-title="XC1",NBA TV HD
+#EXTINF:-1 tvg-name="NBA TV HD" tvg-logo="" group-title="XC1",NBA TV HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3946.ts
-#EXTINF:-1 tvg-name="TJK TV HD" tvg-logo="http://xc2.dyndns.org:5055/images/cc07bab64a78a607e3d53ef080ad4f2e.png" group-title="XC1",TJK TV HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1208.ts
-#EXTINF:-1 tvg-name="FB TV HD" tvg-logo="http://xc2.dyndns.org:5055/images/a1014c0e0324bbaedd897b9080ad6fb9.png" group-title="XC1",FB TV HD
+#EXTINF:-1 tvg-name="FB TV HD" tvg-logo="" group-title="XC1",FB TV HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1207.ts
-#EXTINF:-1 tvg-name="GS TV HD" tvg-logo="http://xc2.dyndns.org:5055/images/ca44bf1441a3e760129607551f08adc0.png" group-title="XC1",GS TV HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1206.ts
-#EXTINF:-1 tvg-name="TAY TV HD" tvg-logo="http://xc2.dyndns.org:5055/images/f8ee3c948a2490b597ee0b8f8d7fb2a2.png" group-title="XC1",TAY TV HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3945.ts
-#EXTINF:-1 tvg-name="S-SPORT 1 HD" tvg-logo="http://xc2.dyndns.org:5055/images/4e3c69fd2fc7cd09455966e5e9228192.png" group-title="XC1",S-SPORT 1 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1196.ts
-#EXTINF:-1 tvg-name="S-SPORT 2 HD" tvg-logo="http://xc2.dyndns.org:5055/images/544ea375efab3941fd485293ba837f4c.png" group-title="XC1",S-SPORT 2 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3068.ts
-#EXTINF:-1 tvg-name="S-SPORT 1 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/4e3c69fd2fc7cd09455966e5e9228192.png" group-title="XC1",S-SPORT 1 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1197.ts
-#EXTINF:-1 tvg-name="S-SPORT 2 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/544ea375efab3941fd485293ba837f4c.png" group-title="XC1",S-SPORT 2 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3943.ts
-#EXTINF:-1 tvg-name="S-SPORT-PLUS 1 HD" tvg-logo="http://xc2.dyndns.org:5055/images/4e3c69fd2fc7cd09455966e5e9228192.png" group-title="XC1",S-SPORT-PLUS 1 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92461.ts
-#EXTINF:-1 tvg-name="S-SPORT-PLUS 2 HD" tvg-logo="http://xc2.dyndns.org:5055/images/4e3c69fd2fc7cd09455966e5e9228192.png" group-title="XC1",S-SPORT-PLUS 2 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92462.ts
-#EXTINF:-1 tvg-name="S-SPORT-PLUS 3 HD" tvg-logo="http://xc2.dyndns.org:5055/images/4e3c69fd2fc7cd09455966e5e9228192.png" group-title="XC1",S-SPORT-PLUS 3 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92463.ts
-#EXTINF:-1 tvg-name="S-SPORT-PLUS 4 HD" tvg-logo="http://xc2.dyndns.org:5055/images/4e3c69fd2fc7cd09455966e5e9228192.png" group-title="XC1",S-SPORT-PLUS 4 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92464.ts
-#EXTINF:-1 tvg-name="S-SPORT-PLUS 6 HD" tvg-logo="http://xc2.dyndns.org:5055/images/4e3c69fd2fc7cd09455966e5e9228192.png" group-title="XC1",S-SPORT-PLUS 6 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92466.ts
-#EXTINF:-1 tvg-name="S-SPORT-PLUS 5 HD" tvg-logo="http://xc2.dyndns.org:5055/images/4e3c69fd2fc7cd09455966e5e9228192.png" group-title="XC1",S-SPORT-PLUS 5 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92465.ts
-#EXTINF:-1 tvg-name="SMART-SPOR 1 HD" tvg-logo="http://xc2.dyndns.org:5055/images/c110ff9ac6d3181d16b7894d45753aa5.png" group-title="XC1",SMART-SPOR 1 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/4957.ts
-#EXTINF:-1 tvg-name="SMART SPOR 2 HD" tvg-logo="http://xc2.dyndns.org:5055/images/abf7b834a871502908c122cd2e3e8eb0.png" group-title="XC1",SMART SPOR 2 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/60516.ts
-#EXTINF:-1 tvg-name="SMART SPOR 1 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/c110ff9ac6d3181d16b7894d45753aa5.png" group-title="XC1",SMART SPOR 1 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1200.ts
-#EXTINF:-1 tvg-name="SMART SPOR 2 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/abf7b834a871502908c122cd2e3e8eb0.png" group-title="XC1",SMART SPOR 2 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/60515.ts
-#EXTINF:-1 tvg-name="TIVIBU SPOR 1 HD" tvg-logo="http://xc2.dyndns.org:5055/images/5a9738189b34430b7bf331f6af042e3a.png" group-title="XC1",TIVIBU SPOR 1 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1193.ts
-#EXTINF:-1 tvg-name="TIVIBU SPOR 2 HD" tvg-logo="http://xc2.dyndns.org:5055/images/f15162cf771ac8686475f2a06af5ceae.png" group-title="XC1",TIVIBU SPOR 2 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1194.ts
-#EXTINF:-1 tvg-name="TIVIBU SPOR 3 HD" tvg-logo="http://xc2.dyndns.org:5055/images/f31c55349394757cca604f827ae1fd27.png" group-title="XC1",TIVIBU SPOR 3 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1195.ts
-#EXTINF:-1 tvg-name="TIVIBU-SPOR 4 HD" tvg-logo="http://xc2.dyndns.org:5055/images/27b62dfd1b716ef9a98cf2c4190116ab.png" group-title="XC1",TIVIBU-SPOR 4 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/106958.ts
-#EXTINF:-1 tvg-name="TIVIBU SPOR 1 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/5a9738189b34430b7bf331f6af042e3a.png" group-title="XC1",TIVIBU SPOR 1 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1190.ts
-#EXTINF:-1 tvg-name="TIVIBU SPOR 2 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/f15162cf771ac8686475f2a06af5ceae.png" group-title="XC1",TIVIBU SPOR 2 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/2565.ts
-#EXTINF:-1 tvg-name="TIVIBU SPOR 3 FHD" tvg-logo="http://xc2.dyndns.org:5055/images/f31c55349394757cca604f827ae1fd27.png" group-title="XC1",TIVIBU SPOR 3 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/2564.ts
-#EXTINF:-1 tvg-name="TIVIBU SPOR 4 FHD" group-title="XC1",TIVIBU SPOR 4 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116233.ts
-#EXTINF:-1 tvg-name="A SPOR SD" tvg-logo="http://xc2.dyndns.org:5055/images/aa1821b360d50f6e5eb294dfc9677546.png" group-title="XC1",A SPOR SD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1204.ts
-#EXTINF:-1 tvg-name="A SPOR HD" tvg-logo="http://xc2.dyndns.org:5055/images/aa1821b360d50f6e5eb294dfc9677546.png" group-title="XC1",A SPOR HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1203.ts
-#EXTINF:-1 tvg-name="A SPOR FHD" tvg-logo="http://xc2.dyndns.org:5055/images/aa1821b360d50f6e5eb294dfc9677546.png" group-title="XC1",A SPOR FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/36178.ts
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ SD" tvg-logo="http://xc2.dyndns.org:5055/images/f701059b195ea121d5f4c49076dea0dc.png" group-title="XC1",TRT SPOR YILDIZ SD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93069.ts
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ HD" tvg-logo="http://xc2.dyndns.org:5055/images/f701059b195ea121d5f4c49076dea0dc.png" group-title="XC1",TRT SPOR YILDIZ HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93068.ts
-#EXTINF:-1 tvg-name="TRT SPOR SD" tvg-logo="http://xc2.dyndns.org:5055/images/546f23ee37f8862a1d99fc33076b3fca.png" group-title="XC1",TRT SPOR SD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/24046.ts
-#EXTINF:-1 tvg-name="TRT SPOR HD" tvg-logo="http://xc2.dyndns.org:5055/images/546f23ee37f8862a1d99fc33076b3fca.png" group-title="XC1",TRT SPOR HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1205.ts
-#EXTINF:-1 tvg-name="TRT SPOR FHD" tvg-logo="http://xc2.dyndns.org:5055/images/546f23ee37f8862a1d99fc33076b3fca.png" group-title="XC1",TRT SPOR FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/36176.ts
-#EXTINF:-1 tvg-name="SPORTS TV HD" tvg-logo="http://xc2.dyndns.org:5055/images/931254267211da41b0a6a7d3508f9f1e.png" group-title="XC1",SPORTS TV HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/45277.ts
-#EXTINF:-1 tvg-name="SPORTS TV FHD" tvg-logo="http://xc2.dyndns.org:5055/images/931254267211da41b0a6a7d3508f9f1e.png" group-title="XC1",SPORTS TV FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/38233.ts
-#EXTINF:-1 tvg-name="EUROSPORT 1 HD" tvg-logo="http://xc2.dyndns.org:5055/images/311af97d1561f7130762f5761406ec91.png" group-title="XC1",EUROSPORT 1 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1201.ts
-#EXTINF:-1 tvg-name="EUROSPORT 2 HD" tvg-logo="http://xc2.dyndns.org:5055/images/fbc75254bdfc1521f7034acfa50fb833.png" group-title="XC1",EUROSPORT 2 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1202.ts
-#EXTINF:-1 tvg-name="KICKBOKS" tvg-logo="https://w7.pngwing.com/pngs/517/880/png-transparent-bulls-fight-academy-kickboxing-bull-fighting-logo-sports-equipment-fictional-character-thumbnail.png" group-title="XC1",KICKBOKS
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/65256.ts
-#EXTINF:-1 tvg-name="FIGHTBOX HD" tvg-logo="http://xc2.dyndns.org:5055/images/894f0078dfa8149e162727107290fca1.png" group-title="XC1",FIGHTBOX HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3947.ts
-#EXTINF:-1 tvg-name="NBA TV HD" tvg-logo="http://xc2.dyndns.org:5055/images/c335a4a554815dc560235cf339801260.png" group-title="XC1",NBA TV HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3946.ts
-#EXTINF:-1 tvg-name="TJK TV HD" tvg-logo="http://xc2.dyndns.org:5055/images/cc07bab64a78a607e3d53ef080ad4f2e.png" group-title="XC1",TJK TV HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1208.ts
-#EXTINF:-1 tvg-name="FB TV HD" tvg-logo="http://xc2.dyndns.org:5055/images/a1014c0e0324bbaedd897b9080ad6fb9.png" group-title="XC1",FB TV HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1207.ts
-#EXTINF:-1 tvg-name="GS TV HD" tvg-logo="http://xc2.dyndns.org:5055/images/ca44bf1441a3e760129607551f08adc0.png" group-title="XC1",GS TV HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1206.ts
-#EXTINF:-1 tvg-name="TAY TV HD" tvg-logo="http://xc2.dyndns.org:5055/images/f8ee3c948a2490b597ee0b8f8d7fb2a2.png" group-title="XC1",TAY TV HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3945.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 hd [ vip ]" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="SUN-X",beIN Sports 1 HD [ VIP ]
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 hd [ vip ]" tvg-logo="" group-title="SUN-X",beIN Sports 1 HD [ VIP ]
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/315720.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 [hd]" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="SUN-X",BeIN Sports 1 [HD]
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 [hd]" tvg-logo="" group-title="SUN-X",BeIN Sports 1 [HD]
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/311552.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 sd [ mobile ]" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="SUN-X",BeIN Sports 1 SD [ Mobile ]
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 sd [ mobile ]" tvg-logo="" group-title="SUN-X",BeIN Sports 1 SD [ Mobile ]
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/7042.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 [ fhd ]" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="SUN-X",BeIN Sports 1 [ FHD ]
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 [ fhd ]" tvg-logo="" group-title="SUN-X",BeIN Sports 1 [ FHD ]
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/52977.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 [ 4k ]" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="SUN-X",BeIN Sports 1 [ 4K ]
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 [ 4k ]" tvg-logo="" group-title="SUN-X",BeIN Sports 1 [ 4K ]
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/58659.ts
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="bein sports 2 hd" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="SUN-X",BeIN Sports 2 HD
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="bein sports 2 hd" tvg-logo="" group-title="SUN-X",BeIN Sports 2 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/52980.ts
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="bein sports 2 [ fhd ]" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="SUN-X",BeIN Sports 2 [ FHD ]
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="bein sports 2 [ fhd ]" tvg-logo="" group-title="SUN-X",BeIN Sports 2 [ FHD ]
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244703.ts
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="bein sports 3 hd" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="SUN-X",BeIN Sports 3 Hd
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="bein sports 3 hd" tvg-logo="" group-title="SUN-X",BeIN Sports 3 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/52981.ts
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="bein sports 3 fhd" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="SUN-X",BeIN Sports 3 FHD
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="bein sports 3 fhd" tvg-logo="" group-title="SUN-X",BeIN Sports 3 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244704.ts
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="bein sports 4 hd" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="SUN-X",BeIN Sports 4 HD
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="bein sports 4 hd" tvg-logo="" group-title="SUN-X",BeIN Sports 4 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/1492.ts
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="bein sports 4 fhd" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="SUN-X",BeIN Sports 4 FHD
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="bein sports 4 fhd" tvg-logo="" group-title="SUN-X",BeIN Sports 4 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244705.ts
-#EXTINF:-1 tvg-id="beinsports5.tr" tvg-name="bein sports 5 hd" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="SUN-X",BeIN Sports 5 HD
+#EXTINF:-1 tvg-id="beinsports5.tr" tvg-name="bein sports 5 hd" tvg-logo="" group-title="SUN-X",BeIN Sports 5 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/194676.ts
-#EXTINF:-1 tvg-id="beinsports5.tr" tvg-name="bein sports 5 fhd" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="SUN-X",BeIN Sports 5 FHD
+#EXTINF:-1 tvg-id="beinsports5.tr" tvg-name="bein sports 5 fhd" tvg-logo="" group-title="SUN-X",BeIN Sports 5 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244706.ts
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="bein sports max 1 hd" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="SUN-X",BeIN Sports MAX 1 HD
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="bein sports max 1 hd" tvg-logo="" group-title="SUN-X",BeIN Sports MAX 1 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/6977.ts
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="bein sports max 1 fhd" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="SUN-X",beIN Sports MAX 1 FHD
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="bein sports max 1 fhd" tvg-logo="" group-title="SUN-X",beIN Sports MAX 1 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244764.ts
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="bein sports max 2 hd" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="SUN-X",beIN Sports MAX 2 HD
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="bein sports max 2 hd" tvg-logo="" group-title="SUN-X",beIN Sports MAX 2 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/6978.ts
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="bein sports max 2 fhd" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="SUN-X",beIN Sports MAX 2 FHD
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="bein sports max 2 fhd" tvg-logo="" group-title="SUN-X",beIN Sports MAX 2 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244765.ts
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="bein sports haber hd" tvg-logo="https://i.hizliresim.com/4vv01zy.png" group-title="SUN-X",BeIN SPORTS HABER HD
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="bein sports haber hd" tvg-logo="" group-title="SUN-X",BeIN SPORTS HABER HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/6508.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein connect 1 hd" tvg-logo="https://i.hizliresim.com/e5o6w0t.png" group-title="SUN-X",beIN Connect 1 Hd
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein connect 1 hd" tvg-logo="" group-title="SUN-X",beIN Connect 1 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122770.ts
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="bein connect 2 hd" tvg-logo="https://i.hizliresim.com/e5o6w0t.png" group-title="SUN-X",beIN Connect 2 Hd
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="bein connect 2 hd" tvg-logo="" group-title="SUN-X",beIN Connect 2 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122771.ts
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="bein connect 3 hd" tvg-logo="https://i.hizliresim.com/e5o6w0t.png" group-title="SUN-X",beIN Connect 3 Hd
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="bein connect 3 hd" tvg-logo="" group-title="SUN-X",beIN Connect 3 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122772.ts
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="bein connect 4 hd" tvg-logo="https://i.hizliresim.com/e5o6w0t.png" group-title="SUN-X",beIN Connect 4 Hd
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="bein connect 4 hd" tvg-logo="" group-title="SUN-X",beIN Connect 4 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122773.ts
-#EXTINF:-1 tvg-id="beinsports5.tr" tvg-name="bein connect 5 hd" tvg-logo="https://i.hizliresim.com/e5o6w0t.png" group-title="SUN-X",beIN Connect 5 Hd
+#EXTINF:-1 tvg-id="beinsports5.tr" tvg-name="bein connect 5 hd" tvg-logo="" group-title="SUN-X",beIN Connect 5 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122774.ts
-#EXTINF:-1 tvg-name="bein connect 6 hd" tvg-logo="https://i.hizliresim.com/e5o6w0t.png" group-title="SUN-X",beIN Connect 6 Hd
+#EXTINF:-1 tvg-name="bein connect 6 hd" tvg-logo="" group-title="SUN-X",beIN Connect 6 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/250170.ts
-#EXTINF:-1 tvg-name="s sport sd" tvg-logo="https://i.hizliresim.com/e6l1sd4.png" group-title="SUN-X",S Sport Sd
+#EXTINF:-1 tvg-name="s sport sd" tvg-logo="" group-title="SUN-X",S Sport Sd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/63396.ts
-#EXTINF:-1 tvg-name="s sport hd" tvg-logo="https://i.hizliresim.com/e6l1sd4.png" group-title="SUN-X",S Sport Hd
+#EXTINF:-1 tvg-name="s sport hd" tvg-logo="" group-title="SUN-X",S Sport Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/106293.ts
-#EXTINF:-1 tvg-name="s sport raw" tvg-logo="https://i.hizliresim.com/e6l1sd4.png" group-title="SUN-X",S Sport RAW
+#EXTINF:-1 tvg-name="s sport raw" tvg-logo="" group-title="SUN-X",S Sport RAW
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244717.ts
-#EXTINF:-1 tvg-name="s sport 2 sd" tvg-logo="https://i.hizliresim.com/e6l1sd4.png" group-title="SUN-X",S Sport 2 Sd
+#EXTINF:-1 tvg-name="s sport 2 sd" tvg-logo="" group-title="SUN-X",S Sport 2 Sd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/63404.ts
-#EXTINF:-1 tvg-name="s sport 2 hd" tvg-logo="https://i.hizliresim.com/e6l1sd4.png" group-title="SUN-X",S Sport 2 Hd
+#EXTINF:-1 tvg-name="s sport 2 hd" tvg-logo="" group-title="SUN-X",S Sport 2 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133890.ts
-#EXTINF:-1 tvg-name="s sport 2 fhd" tvg-logo="https://i.hizliresim.com/e6l1sd4.png" group-title="SUN-X",S Sport 2 FHD
+#EXTINF:-1 tvg-name="s sport 2 fhd" tvg-logo="" group-title="SUN-X",S Sport 2 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244718.ts
-#EXTINF:-1 tvg-name="s spor + plus hd" tvg-logo="https://i.hizliresim.com/e6l1sd4.png" group-title="SUN-X",S Spor + Plus Hd
+#EXTINF:-1 tvg-name="s spor + plus hd" tvg-logo="" group-title="SUN-X",S Spor + Plus Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/98748.ts
-#EXTINF:-1 tvg-name="s spor + plus 2 hd" tvg-logo="https://i.hizliresim.com/e6l1sd4.png" group-title="SUN-X",S Spor + Plus 2 Hd
+#EXTINF:-1 tvg-name="s spor + plus 2 hd" tvg-logo="" group-title="SUN-X",S Spor + Plus 2 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133895.ts
-#EXTINF:-1 tvg-name="s spor + plus 3 hd" tvg-logo="https://i.hizliresim.com/e6l1sd4.png" group-title="SUN-X",S Spor + Plus 3 Hd
+#EXTINF:-1 tvg-name="s spor + plus 3 hd" tvg-logo="" group-title="SUN-X",S Spor + Plus 3 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133896.ts
-#EXTINF:-1 tvg-name="s spor + plus 4 hd" tvg-logo="https://i.hizliresim.com/e6l1sd4.png" group-title="SUN-X",S Spor + Plus 4 Hd
+#EXTINF:-1 tvg-name="s spor + plus 4 hd" tvg-logo="" group-title="SUN-X",S Spor + Plus 4 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133897.ts
-#EXTINF:-1 tvg-name="s spor + plus 5 hd" tvg-logo="https://i.hizliresim.com/e6l1sd4.png" group-title="SUN-X",S Spor + Plus 5 Hd
+#EXTINF:-1 tvg-name="s spor + plus 5 hd" tvg-logo="" group-title="SUN-X",S Spor + Plus 5 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133898.ts
-#EXTINF:-1 tvg-name="s spor + plus 6 hd" tvg-logo="https://i.hizliresim.com/e6l1sd4.png" group-title="SUN-X",S Spor + Plus 6 Hd
+#EXTINF:-1 tvg-name="s spor + plus 6 hd" tvg-logo="" group-title="SUN-X",S Spor + Plus 6 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/146415.ts
-#EXTINF:-1 tvg-name="d smart spor sd" tvg-logo="https://i.hizliresim.com/ihy136r.png" group-title="SUN-X",D Smart Spor Sd
+#EXTINF:-1 tvg-name="d smart spor sd" tvg-logo="" group-title="SUN-X",D Smart Spor Sd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/56226.ts
-#EXTINF:-1 tvg-name="d smart spor hd" tvg-logo="https://i.hizliresim.com/ihy136r.png" group-title="SUN-X",D Smart Spor Hd
+#EXTINF:-1 tvg-name="d smart spor hd" tvg-logo="" group-title="SUN-X",D Smart Spor Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/44016.ts
-#EXTINF:-1 tvg-name="d smart spor [ raw ]" tvg-logo="https://i.hizliresim.com/ihy136r.png" group-title="SUN-X",D Smart Spor [ RAW ]
+#EXTINF:-1 tvg-name="d smart spor [ raw ]" tvg-logo="" group-title="SUN-X",D Smart Spor [ RAW ]
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/284303.ts
-#EXTINF:-1 tvg-name="d smart spor 2 hd" tvg-logo="https://i.hizliresim.com/ihy136r.png" group-title="SUN-X",D Smart Spor 2 Hd
+#EXTINF:-1 tvg-name="d smart spor 2 hd" tvg-logo="" group-title="SUN-X",D Smart Spor 2 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/100140.ts
-#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="eurosport 1 hd" tvg-logo="https://i.hizliresim.com/lf7qmtn.png" group-title="SUN-X",Eurosport 1 Hd
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="eurosport 1 hd" tvg-logo="" group-title="SUN-X",Eurosport 1 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/67.ts
-#EXTINF:-1 tvg-name="eurosport 1 fhd+" tvg-logo="https://i.hizliresim.com/lf7qmtn.png" group-title="SUN-X",EUROSPORT 1 FHD+
+#EXTINF:-1 tvg-name="eurosport 1 fhd+" tvg-logo="" group-title="SUN-X",EUROSPORT 1 FHD+
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/290923.ts
-#EXTINF:-1 tvg-id="eurosport2tr.tr" tvg-name="eurosport 2 hd" tvg-logo="https://i.hizliresim.com/lf7qmtn.png" group-title="SUN-X",Eurosport 2 Hd
+#EXTINF:-1 tvg-id="eurosport2tr.tr" tvg-name="eurosport 2 hd" tvg-logo="" group-title="SUN-X",Eurosport 2 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/29.ts
-#EXTINF:-1 tvg-name="eurosport 2 fhd+" tvg-logo="https://i.hizliresim.com/lf7qmtn.png" group-title="SUN-X",EUROSPORT 2 FHD+
+#EXTINF:-1 tvg-name="eurosport 2 fhd+" tvg-logo="" group-title="SUN-X",EUROSPORT 2 FHD+
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/290924.ts
-#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="fb tv hd" tvg-logo="https://i.hizliresim.com/8f6shbr.png" group-title="SUN-X",Fb Tv Hd
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="fb tv hd" tvg-logo="" group-title="SUN-X",Fb Tv Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/1709.ts
-#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="sports tv" tvg-logo="https://i.hizliresim.com/17x377z.png" group-title="SUN-X",Sports Tv
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="sports tv" tvg-logo="" group-title="SUN-X",Sports Tv
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/86.ts
-#EXTINF:-1 tvg-name="nba tv hd" tvg-logo="https://i.hizliresim.com/80663zb.png" group-title="SUN-X",Nba Tv Hd
+#EXTINF:-1 tvg-name="nba tv hd" tvg-logo="" group-title="SUN-X",Nba Tv Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/12.ts
-#EXTINF:-1 tvg-name="edge spor hd" tvg-logo="https://i.hizliresim.com/z0jb2c2.png" group-title="SUN-X",Edge Spor Hd
+#EXTINF:-1 tvg-name="edge spor hd" tvg-logo="" group-title="SUN-X",Edge Spor Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/134406.ts
-#EXTINF:-1 tvg-name="tivibu spor hd" tvg-logo="https://i.hizliresim.com/47buimy.png" group-title="SUN-X",Tivibu Spor Hd
+#EXTINF:-1 tvg-name="tivibu spor hd" tvg-logo="" group-title="SUN-X",Tivibu Spor Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/169636.ts
-#EXTINF:-1 tvg-name="tivibu spor 1 hd" tvg-logo="https://i.hizliresim.com/47buimy.png" group-title="SUN-X",Tivibu Spor 1 Hd
+#EXTINF:-1 tvg-name="tivibu spor 1 hd" tvg-logo="" group-title="SUN-X",Tivibu Spor 1 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/179.ts
-#EXTINF:-1 tvg-name="tivibu spor 2 hd" tvg-logo="https://i.hizliresim.com/47buimy.png" group-title="SUN-X",Tivibu Spor 2 Hd
+#EXTINF:-1 tvg-name="tivibu spor 2 hd" tvg-logo="" group-title="SUN-X",Tivibu Spor 2 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/180.ts
-#EXTINF:-1 tvg-name="tivibu spor 3 hd" tvg-logo="https://i.hizliresim.com/47buimy.png" group-title="SUN-X",Tivibu Spor 3 Hd
+#EXTINF:-1 tvg-name="tivibu spor 3 hd" tvg-logo="" group-title="SUN-X",Tivibu Spor 3 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/181.ts
-#EXTINF:-1 tvg-name="tivibu spor 4 hd" tvg-logo="https://i.hizliresim.com/47buimy.png" group-title="SUN-X",Tivibu Spor 4 Hd
+#EXTINF:-1 tvg-name="tivibu spor 4 hd" tvg-logo="" group-title="SUN-X",Tivibu Spor 4 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/102443.ts
-#EXTINF:-1 tvg-name="tabii spor  hd" tvg-logo="https://i.hizliresim.com/sz3c49o.png" group-title="SUN-X",Tabii Spor  HD
+#EXTINF:-1 tvg-name="tabii spor  hd" tvg-logo="" group-title="SUN-X",Tabii Spor  HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/312379.ts
-#EXTINF:-1 tvg-name="tabii spor  fhd" tvg-logo="https://i.hizliresim.com/sz3c49o.png" group-title="SUN-X",Tabii Spor  FHD
+#EXTINF:-1 tvg-name="tabii spor  fhd" tvg-logo="" group-title="SUN-X",Tabii Spor  FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/312380.ts
-#EXTINF:-1 tvg-name="tabii spor fhd [sadece tr izlenir]" tvg-logo="https://i.hizliresim.com/sz3c49o.png" group-title="SUN-X",Tabii Spor FHD [Sadece TR izlenir]
+#EXTINF:-1 tvg-name="tabii spor fhd [sadece tr izlenir]" tvg-logo="" group-title="SUN-X",Tabii Spor FHD [Sadece TR izlenir]
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321637.ts
-#EXTINF:-1 tvg-name="tabii spor 1 hd" tvg-logo="https://i.hizliresim.com/g47c3yg.png" group-title="SUN-X",Tabii Spor 1 HD
+#EXTINF:-1 tvg-name="tabii spor 1 hd" tvg-logo="" group-title="SUN-X",Tabii Spor 1 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293302.ts
-#EXTINF:-1 tvg-name="tabii spor 1 fhd" tvg-logo="https://i.hizliresim.com/g47c3yg.png" group-title="SUN-X",Tabii Spor 1 FHD
+#EXTINF:-1 tvg-name="tabii spor 1 fhd" tvg-logo="" group-title="SUN-X",Tabii Spor 1 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293303.ts
-#EXTINF:-1 tvg-name="tabii spor 1 fhd [sadece tr izlenir]" tvg-logo="https://i.hizliresim.com/g47c3yg.png" group-title="SUN-X",Tabii Spor 1 FHD [Sadece TR izlenir]
+#EXTINF:-1 tvg-name="tabii spor 1 fhd [sadece tr izlenir]" tvg-logo="" group-title="SUN-X",Tabii Spor 1 FHD [Sadece TR izlenir]
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321639.ts
-#EXTINF:-1 tvg-name="tabii spor 2 hd" tvg-logo="https://i.hizliresim.com/k68o5qn.png" group-title="SUN-X",Tabii Spor 2 HD
+#EXTINF:-1 tvg-name="tabii spor 2 hd" tvg-logo="" group-title="SUN-X",Tabii Spor 2 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293304.ts
-#EXTINF:-1 tvg-name="tabii spor 2 fhd" tvg-logo="https://i.hizliresim.com/k68o5qn.png" group-title="SUN-X",Tabii Spor 2 FHD
+#EXTINF:-1 tvg-name="tabii spor 2 fhd" tvg-logo="" group-title="SUN-X",Tabii Spor 2 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293305.ts
-#EXTINF:-1 tvg-name="tabii spor 2 fhd [sadece tr izlenir]" tvg-logo="https://i.hizliresim.com/k68o5qn.png" group-title="SUN-X",Tabii Spor 2 FHD [Sadece TR izlenir]
+#EXTINF:-1 tvg-name="tabii spor 2 fhd [sadece tr izlenir]" tvg-logo="" group-title="SUN-X",Tabii Spor 2 FHD [Sadece TR izlenir]
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321640.ts
-#EXTINF:-1 tvg-name="tabii spor 3 hd" tvg-logo="https://i.hizliresim.com/5ehq09i.png" group-title="SUN-X",Tabii Spor 3 HD
+#EXTINF:-1 tvg-name="tabii spor 3 hd" tvg-logo="" group-title="SUN-X",Tabii Spor 3 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293306.ts
-#EXTINF:-1 tvg-name="tabii spor 3 fhd" tvg-logo="https://i.hizliresim.com/5ehq09i.png" group-title="SUN-X",Tabii Spor 3 FHD
+#EXTINF:-1 tvg-name="tabii spor 3 fhd" tvg-logo="" group-title="SUN-X",Tabii Spor 3 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293307.ts
-#EXTINF:-1 tvg-name="tabii spor 3 fhd [sadece tr izlenir]" tvg-logo="https://i.hizliresim.com/5ehq09i.png" group-title="SUN-X",Tabii Spor 3 FHD [Sadece TR izlenir]
+#EXTINF:-1 tvg-name="tabii spor 3 fhd [sadece tr izlenir]" tvg-logo="" group-title="SUN-X",Tabii Spor 3 FHD [Sadece TR izlenir]
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321641.ts
-#EXTINF:-1 tvg-name="tabii spor 4 hd" tvg-logo="https://i.hizliresim.com/8wnne92.png" group-title="SUN-X",Tabii Spor 4 HD
+#EXTINF:-1 tvg-name="tabii spor 4 hd" tvg-logo="" group-title="SUN-X",Tabii Spor 4 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293308.ts
-#EXTINF:-1 tvg-name="tabii spor 4 fhd" tvg-logo="https://i.hizliresim.com/8wnne92.png" group-title="SUN-X",Tabii Spor 4 FHD
+#EXTINF:-1 tvg-name="tabii spor 4 fhd" tvg-logo="" group-title="SUN-X",Tabii Spor 4 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293309.ts
-#EXTINF:-1 tvg-name="tabii spor 4 fhd [sadece tr izlenir]" tvg-logo="https://i.hizliresim.com/8wnne92.png" group-title="SUN-X",Tabii Spor 4 FHD [Sadece TR izlenir]
+#EXTINF:-1 tvg-name="tabii spor 4 fhd [sadece tr izlenir]" tvg-logo="" group-title="SUN-X",Tabii Spor 4 FHD [Sadece TR izlenir]
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321642.ts
-#EXTINF:-1 tvg-name="tabii spor 5 hd" tvg-logo="https://i.hizliresim.com/mtuexei.png" group-title="SUN-X",Tabii Spor 5 HD
+#EXTINF:-1 tvg-name="tabii spor 5 hd" tvg-logo="" group-title="SUN-X",Tabii Spor 5 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293310.ts
-#EXTINF:-1 tvg-name="tabii spor 5 fhd" tvg-logo="https://i.hizliresim.com/mtuexei.png" group-title="SUN-X",Tabii Spor 5 FHD
+#EXTINF:-1 tvg-name="tabii spor 5 fhd" tvg-logo="" group-title="SUN-X",Tabii Spor 5 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293311.ts
-#EXTINF:-1 tvg-name="tabii spor 5 fhd [sadece tr izlenir]" tvg-logo="https://i.hizliresim.com/mtuexei.png" group-title="SUN-X",Tabii Spor 5 FHD [Sadece TR izlenir]
+#EXTINF:-1 tvg-name="tabii spor 5 fhd [sadece tr izlenir]" tvg-logo="" group-title="SUN-X",Tabii Spor 5 FHD [Sadece TR izlenir]
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321643.ts
-#EXTINF:-1 tvg-name="tabii spor 6 hd" tvg-logo="https://i.hizliresim.com/qhniszr.png" group-title="SUN-X",Tabii Spor 6 HD
+#EXTINF:-1 tvg-name="tabii spor 6 hd" tvg-logo="" group-title="SUN-X",Tabii Spor 6 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293312.ts
-#EXTINF:-1 tvg-name="tabii spor 6 fhd" tvg-logo="https://i.hizliresim.com/qhniszr.png" group-title="SUN-X",Tabii Spor 6 FHD
+#EXTINF:-1 tvg-name="tabii spor 6 fhd" tvg-logo="" group-title="SUN-X",Tabii Spor 6 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293313.ts
-#EXTINF:-1 tvg-name="tabii tv" tvg-logo="https://i.hizliresim.com/sz3c49o.png" group-title="SUN-X",TABII TV
+#EXTINF:-1 tvg-name="tabii tv" tvg-logo="" group-title="SUN-X",TABII TV
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/318592.ts
-#EXTINF:-1 tvg-name="tabii spor 6 fhd [sadece tr izlenir]" tvg-logo="https://i.hizliresim.com/qhniszr.png" group-title="SUN-X",Tabii Spor 6 FHD [Sadece TR izlenir]
+#EXTINF:-1 tvg-name="tabii spor 6 fhd [sadece tr izlenir]" tvg-logo="" group-title="SUN-X",Tabii Spor 6 FHD [Sadece TR izlenir]
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321644.ts
-#EXTINF:-1 tvg-name="exxen tv [ fhd ]" tvg-logo="https://i.hizliresim.com/9s613t9.png" group-title="SUN-X",Exxen TV [ FHD ]
+#EXTINF:-1 tvg-name="exxen tv [ fhd ]" tvg-logo="" group-title="SUN-X",Exxen TV [ FHD ]
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/291106.ts
-#EXTINF:-1 tvg-name="exxen spor 1 hd" tvg-logo="https://i.hizliresim.com/9s613t9.png" group-title="SUN-X",Exxen Spor 1 Hd
+#EXTINF:-1 tvg-name="exxen spor 1 hd" tvg-logo="" group-title="SUN-X",Exxen Spor 1 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/146404.ts
-#EXTINF:-1 tvg-name="exxen spor 1 fhd" tvg-logo="https://i.hizliresim.com/9s613t9.png" group-title="SUN-X",Exxen Spor 1 FHD
+#EXTINF:-1 tvg-name="exxen spor 1 fhd" tvg-logo="" group-title="SUN-X",Exxen Spor 1 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245548.ts
-#EXTINF:-1 tvg-name="exxen spor 1 [ raw ]" tvg-logo="https://i.hizliresim.com/9s613t9.png" group-title="SUN-X",Exxen Spor 1 [ RAW ]
+#EXTINF:-1 tvg-name="exxen spor 1 [ raw ]" tvg-logo="" group-title="SUN-X",Exxen Spor 1 [ RAW ]
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245555.ts
-#EXTINF:-1 tvg-name="exxen spor 2 hd" tvg-logo="https://i.hizliresim.com/9s613t9.png" group-title="SUN-X",Exxen Spor 2 Hd
+#EXTINF:-1 tvg-name="exxen spor 2 hd" tvg-logo="" group-title="SUN-X",Exxen Spor 2 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/143250.ts
-#EXTINF:-1 tvg-name="exxen spor 2 fhd" tvg-logo="https://i.hizliresim.com/9s613t9.png" group-title="SUN-X",Exxen Spor 2 FHD
+#EXTINF:-1 tvg-name="exxen spor 2 fhd" tvg-logo="" group-title="SUN-X",Exxen Spor 2 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245549.ts
-#EXTINF:-1 tvg-name="exxen spor 3 hd" tvg-logo="https://i.hizliresim.com/9s613t9.png" group-title="SUN-X",Exxen Spor 3 Hd
+#EXTINF:-1 tvg-name="exxen spor 3 hd" tvg-logo="" group-title="SUN-X",Exxen Spor 3 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/143251.ts
-#EXTINF:-1 tvg-name="exxen spor 3 fhd" tvg-logo="https://i.hizliresim.com/9s613t9.png" group-title="SUN-X",Exxen Spor 3 FHD
+#EXTINF:-1 tvg-name="exxen spor 3 fhd" tvg-logo="" group-title="SUN-X",Exxen Spor 3 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245550.ts
-#EXTINF:-1 tvg-name="exxen spor 4 hd" tvg-logo="https://i.hizliresim.com/9s613t9.png" group-title="SUN-X",Exxen Spor 4 Hd
+#EXTINF:-1 tvg-name="exxen spor 4 hd" tvg-logo="" group-title="SUN-X",Exxen Spor 4 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/146209.ts
-#EXTINF:-1 tvg-name="exxen spor 4 fhd" tvg-logo="https://i.hizliresim.com/9s613t9.png" group-title="SUN-X",Exxen Spor 4 FHD
+#EXTINF:-1 tvg-name="exxen spor 4 fhd" tvg-logo="" group-title="SUN-X",Exxen Spor 4 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245551.ts
-#EXTINF:-1 tvg-name="exxen spor 5 hd" tvg-logo="https://i.hizliresim.com/9s613t9.png" group-title="SUN-X",Exxen Spor 5 Hd
+#EXTINF:-1 tvg-name="exxen spor 5 hd" tvg-logo="" group-title="SUN-X",Exxen Spor 5 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/148399.ts
-#EXTINF:-1 tvg-name="exxen spor 5 fhd" tvg-logo="https://i.hizliresim.com/9s613t9.png" group-title="SUN-X",Exxen Spor 5 FHD
+#EXTINF:-1 tvg-name="exxen spor 5 fhd" tvg-logo="" group-title="SUN-X",Exxen Spor 5 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245552.ts
-#EXTINF:-1 tvg-name="exxen spor 6 hd" tvg-logo="https://i.hizliresim.com/9s613t9.png" group-title="SUN-X",Exxen Spor 6 Hd
+#EXTINF:-1 tvg-name="exxen spor 6 hd" tvg-logo="" group-title="SUN-X",Exxen Spor 6 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/148400.ts
-#EXTINF:-1 tvg-name="exxen spor 6 fhd" tvg-logo="https://i.hizliresim.com/9s613t9.png" group-title="SUN-X",Exxen Spor 6 FHD
+#EXTINF:-1 tvg-name="exxen spor 6 fhd" tvg-logo="" group-title="SUN-X",Exxen Spor 6 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245553.ts
