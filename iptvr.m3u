@@ -1,121 +1,121 @@
 #EXTM3U
 #EXTINF:-1,TR/ Duyurular
 http://aybytv.xyz:8080/bnt1301/bnt1301/183792
-#EXTINF:-1,beIN SPORTS (TTNET ÖZEL)
-http://aybytv.xyz:8080/bnt1301/bnt1301/334642
-#EXTINF:-1,beIN SPORTS (480p)
-http://aybytv.xyz:8080/bnt1301/bnt1301/35762
-#EXTINF:-1,beIN SPORTS (720p)
-http://aybytv.xyz:8080/bnt1301/bnt1301/351541
-#EXTINF:-1,beIN SPORTS (VIP)
-http://aybytv.xyz:8080/bnt1301/bnt1301/98925
-#EXTINF:-1,beIN SPORTS
-http://aybytv.xyz:8080/bnt1301/bnt1301/126272
-#EXTINF:-1,beIN SPORTS (H265)
-http://aybytv.xyz:8080/bnt1301/bnt1301/190072
-#EXTINF:-1,beIN SPORTS 4K (Feed)
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS 4K (Feed)
 http://aybytv.xyz:8080/bnt1301/bnt1301/35650
-#EXTINF:-1,beIN SPORTS 8K (Feed)
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS 8K (Feed)
 http://aybytv.xyz:8080/bnt1301/bnt1301/191152
-#EXTINF:-1,beIN SPORTS (Kutu)
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS (H265)
+http://aybytv.xyz:8080/bnt1301/bnt1301/190072
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS (Kutu)
 http://aybytv.xyz:8080/bnt1301/bnt1301/456568
-#EXTINF:-1,beIN SPORTS (Box)
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS (Box)
 http://aybytv.xyz:8080/bnt1301/bnt1301/456567
-#EXTINF:-1,beIN SPORTS 2
-http://aybytv.xyz:8080/bnt1301/bnt1301/196216
-#EXTINF:-1,beIN SPORTS 2
-http://aybytv.xyz:8080/bnt1301/bnt1301/35730
-#EXTINF:-1,beIN SPORTS 2
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS (VIP)
+http://aybytv.xyz:8080/bnt1301/bnt1301/98925
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS (720p)
+http://aybytv.xyz:8080/bnt1301/bnt1301/351541
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS
+http://aybytv.xyz:8080/bnt1301/bnt1301/126272
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS (TTNET ÖZEL)
+http://aybytv.xyz:8080/bnt1301/bnt1301/334642
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS (480p)
+http://aybytv.xyz:8080/bnt1301/bnt1301/35762
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/195811
-#EXTINF:-1,beIN SPORTS 3
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS 2
+http://aybytv.xyz:8080/bnt1301/bnt1301/196216
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS 2
+http://aybytv.xyz:8080/bnt1301/bnt1301/35730
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS 3
 http://aybytv.xyz:8080/bnt1301/bnt1301/196217
-#EXTINF:-1,beIN SPORTS 3
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS 3
 http://aybytv.xyz:8080/bnt1301/bnt1301/6097
-#EXTINF:-1,beIN SPORTS 3
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS 3
 http://aybytv.xyz:8080/bnt1301/bnt1301/195812
-#EXTINF:-1,beIN SPORTS 4
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS 4
 http://aybytv.xyz:8080/bnt1301/bnt1301/196218
-#EXTINF:-1,beIN SPORTS 4
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS 4
 http://aybytv.xyz:8080/bnt1301/bnt1301/6098
-#EXTINF:-1,beIN SPORTS 4
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS 4
 http://aybytv.xyz:8080/bnt1301/bnt1301/195813
-#EXTINF:-1,beIN SPORTS 5
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS 5
 http://aybytv.xyz:8080/bnt1301/bnt1301/125936
-#EXTINF:-1,beIN SPORTS Max
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS Max
 http://aybytv.xyz:8080/bnt1301/bnt1301/6099
-#EXTINF:-1,beIN SPORTS Max 2
+#EXTINF:-1, group-title="1-beIN",beIN SPORTS Max 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/6100
-#EXTINF:-1,beIN Connect 1 (Mac Saati)
+#EXTINF:-1, group-title="1-beIN",beIN Connect 1 (Mac Saati)
 http://aybytv.xyz:8080/bnt1301/bnt1301/137710
-#EXTINF:-1,beIN Connect 2 (Mac Saati)
+#EXTINF:-1, group-title="1-beIN",beIN Connect 2 (Mac Saati)
 http://aybytv.xyz:8080/bnt1301/bnt1301/137711
-#EXTINF:-1,beIN Connect 3 (Mac Saati)
+#EXTINF:-1, group-title="1-beIN",beIN Connect 3 (Mac Saati)
 http://aybytv.xyz:8080/bnt1301/bnt1301/137712
-#EXTINF:-1,Spor Smart
+#EXTINF:-1, group-title="2-SPOR",Spor Smart
 http://aybytv.xyz:8080/bnt1301/bnt1301/121246
-#EXTINF:-1,Spor Smart 2
+#EXTINF:-1, group-title="2-SPOR",Spor Smart 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/113272
-#EXTINF:-1,Eurosport
+#EXTINF:-1, group-title="2-SPOR",Eurosport
 http://aybytv.xyz:8080/bnt1301/bnt1301/6106
-#EXTINF:-1,Eurosport 2
+#EXTINF:-1, group-title="2-SPOR",Eurosport 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/6107
-#EXTINF:-1,S SPORT
+#EXTINF:-1, group-title="2-SPOR",S SPORT
 http://aybytv.xyz:8080/bnt1301/bnt1301/115598
-#EXTINF:-1,S SPORT 2
+#EXTINF:-1, group-title="2-SPOR",S SPORT 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/6105
-#EXTINF:-1,S SPORT+1 (Mac Saati)
+#EXTINF:-1, group-title="2-SPOR",S SPORT+1 (Mac Saati)
 http://aybytv.xyz:8080/bnt1301/bnt1301/137713
-#EXTINF:-1,S SPORT+2 (Mac Saati)
+#EXTINF:-1, group-title="2-SPOR",S SPORT+2 (Mac Saati)
 http://aybytv.xyz:8080/bnt1301/bnt1301/137714
-#EXTINF:-1,S SPORT+3 (Mac Saati)
+#EXTINF:-1, group-title="2-SPOR",S SPORT+3 (Mac Saati)
 http://aybytv.xyz:8080/bnt1301/bnt1301/137715
-#EXTINF:-1,S SPORT+4 (Mac Saati)
+#EXTINF:-1, group-title="2-SPOR",S SPORT+4 (Mac Saati)
 http://aybytv.xyz:8080/bnt1301/bnt1301/137716
-#EXTINF:-1,S SPORT+5 (Mac Saati)
+#EXTINF:-1, group-title="2-SPOR",S SPORT+5 (Mac Saati)
 http://aybytv.xyz:8080/bnt1301/bnt1301/137717
-#EXTINF:-1,TİVİBU SPOR
+#EXTINF:-1, group-title="2-SPOR",TİVİBU SPOR
 http://aybytv.xyz:8080/bnt1301/bnt1301/6101
-#EXTINF:-1,TİVİBU SPOR 1
+#EXTINF:-1, group-title="2-SPOR",TİVİBU SPOR 1
 http://aybytv.xyz:8080/bnt1301/bnt1301/6102
-#EXTINF:-1,TİVİBU SPOR 2
+#EXTINF:-1, group-title="2-SPOR",TİVİBU SPOR 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/6103
-#EXTINF:-1,TİVİBU SPOR 3
+#EXTINF:-1, group-title="2-SPOR",TİVİBU SPOR 3
 http://aybytv.xyz:8080/bnt1301/bnt1301/113254
-#EXTINF:-1,TİVİBU SPOR 4
+#EXTINF:-1, group-title="2-SPOR",TİVİBU SPOR 4
 http://aybytv.xyz:8080/bnt1301/bnt1301/115600
-#EXTINF:-1,Exxen Spor
+#EXTINF:-1, group-title="2-SPOR",Exxen Spor
 http://aybytv.xyz:8080/bnt1301/bnt1301/453643
-#EXTINF:-1,Exxen Spor
+#EXTINF:-1, group-title="2-SPOR",Exxen Spor
 http://aybytv.xyz:8080/bnt1301/bnt1301/452750
-#EXTINF:-1,Exxen Spor 2
+#EXTINF:-1, group-title="2-SPOR",Exxen Spor 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/452752
-#EXTINF:-1,Exxen Spor 3
+#EXTINF:-1, group-title="2-SPOR",Exxen Spor 3
 http://aybytv.xyz:8080/bnt1301/bnt1301/452753
-#EXTINF:-1,Exxen Spor 4
+#EXTINF:-1, group-title="2-SPOR",Exxen Spor 4
 http://aybytv.xyz:8080/bnt1301/bnt1301/452754
-#EXTINF:-1,Exxen Spor 5
+#EXTINF:-1, group-title="2-SPOR",Exxen Spor 5
 http://aybytv.xyz:8080/bnt1301/bnt1301/452755
-#EXTINF:-1,Tabii Spor
+#EXTINF:-1, group-title="2-SPOR",Tabii Spor
 http://aybytv.xyz:8080/bnt1301/bnt1301/454312
-#EXTINF:-1,Tabii Spor 1
+#EXTINF:-1, group-title="2-SPOR",Tabii Spor 1
 http://aybytv.xyz:8080/bnt1301/bnt1301/454316
-#EXTINF:-1,Tabii Spor 3
+#EXTINF:-1, group-title="2-SPOR",Tabii Spor 3
 http://aybytv.xyz:8080/bnt1301/bnt1301/454318
-#EXTINF:-1,Tabii Spor 4
+#EXTINF:-1, group-title="2-SPOR",Tabii Spor 4
 http://aybytv.xyz:8080/bnt1301/bnt1301/454322
-#EXTINF:-1,Tabii Spor 6
+#EXTINF:-1, group-title="2-SPOR",Tabii Spor 6
 http://aybytv.xyz:8080/bnt1301/bnt1301/454320
-#EXTINF:-1,Tabii Spor X
+#EXTINF:-1, group-title="2-SPOR",Tabii Spor X
 http://aybytv.xyz:8080/bnt1301/bnt1301/454324
-#EXTINF:-1,TRT Spor
+#EXTINF:-1, group-title="2-SPOR",TRT Spor
 http://aybytv.xyz:8080/bnt1301/bnt1301/6109
-#EXTINF:-1,TRT Spor Yıldız
+#EXTINF:-1, group-title="2-SPOR",TRT Spor Yıldız
 http://aybytv.xyz:8080/bnt1301/bnt1301/353402
-#EXTINF:-1,NBA TV
+#EXTINF:-1, group-title="2-SPOR",NBA TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/6111
-#EXTINF:-1,A Spor
+#EXTINF:-1, group-title="2-SPOR",A Spor
 http://aybytv.xyz:8080/bnt1301/bnt1301/6113
-#EXTINF:-1,FB TV
+#EXTINF:-1, group-title="2-SPOR",FB TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/6114
 #EXTINF:-1,TAY TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/6116
@@ -123,63 +123,63 @@ http://aybytv.xyz:8080/bnt1301/bnt1301/6116
 http://aybytv.xyz:8080/bnt1301/bnt1301/6117
 #EXTINF:-1,Max Fight TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/371591
-#EXTINF:-1,SPORTS TV
+#EXTINF:-1, group-title="2-SPOR",SPORTS TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/20772
-#EXTINF:-1,NAT GEO HD TR
+#EXTINF:-1, group-title="BELGESEL",NAT GEO HD TR
 http://aybytv.xyz:8080/bnt1301/bnt1301/6286
-#EXTINF:-1,National Geographic Wild
+#EXTINF:-1, group-title="BELGESEL",National Geographic Wild
 http://aybytv.xyz:8080/bnt1301/bnt1301/6287
-#EXTINF:-1,Discovery
+#EXTINF:-1, group-title="BELGESEL",Discovery
 http://aybytv.xyz:8080/bnt1301/bnt1301/6289
-#EXTINF:-1,ID
+#EXTINF:-1, group-title="BELGESEL",ID
 http://aybytv.xyz:8080/bnt1301/bnt1301/6290
-#EXTINF:-1,Hazine TV
+#EXTINF:-1, group-title="BELGESEL",Hazine TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/451019
-#EXTINF:-1,Love TV
+#EXTINF:-1, group-title="BELGESEL",Love TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/192797
-#EXTINF:-1,Balık Tv
+#EXTINF:-1, group-title="BELGESEL",Balık Tv
 http://aybytv.xyz:8080/bnt1301/bnt1301/189003
-#EXTINF:-1,Relax Belgesel TV
+#EXTINF:-1, group-title="BELGESEL",Relax Belgesel TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/451573
-#EXTINF:-1,Relax Nature TV
+#EXTINF:-1, group-title="BELGESEL",Relax Nature TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/113484
-#EXTINF:-1,Relax Tadilat TV
+#EXTINF:-1, group-title="BELGESEL",Relax Tadilat TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/47476
-#EXTINF:-1,Doğadan TV
+#EXTINF:-1, group-title="BELGESEL",Doğadan TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/114704
-#EXTINF:-1,Define TV
+#EXTINF:-1, group-title="BELGESEL",Define TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/47809
 #EXTINF:-1,Da Vinci Learning
 http://aybytv.xyz:8080/bnt1301/bnt1301/6293
-#EXTINF:-1,BBC Earth
+#EXTINF:-1, group-title="BELGESEL",BBC Earth
 http://aybytv.xyz:8080/bnt1301/bnt1301/6294
-#EXTINF:-1,Animaux
+#EXTINF:-1, group-title="BELGESEL",Animaux
 http://aybytv.xyz:8080/bnt1301/bnt1301/6297
-#EXTINF:-1,beIN İZ
+#EXTINF:-1, group-title="BELGESEL",beIN IZ
 http://aybytv.xyz:8080/bnt1301/bnt1301/105919
-#EXTINF:-1,beIN Gurme
-http://aybytv.xyz:8080/bnt1301/bnt1301/6302
-#EXTINF:-1,History Channel
+#EXTINF:-1, group-title="BELGESEL",beIN Gurme
+http://aybytv.xyz:8080/bnt1301/bnt1301/6302
+#EXTINF:-1, group-title="BELGESEL",History Channel
 http://aybytv.xyz:8080/bnt1301/bnt1301/12822
-#EXTINF:-1,Viasat History
+#EXTINF:-1, group-title="BELGESEL",Viasat History
 http://aybytv.xyz:8080/bnt1301/bnt1301/110174
 #EXTINF:-1,Fashion TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/35997
-#EXTINF:-1,Love Nature
+#EXTINF:-1, group-title="BELGESEL",Love Nature
 http://aybytv.xyz:8080/bnt1301/bnt1301/22098
-#EXTINF:-1,DMAX
+#EXTINF:-1, group-title="BELGESEL",DMAX
 http://aybytv.xyz:8080/bnt1301/bnt1301/6296
-#EXTINF:-1,TRT Belgesel
+#EXTINF:-1, group-title="BELGESEL",TRT Belgesel
 http://aybytv.xyz:8080/bnt1301/bnt1301/13286
-#EXTINF:-1,TLC
+#EXTINF:-1, group-title="BELGESEL",TLC
 http://aybytv.xyz:8080/bnt1301/bnt1301/35593
-#EXTINF:-1,Life After TV
+#EXTINF:-1, group-title="BELGESEL",Life After TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/96755
-#EXTINF:-1,Sea Nat TV
+#EXTINF:-1, group-title="BELGESEL",Sea Nat TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/96756
-#EXTINF:-1,Tekno Belgesel TV
+#EXTINF:-1, group-title="BELGESEL",Tekno Belgesel TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/97247
-#EXTINF:-1,HABİTAT TV
+#EXTINF:-1, group-title="BELGESEL",HABİTAT TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/103303
 #EXTINF:-1,Relax Terapi TV 1
 http://aybytv.xyz:8080/bnt1301/bnt1301/192716
@@ -200,7 +200,7 @@ http://aybytv.xyz:8080/bnt1301/bnt1301/192723
 #EXTINF:-1,Relax Terapi TV 9
 http://aybytv.xyz:8080/bnt1301/bnt1301/192724
 #EXTINF:-1,Relax Terapi TV 10
-http://aybytv.xyz:8080/bnt1301/bnt1301/192725
+http://aybytv.xyz:8080/bnt1301/bnt1301/192725
 #EXTINF:-1,TRT 1
 http://aybytv.xyz:8080/bnt1301/bnt1301/358053
 #EXTINF:-1,TRT 2
@@ -208,7 +208,7 @@ http://aybytv.xyz:8080/bnt1301/bnt1301/186242
 #EXTINF:-1,NOW
 http://aybytv.xyz:8080/bnt1301/bnt1301/358052
 #EXTINF:-1,ATV
-http://aybytv.xyz:8080/bnt1301/bnt1301/192065
+http://aybytv.xyz:8080/bnt1301/bnt1301/192065
 #EXTINF:-1,Kanal D
 http://aybytv.xyz:8080/bnt1301/bnt1301/192068
 #EXTINF:-1,Star
@@ -228,7 +228,7 @@ http://aybytv.xyz:8080/bnt1301/bnt1301/6277
 #EXTINF:-1,Kanal 7
 http://aybytv.xyz:8080/bnt1301/bnt1301/6278
 #EXTINF:-1,Ülke TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/20814
+http://aybytv.xyz:8080/bnt1301/bnt1301/20814
 #EXTINF:-1,TRT Haber
 http://aybytv.xyz:8080/bnt1301/bnt1301/6208
 #EXTINF:-1,A Haber
@@ -269,87 +269,87 @@ http://aybytv.xyz:8080/bnt1301/bnt1301/6214
 http://aybytv.xyz:8080/bnt1301/bnt1301/20486
 #EXTINF:-1,Bengü Türk
 http://aybytv.xyz:8080/bnt1301/bnt1301/20811
-#EXTINF:-1,beIN Box Office 1
+#EXTINF:-1, group-title="SİNEMA",beIN Box Office 1
 http://aybytv.xyz:8080/bnt1301/bnt1301/6195
-#EXTINF:-1,beIN Box Office 2
+#EXTINF:-1, group-title="SİNEMA",beIN Box Office 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/6196
-#EXTINF:-1,beIN Box Office 3
+#EXTINF:-1, group-title="SİNEMA",beIN Box Office 3
 http://aybytv.xyz:8080/bnt1301/bnt1301/6197
-#EXTINF:-1,beIN Movies Action
+#EXTINF:-1, group-title="SİNEMA",beIN Movies Action
 http://aybytv.xyz:8080/bnt1301/bnt1301/6198
-#EXTINF:-1,beIN Movies Action 2
+#EXTINF:-1, group-title="SİNEMA",beIN Movies Action 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/6199
-#EXTINF:-1,beIN Movies Premiere
+#EXTINF:-1, group-title="SİNEMA",beIN Movies Premiere
 http://aybytv.xyz:8080/bnt1301/bnt1301/6200
-#EXTINF:-1,beIN Movies Premiere 2
+#EXTINF:-1, group-title="SİNEMA",beIN Movies Premiere 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/6201
-#EXTINF:-1,beIN Movies Turk
+#EXTINF:-1, group-title="SİNEMA",beIN Movies Turk
 http://aybytv.xyz:8080/bnt1301/bnt1301/6202
-#EXTINF:-1,beIN Movies Family
+#EXTINF:-1, group-title="SİNEMA",beIN Movies Family
 http://aybytv.xyz:8080/bnt1301/bnt1301/6204
-#EXTINF:-1,beIN Series 2
+#EXTINF:-1, group-title="SİNEMA",beIN Series 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/457101
-#EXTINF:-1,beIN Series Vice
+#EXTINF:-1, group-title="SİNEMA",beIN Series Vice
 http://aybytv.xyz:8080/bnt1301/bnt1301/125800
-#EXTINF:-1,beIN Series Comedy
+#EXTINF:-1, group-title="SİNEMA",beIN Series Comedy
 http://aybytv.xyz:8080/bnt1301/bnt1301/6205
-#EXTINF:-1,beIN Series Drama
+#EXTINF:-1, group-title="SİNEMA",beIN Series Drama
 http://aybytv.xyz:8080/bnt1301/bnt1301/457102
-#EXTINF:-1,DiziSmart Premium
+#EXTINF:-1, group-title="SİNEMA",DiziSmart Premium
 http://aybytv.xyz:8080/bnt1301/bnt1301/192219
-#EXTINF:-1,Moviesmart Premium
+#EXTINF:-1, group-title="SİNEMA",Moviesmart Premium
 http://aybytv.xyz:8080/bnt1301/bnt1301/6183
-#EXTINF:-1,Moviesmart Türk
+#EXTINF:-1, group-title="SİNEMA",Moviesmart Türk
 http://aybytv.xyz:8080/bnt1301/bnt1301/6182
-#EXTINF:-1,Moviesmart Platin
+#EXTINF:-1, group-title="SİNEMA",Moviesmart Platin
 http://aybytv.xyz:8080/bnt1301/bnt1301/6184
-#EXTINF:-1,Moviesmart Classic
+#EXTINF:-1, group-title="SİNEMA",Moviesmart Classic
 http://aybytv.xyz:8080/bnt1301/bnt1301/6188
-#EXTINF:-1,Moviesmart Action
+#EXTINF:-1, group-title="SİNEMA",Moviesmart Action
 http://aybytv.xyz:8080/bnt1301/bnt1301/6190
-#EXTINF:-1,Sinema TV
+#EXTINF:-1, group-title="SİNEMA",Sinema TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/113291
-#EXTINF:-1,Sinema TV 2
+#EXTINF:-1, group-title="SİNEMA",Sinema TV 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/123920
-#EXTINF:-1,Sinema TV Aksiyon
+#EXTINF:-1, group-title="SİNEMA",Sinema TV Aksiyon
 http://aybytv.xyz:8080/bnt1301/bnt1301/113293
-#EXTINF:-1,Sinema TV 1001
+#EXTINF:-1, group-title="SİNEMA",Sinema TV 1001
 http://aybytv.xyz:8080/bnt1301/bnt1301/123921
-#EXTINF:-1,Sinema TV 1002
+#EXTINF:-1, group-title="SİNEMA",Sinema TV 1002
 http://aybytv.xyz:8080/bnt1301/bnt1301/123922
-#EXTINF:-1,Sinema TV Aile
+#EXTINF:-1, group-title="SİNEMA",Sinema TV Aile
 http://aybytv.xyz:8080/bnt1301/bnt1301/123923
-#EXTINF:-1,Sinema TV Comedy
+#EXTINF:-1, group-title="SİNEMA",Sinema TV Comedy
 http://aybytv.xyz:8080/bnt1301/bnt1301/123924
-#EXTINF:-1,Sinema TV Yerli
+#EXTINF:-1, group-title="SİNEMA",Sinema TV Yerli
 http://aybytv.xyz:8080/bnt1301/bnt1301/123925
-#EXTINF:-1,Kemal Sunal TV 1
+#EXTINF:-1, group-title="SİNEMA",Kemal Sunal TV 1
 http://aybytv.xyz:8080/bnt1301/bnt1301/6325
-#EXTINF:-1,Kemal Sunal TV 2
+#EXTINF:-1, group-title="SİNEMA",Kemal Sunal TV 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/101136
-#EXTINF:-1,Zeki Metin TV
+#EXTINF:-1, group-title="SİNEMA",Zeki Metin TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/6320
-#EXTINF:-1,Şener Şen TV
+#EXTINF:-1, group-title="SİNEMA",Şener Şen TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/23578
-#EXTINF:-1,Ibrahim Tatlıses TV
+#EXTINF:-1, group-title="SİNEMA",Ibrahim Tatlıses TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/6318
-#EXTINF:-1,Cüneyt Arkın TV
+#EXTINF:-1, group-title="SİNEMA",Cüneyt Arkın TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/23579
-#EXTINF:-1,Kadir Inanır TV
+#EXTINF:-1, group-title="SİNEMA",Kadir Inanır TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/23580
-#EXTINF:-1,Ferdi Tayfur TV
+#EXTINF:-1, group-title="SİNEMA",Ferdi Tayfur TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/24201
-#EXTINF:-1,Filiz Akın TV
+#EXTINF:-1, group-title="SİNEMA",Filiz Akın TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/48292
-#EXTINF:-1,Hülya Koçyiğit TV
+#EXTINF:-1, group-title="SİNEMA",Hülya Koçyiğit TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/48293
-#EXTINF:-1,Tarık Akan TV
+#EXTINF:-1, group-title="SİNEMA",Tarık Akan TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/48295
-#EXTINF:-1,Türkan Şoray TV
+#EXTINF:-1, group-title="SİNEMA",Türkan Şoray TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/48296
-#EXTINF:-1,Orhan Gencebay TV
+#EXTINF:-1, group-title="SİNEMA",Orhan Gencebay TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/48297
-#EXTINF:-1,Müjde Ar TV
+#EXTINF:-1, group-title="SİNEMA",Müjde Ar TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/48401
 #EXTINF:-1,TRT Muzik
 http://aybytv.xyz:8080/bnt1301/bnt1301/61298
