@@ -15,7 +15,7 @@ http://aybytv.xyz:8080/bnt1301/bnt1301/98925
 http://aybytv.xyz:8080/bnt1301/bnt1301/351541
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS
 http://aybytv.xyz:8080/bnt1301/bnt1301/126272
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS (TTNET ÖZEL)
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS (TTNET OZEL)
 http://aybytv.xyz:8080/bnt1301/bnt1301/334642
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS (480p)
 http://aybytv.xyz:8080/bnt1301/bnt1301/35762
@@ -71,15 +71,15 @@ http://aybytv.xyz:8080/bnt1301/bnt1301/137715
 http://aybytv.xyz:8080/bnt1301/bnt1301/137716
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",S SPORT+5 (Mac Saati)
 http://aybytv.xyz:8080/bnt1301/bnt1301/137717
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",TİVİBU SPOR
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",TIVIBU SPOR
 http://aybytv.xyz:8080/bnt1301/bnt1301/6101
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",TİVİBU SPOR 1
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",TIVIBU SPOR 1
 http://aybytv.xyz:8080/bnt1301/bnt1301/6102
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",TİVİBU SPOR 2
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",TIVIBU SPOR 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/6103
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",TİVİBU SPOR 3
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",TIVIBU SPOR 3
 http://aybytv.xyz:8080/bnt1301/bnt1301/113254
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",TİVİBU SPOR 4
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",TIVIBU SPOR 4
 http://aybytv.xyz:8080/bnt1301/bnt1301/115600
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Exxen Spor
 http://aybytv.xyz:8080/bnt1301/bnt1301/453643
@@ -167,7 +167,7 @@ http://aybytv.xyz:8080/bnt1301/bnt1301/96755
 http://aybytv.xyz:8080/bnt1301/bnt1301/96756
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Tekno Belgesel TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/97247
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",HABİTAT TV
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",HABITAT TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/103303
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN Box Office 1
 http://aybytv.xyz:8080/bnt1301/bnt1301/6195
@@ -529,19 +529,19 @@ http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3947.ts
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3946.ts
 #EXTINF:-1 tvg-name="FB TV HD" tvg-logo="" group-title="XC1",FB TV HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1207.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 hd [ vip ]" tvg-logo="" group-title="SUN-X",beIN Sports 1 HD [ VIP ]
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 hd ( vip )" tvg-logo="" group-title="SUN-X",beIN Sports 1 HD ( VIP )
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/315720.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 [hd]" tvg-logo="" group-title="SUN-X",BeIN Sports 1 [HD]
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 (hd)" tvg-logo="" group-title="SUN-X",BeIN Sports 1 (HD)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/311552.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 sd [ mobile ]" tvg-logo="" group-title="SUN-X",BeIN Sports 1 SD [ Mobile ]
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 sd ( mobile )" tvg-logo="" group-title="SUN-X",BeIN Sports 1 SD ( Mobile )
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/7042.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 [ fhd ]" tvg-logo="" group-title="SUN-X",BeIN Sports 1 [ FHD ]
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 ( fhd )" tvg-logo="" group-title="SUN-X",BeIN Sports 1 ( FHD )
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/52977.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 [ 4k ]" tvg-logo="" group-title="SUN-X",BeIN Sports 1 [ 4K ]
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 ( 4k )" tvg-logo="" group-title="SUN-X",BeIN Sports 1 ( 4K )
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/58659.ts
 #EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="bein sports 2 hd" tvg-logo="" group-title="SUN-X",BeIN Sports 2 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/52980.ts
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="bein sports 2 [ fhd ]" tvg-logo="" group-title="SUN-X",BeIN Sports 2 [ FHD ]
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="bein sports 2 ( fhd )" tvg-logo="" group-title="SUN-X",BeIN Sports 2 ( FHD )
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244703.ts
 #EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="bein sports 3 hd" tvg-logo="" group-title="SUN-X",BeIN Sports 3 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/52981.ts
@@ -605,7 +605,7 @@ http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/146415.ts
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/56226.ts
 #EXTINF:-1 tvg-name="d smart spor hd" tvg-logo="" group-title="SUN-X",D Smart Spor Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/44016.ts
-#EXTINF:-1 tvg-name="d smart spor [ raw ]" tvg-logo="" group-title="SUN-X",D Smart Spor [ RAW ]
+#EXTINF:-1 tvg-name="d smart spor ( raw )" tvg-logo="" group-title="SUN-X",D Smart Spor ( RAW )
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/284303.ts
 #EXTINF:-1 tvg-name="d smart spor 2 hd" tvg-logo="" group-title="SUN-X",D Smart Spor 2 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/100140.ts
@@ -639,37 +639,37 @@ http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/102443.ts
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/312379.ts
 #EXTINF:-1 tvg-name="tabii spor  fhd" tvg-logo="" group-title="SUN-X",Tabii Spor  FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/312380.ts
-#EXTINF:-1 tvg-name="tabii spor fhd [sadece tr izlenir]" tvg-logo="" group-title="SUN-X",Tabii Spor FHD [Sadece TR izlenir]
+#EXTINF:-1 tvg-name="tabii spor fhd (TR IP)" tvg-logo="" group-title="SUN-X",Tabii Spor FHD (TR IP)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321637.ts
 #EXTINF:-1 tvg-name="tabii spor 1 hd" tvg-logo="" group-title="SUN-X",Tabii Spor 1 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293302.ts
 #EXTINF:-1 tvg-name="tabii spor 1 fhd" tvg-logo="" group-title="SUN-X",Tabii Spor 1 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293303.ts
-#EXTINF:-1 tvg-name="tabii spor 1 fhd [sadece tr izlenir]" tvg-logo="" group-title="SUN-X",Tabii Spor 1 FHD [Sadece TR izlenir]
+#EXTINF:-1 tvg-name="tabii spor 1 fhd (TR IP)" tvg-logo="" group-title="SUN-X",Tabii Spor 1 FHD (TR IP)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321639.ts
 #EXTINF:-1 tvg-name="tabii spor 2 hd" tvg-logo="" group-title="SUN-X",Tabii Spor 2 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293304.ts
 #EXTINF:-1 tvg-name="tabii spor 2 fhd" tvg-logo="" group-title="SUN-X",Tabii Spor 2 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293305.ts
-#EXTINF:-1 tvg-name="tabii spor 2 fhd [sadece tr izlenir]" tvg-logo="" group-title="SUN-X",Tabii Spor 2 FHD [Sadece TR izlenir]
+#EXTINF:-1 tvg-name="tabii spor 2 fhd (TR IP)" tvg-logo="" group-title="SUN-X",Tabii Spor 2 FHD (TR IP)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321640.ts
 #EXTINF:-1 tvg-name="tabii spor 3 hd" tvg-logo="" group-title="SUN-X",Tabii Spor 3 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293306.ts
 #EXTINF:-1 tvg-name="tabii spor 3 fhd" tvg-logo="" group-title="SUN-X",Tabii Spor 3 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293307.ts
-#EXTINF:-1 tvg-name="tabii spor 3 fhd [sadece tr izlenir]" tvg-logo="" group-title="SUN-X",Tabii Spor 3 FHD [Sadece TR izlenir]
+#EXTINF:-1 tvg-name="tabii spor 3 fhd (TR IP)" tvg-logo="" group-title="SUN-X",Tabii Spor 3 FHD (TR IP)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321641.ts
 #EXTINF:-1 tvg-name="tabii spor 4 hd" tvg-logo="" group-title="SUN-X",Tabii Spor 4 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293308.ts
 #EXTINF:-1 tvg-name="tabii spor 4 fhd" tvg-logo="" group-title="SUN-X",Tabii Spor 4 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293309.ts
-#EXTINF:-1 tvg-name="tabii spor 4 fhd [sadece tr izlenir]" tvg-logo="" group-title="SUN-X",Tabii Spor 4 FHD [Sadece TR izlenir]
+#EXTINF:-1 tvg-name="tabii spor 4 fhd (TR IP)" tvg-logo="" group-title="SUN-X",Tabii Spor 4 FHD (TR IP)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321642.ts
 #EXTINF:-1 tvg-name="tabii spor 5 hd" tvg-logo="" group-title="SUN-X",Tabii Spor 5 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293310.ts
 #EXTINF:-1 tvg-name="tabii spor 5 fhd" tvg-logo="" group-title="SUN-X",Tabii Spor 5 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293311.ts
-#EXTINF:-1 tvg-name="tabii spor 5 fhd [sadece tr izlenir]" tvg-logo="" group-title="SUN-X",Tabii Spor 5 FHD [Sadece TR izlenir]
+#EXTINF:-1 tvg-name="tabii spor 5 fhd (TR IP)" tvg-logo="" group-title="SUN-X",Tabii Spor 5 FHD (TR IP)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321643.ts
 #EXTINF:-1 tvg-name="tabii spor 6 hd" tvg-logo="" group-title="SUN-X",Tabii Spor 6 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293312.ts
@@ -677,15 +677,15 @@ http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293312.ts
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293313.ts
 #EXTINF:-1 tvg-name="tabii tv" tvg-logo="" group-title="SUN-X",TABII TV
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/318592.ts
-#EXTINF:-1 tvg-name="tabii spor 6 fhd [sadece tr izlenir]" tvg-logo="" group-title="SUN-X",Tabii Spor 6 FHD [Sadece TR izlenir]
+#EXTINF:-1 tvg-name="tabii spor 6 fhd (TR IP)" tvg-logo="" group-title="SUN-X",Tabii Spor 6 FHD (TR IP)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321644.ts
-#EXTINF:-1 tvg-name="exxen tv [ fhd ]" tvg-logo="" group-title="SUN-X",Exxen TV [ FHD ]
+#EXTINF:-1 tvg-name="exxen tv ( fhd )" tvg-logo="" group-title="SUN-X",Exxen TV ( FHD )
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/291106.ts
 #EXTINF:-1 tvg-name="exxen spor 1 hd" tvg-logo="" group-title="SUN-X",Exxen Spor 1 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/146404.ts
 #EXTINF:-1 tvg-name="exxen spor 1 fhd" tvg-logo="" group-title="SUN-X",Exxen Spor 1 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245548.ts
-#EXTINF:-1 tvg-name="exxen spor 1 [ raw ]" tvg-logo="" group-title="SUN-X",Exxen Spor 1 [ RAW ]
+#EXTINF:-1 tvg-name="exxen spor 1 ( raw )" tvg-logo="" group-title="SUN-X",Exxen Spor 1 ( RAW )
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245555.ts
 #EXTINF:-1 tvg-name="exxen spor 2 hd" tvg-logo="" group-title="SUN-X",Exxen Spor 2 Hd
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/143250.ts
@@ -707,47 +707,47 @@ http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245552.ts
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/148400.ts
 #EXTINF:-1 tvg-name="exxen spor 6 fhd" tvg-logo="" group-title="SUN-X",Exxen Spor 6 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245553.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 " tvg-logo="" group-title="KASDK",beIN SPORTS
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1" tvg-logo="" group-title="KASDK",beIN SPORTS
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102284
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="bein sports 2 " tvg-logo="" group-title="KASDK",beIN SPORTS 2 
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="bein sports 2" tvg-logo="" group-title="KASDK",beIN SPORTS 2 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102285
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="bein sports 3 " tvg-logo="" group-title="KASDK",beIN SPORTS 3 
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="bein sports 3" tvg-logo="" group-title="KASDK",beIN SPORTS 3 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102286
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="bein sports 4 " tvg-logo="" group-title="KASDK",beIN SPORTS 4 
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="bein sports 4" tvg-logo="" group-title="KASDK",beIN SPORTS 4 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102287
-#EXTINF:-1 tvg-id="beinsports5.tr" tvg-name="bein sports 5 " tvg-logo="" group-title="KASDK",beIN SPORTS 5 
+#EXTINF:-1 tvg-id="beinsports5.tr" tvg-name="bein sports 5" tvg-logo="" group-title="KASDK",beIN SPORTS 5 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102288
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="bein sports max 1 " tvg-logo="" group-title="KASDK",beIN SPORTS Max
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="bein sports max 1" tvg-logo="" group-title="KASDK",beIN SPORTS Max
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102289
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="bein sports max 2 " tvg-logo="" group-title="KASDK",beIN SPORTS Max 2 
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="bein sports max 2" tvg-logo="" group-title="KASDK",beIN SPORTS Max 2 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102290
-#EXTINF:-1 tvg-id="ssport.tr" tvg-name="s sports 1 " tvg-logo="" group-title="KASDK",S SPORT
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="s sports 1" tvg-logo="" group-title="KASDK",S SPORT
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102291
-#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="s sports 2 " tvg-logo="" group-title="KASDK",S SPORT 2 
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="s sports 2" tvg-logo="" group-title="KASDK",S SPORT 2 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102292
-#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="smart spor 1 " tvg-logo="" group-title="KASDK",SPOR SMART
+#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="smart spor 1" tvg-logo="" group-title="KASDK",SPOR SMART
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102300
-#EXTINF:-1 tvg-name="smart spor 2 " tvg-logo="" group-title="KASDK",SPOR SMART
+#EXTINF:-1 tvg-name="smart spor 2" tvg-logo="" group-title="KASDK",SPOR SMART
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102301
-#EXTINF:-1 tvg-name="Tabii Spor " group-title="KASDK",Tabii Spor 
+#EXTINF:-1 tvg-name="Tabii Spor" group-title="KASDK",Tabii Spor 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102293
-#EXTINF:-1 tvg-name="Tabii Spor 1 " group-title="KASDK",Tabii Spor 1 
+#EXTINF:-1 tvg-name="Tabii Spor 1" group-title="KASDK",Tabii Spor 1 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102294
-#EXTINF:-1 tvg-name="Tabii Spor 2 " group-title="KASDK",Tabii Spor 2 
+#EXTINF:-1 tvg-name="Tabii Spor 2" group-title="KASDK",Tabii Spor 2 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102295
-#EXTINF:-1 tvg-name="Tabii Spor 3 " group-title="KASDK",Tabii Spor 3 
+#EXTINF:-1 tvg-name="Tabii Spor 3" group-title="KASDK",Tabii Spor 3 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102296
-#EXTINF:-1 tvg-name="Tabii Spor 4 " group-title="KASDK",Tabii Spor 4 
+#EXTINF:-1 tvg-name="Tabii Spor 4" group-title="KASDK",Tabii Spor 4 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102297
-#EXTINF:-1 tvg-name="Tabii Spor 5 " group-title="KASDK",Tabii Spor 5 
+#EXTINF:-1 tvg-name="Tabii Spor 5" group-title="KASDK",Tabii Spor 5 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102298
-#EXTINF:-1 tvg-name="Tabii Spor 6 " group-title="KASDK",Tabii Spor 6 
+#EXTINF:-1 tvg-name="Tabii Spor 6" group-title="KASDK",Tabii Spor 6 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102299
-#EXTINF:-1 tvg-name="TİVİBU SPOR 1 " tvg-logo="" group-title="KASDK",TİVİBU SPOR 1 
+#EXTINF:-1 tvg-name="TIVIBU SPOR 1" tvg-logo="" group-title="KASDK",TIVIBU SPOR 1 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102302
-#EXTINF:-1 tvg-name="TİVİBU SPOR 2 " tvg-logo="" group-title="KASDK",TİVİBU SPOR 2
+#EXTINF:-1 tvg-name="TIVIBU SPOR 2" tvg-logo="" group-title="KASDK",TIVIBU SPOR 2
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102303
-#EXTINF:-1 tvg-name="TİVİBU SPOR 3 " tvg-logo="" group-title="KASDK",TİVİBU SPOR 3 
+#EXTINF:-1 tvg-name="TIVIBU SPOR 3" tvg-logo="" group-title="KASDK",TIVIBU SPOR 3 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102304
-#EXTINF:-1 tvg-name="TİVİBU SPOR 4 " tvg-logo="" group-title="KASDK",TİVİBU SPOR 4 
+#EXTINF:-1 tvg-name="TIVIBU SPOR 4" tvg-logo="" group-title="KASDK",TIVIBU SPOR 4 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102305
