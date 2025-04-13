@@ -707,3 +707,47 @@ http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245552.ts
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/148400.ts
 #EXTINF:-1 tvg-name="exxen spor 6 fhd" tvg-logo="" group-title="SUN-X",Exxen Spor 6 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245553.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="bein sports 1 " tvg-logo="" group-title="KASDK",beIN SPORTS
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102284
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="bein sports 2 " tvg-logo="" group-title="KASDK",beIN SPORTS 2 
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102285
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="bein sports 3 " tvg-logo="" group-title="KASDK",beIN SPORTS 3 
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102286
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="bein sports 4 " tvg-logo="" group-title="KASDK",beIN SPORTS 4 
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102287
+#EXTINF:-1 tvg-id="beinsports5.tr" tvg-name="bein sports 5 " tvg-logo="" group-title="KASDK",beIN SPORTS 5 
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102288
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="bein sports max 1 " tvg-logo="" group-title="KASDK",beIN SPORTS Max
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102289
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="bein sports max 2 " tvg-logo="" group-title="KASDK",beIN SPORTS Max 2 
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102290
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="s sports 1 " tvg-logo="" group-title="KASDK",S SPORT
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102291
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="s sports 2 " tvg-logo="" group-title="KASDK",S SPORT 2 
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102292
+#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="smart spor 1 " tvg-logo="" group-title="KASDK",SPOR SMART
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102300
+#EXTINF:-1 tvg-name="smart spor 2 " tvg-logo="" group-title="KASDK",SPOR SMART
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102301
+#EXTINF:-1 tvg-name="Tabii Spor " group-title="KASDK",Tabii Spor 
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102293
+#EXTINF:-1 tvg-name="Tabii Spor 1 " group-title="KASDK",Tabii Spor 1 
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102294
+#EXTINF:-1 tvg-name="Tabii Spor 2 " group-title="KASDK",Tabii Spor 2 
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102295
+#EXTINF:-1 tvg-name="Tabii Spor 3 " group-title="KASDK",Tabii Spor 3 
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102296
+#EXTINF:-1 tvg-name="Tabii Spor 4 " group-title="KASDK",Tabii Spor 4 
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102297
+#EXTINF:-1 tvg-name="Tabii Spor 5 " group-title="KASDK",Tabii Spor 5 
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102298
+#EXTINF:-1 tvg-name="Tabii Spor 6 " group-title="KASDK",Tabii Spor 6 
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102299
+#EXTINF:-1 tvg-name="TİVİBU SPOR 1 " tvg-logo="" group-title="KASDK",TİVİBU SPOR 1 
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102302
+#EXTINF:-1 tvg-name="TİVİBU SPOR 2 " tvg-logo=" group-title="KASDK",TİVİBU SPOR 2 
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102303
+#EXTINF:-1 tvg-name="TİVİBU SPOR 3 " tvg-logo="" group-title="KASDK",TİVİBU SPOR 3 
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102304
+#EXTINF:-1 tvg-name="TİVİBU SPOR 4 " tvg-logo="" group-title="KASDK",TİVİBU SPOR 4 
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102305
