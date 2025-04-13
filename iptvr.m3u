@@ -1,415 +1,415 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS 4K (Feed)
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS 4K (Feed)
 http://aybytv.xyz:8080/bnt1301/bnt1301/35650
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS 8K (Feed)
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS 8K (Feed)
 http://aybytv.xyz:8080/bnt1301/bnt1301/191152
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS (H265)
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS (H265)
 http://aybytv.xyz:8080/bnt1301/bnt1301/190072
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS (Kutu)
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS (Kutu)
 http://aybytv.xyz:8080/bnt1301/bnt1301/456568
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS (Box)
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS (Box)
 http://aybytv.xyz:8080/bnt1301/bnt1301/456567
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS (VIP)
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS (VIP)
 http://aybytv.xyz:8080/bnt1301/bnt1301/98925
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS (720p)
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS (720p)
 http://aybytv.xyz:8080/bnt1301/bnt1301/351541
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS
 http://aybytv.xyz:8080/bnt1301/bnt1301/126272
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS (TTNET OZEL)
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS (TTNET OZEL)
 http://aybytv.xyz:8080/bnt1301/bnt1301/334642
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS (480p)
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS (480p)
 http://aybytv.xyz:8080/bnt1301/bnt1301/35762
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS 2
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/195811
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS 2
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/196216
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS 2
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/35730
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS 3
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS 3
 http://aybytv.xyz:8080/bnt1301/bnt1301/196217
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS 3
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS 3
 http://aybytv.xyz:8080/bnt1301/bnt1301/6097
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS 3
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS 3
 http://aybytv.xyz:8080/bnt1301/bnt1301/195812
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS 4
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS 4
 http://aybytv.xyz:8080/bnt1301/bnt1301/196218
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS 4
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS 4
 http://aybytv.xyz:8080/bnt1301/bnt1301/6098
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS 4
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS 4
 http://aybytv.xyz:8080/bnt1301/bnt1301/195813
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS 5
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS 5
 http://aybytv.xyz:8080/bnt1301/bnt1301/125936
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS Max
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS Max
 http://aybytv.xyz:8080/bnt1301/bnt1301/6099
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN SPORTS Max 2
+#EXTINF:-1 group-title="AYBYTV",beIN SPORTS Max 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/6100
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN Connect 1 (Mac Saati)
+#EXTINF:-1 group-title="AYBYTV",beIN Connect 1 (Mac Saati)
 http://aybytv.xyz:8080/bnt1301/bnt1301/137710
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN Connect 2 (Mac Saati)
+#EXTINF:-1 group-title="AYBYTV",beIN Connect 2 (Mac Saati)
 http://aybytv.xyz:8080/bnt1301/bnt1301/137711
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN Connect 3 (Mac Saati)
+#EXTINF:-1 group-title="AYBYTV",beIN Connect 3 (Mac Saati)
 http://aybytv.xyz:8080/bnt1301/bnt1301/137712
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Spor Smart
+#EXTINF:-1 group-title="AYBYTV",Spor Smart
 http://aybytv.xyz:8080/bnt1301/bnt1301/121246
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Spor Smart 2
+#EXTINF:-1 group-title="AYBYTV",Spor Smart 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/113272
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Eurosport
+#EXTINF:-1 group-title="AYBYTV",Eurosport
 http://aybytv.xyz:8080/bnt1301/bnt1301/6106
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Eurosport 2
+#EXTINF:-1 group-title="AYBYTV",Eurosport 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/6107
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",S SPORT
+#EXTINF:-1 group-title="AYBYTV",S SPORT
 http://aybytv.xyz:8080/bnt1301/bnt1301/115598
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",S SPORT 2
+#EXTINF:-1 group-title="AYBYTV",S SPORT 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/6105
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",S SPORT+1 (Mac Saati)
+#EXTINF:-1 group-title="AYBYTV",S SPORT+1 (Mac Saati)
 http://aybytv.xyz:8080/bnt1301/bnt1301/137713
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",S SPORT+2 (Mac Saati)
+#EXTINF:-1 group-title="AYBYTV",S SPORT+2 (Mac Saati)
 http://aybytv.xyz:8080/bnt1301/bnt1301/137714
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",S SPORT+3 (Mac Saati)
+#EXTINF:-1 group-title="AYBYTV",S SPORT+3 (Mac Saati)
 http://aybytv.xyz:8080/bnt1301/bnt1301/137715
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",S SPORT+4 (Mac Saati)
+#EXTINF:-1 group-title="AYBYTV",S SPORT+4 (Mac Saati)
 http://aybytv.xyz:8080/bnt1301/bnt1301/137716
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",S SPORT+5 (Mac Saati)
+#EXTINF:-1 group-title="AYBYTV",S SPORT+5 (Mac Saati)
 http://aybytv.xyz:8080/bnt1301/bnt1301/137717
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",TIVIBU SPOR
+#EXTINF:-1 group-title="AYBYTV",TIVIBU SPOR
 http://aybytv.xyz:8080/bnt1301/bnt1301/6101
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",TIVIBU SPOR 1
+#EXTINF:-1 group-title="AYBYTV",TIVIBU SPOR 1
 http://aybytv.xyz:8080/bnt1301/bnt1301/6102
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",TIVIBU SPOR 2
+#EXTINF:-1 group-title="AYBYTV",TIVIBU SPOR 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/6103
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",TIVIBU SPOR 3
+#EXTINF:-1 group-title="AYBYTV",TIVIBU SPOR 3
 http://aybytv.xyz:8080/bnt1301/bnt1301/113254
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",TIVIBU SPOR 4
+#EXTINF:-1 group-title="AYBYTV",TIVIBU SPOR 4
 http://aybytv.xyz:8080/bnt1301/bnt1301/115600
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Exxen Spor
+#EXTINF:-1 group-title="AYBYTV",Exxen Spor
 http://aybytv.xyz:8080/bnt1301/bnt1301/453643
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Exxen Spor
+#EXTINF:-1 group-title="AYBYTV",Exxen Spor
 http://aybytv.xyz:8080/bnt1301/bnt1301/452750
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Exxen Spor 2
+#EXTINF:-1 group-title="AYBYTV",Exxen Spor 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/452752
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Exxen Spor 3
+#EXTINF:-1 group-title="AYBYTV",Exxen Spor 3
 http://aybytv.xyz:8080/bnt1301/bnt1301/452753
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Exxen Spor 4
+#EXTINF:-1 group-title="AYBYTV",Exxen Spor 4
 http://aybytv.xyz:8080/bnt1301/bnt1301/452754
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Exxen Spor 5
+#EXTINF:-1 group-title="AYBYTV",Exxen Spor 5
 http://aybytv.xyz:8080/bnt1301/bnt1301/452755
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Tabii Spor
+#EXTINF:-1 group-title="AYBYTV",Tabii Spor
 http://aybytv.xyz:8080/bnt1301/bnt1301/454312
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Tabii Spor 1
+#EXTINF:-1 group-title="AYBYTV",Tabii Spor 1
 http://aybytv.xyz:8080/bnt1301/bnt1301/454316
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Tabii Spor 3
+#EXTINF:-1 group-title="AYBYTV",Tabii Spor 3
 http://aybytv.xyz:8080/bnt1301/bnt1301/454318
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Tabii Spor 4
+#EXTINF:-1 group-title="AYBYTV",Tabii Spor 4
 http://aybytv.xyz:8080/bnt1301/bnt1301/454322
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Tabii Spor 6
+#EXTINF:-1 group-title="AYBYTV",Tabii Spor 6
 http://aybytv.xyz:8080/bnt1301/bnt1301/454320
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Tabii Spor X
+#EXTINF:-1 group-title="AYBYTV",Tabii Spor X
 http://aybytv.xyz:8080/bnt1301/bnt1301/454324
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",TRT Spor
+#EXTINF:-1 group-title="AYBYTV",TRT Spor
 http://aybytv.xyz:8080/bnt1301/bnt1301/6109
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",TRT Spor Yıldız
+#EXTINF:-1 group-title="AYBYTV",TRT Spor Yıldız
 http://aybytv.xyz:8080/bnt1301/bnt1301/353402
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",NBA TV
+#EXTINF:-1 group-title="AYBYTV",NBA TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/6111
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",A Spor
+#EXTINF:-1 group-title="AYBYTV",A Spor
 http://aybytv.xyz:8080/bnt1301/bnt1301/6113
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",FB TV
+#EXTINF:-1 group-title="AYBYTV",FB TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/6114
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",SPORTS TV
+#EXTINF:-1 group-title="AYBYTV",SPORTS TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/20772
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",NAT GEO HD TR
+#EXTINF:-1 group-title="AYBYTV",NAT GEO HD TR
 http://aybytv.xyz:8080/bnt1301/bnt1301/6286
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",National Geographic Wild
+#EXTINF:-1 group-title="AYBYTV",National Geographic Wild
 http://aybytv.xyz:8080/bnt1301/bnt1301/6287
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Discovery
+#EXTINF:-1 group-title="AYBYTV",Discovery
 http://aybytv.xyz:8080/bnt1301/bnt1301/6289
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",ID
+#EXTINF:-1 group-title="AYBYTV",ID
 http://aybytv.xyz:8080/bnt1301/bnt1301/6290
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Hazine TV
+#EXTINF:-1 group-title="AYBYTV",Hazine TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/451019
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Love TV
+#EXTINF:-1 group-title="AYBYTV",Love TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/192797
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Balık Tv
+#EXTINF:-1 group-title="AYBYTV",Balık Tv
 http://aybytv.xyz:8080/bnt1301/bnt1301/189003
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Relax Belgesel TV
+#EXTINF:-1 group-title="AYBYTV",Relax Belgesel TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/451573
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Relax Nature TV
+#EXTINF:-1 group-title="AYBYTV",Relax Nature TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/113484
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Relax Tadilat TV
+#EXTINF:-1 group-title="AYBYTV",Relax Tadilat TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/47476
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Doğadan TV
+#EXTINF:-1 group-title="AYBYTV",Doğadan TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/114704
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Define TV
+#EXTINF:-1 group-title="AYBYTV",Define TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/47809
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",BBC Earth
+#EXTINF:-1 group-title="AYBYTV",BBC Earth
 http://aybytv.xyz:8080/bnt1301/bnt1301/6294
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Animaux
+#EXTINF:-1 group-title="AYBYTV",Animaux
 http://aybytv.xyz:8080/bnt1301/bnt1301/6297
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN IZ
+#EXTINF:-1 group-title="AYBYTV",beIN IZ
 http://aybytv.xyz:8080/bnt1301/bnt1301/105919
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN Gurme
+#EXTINF:-1 group-title="AYBYTV",beIN Gurme
 http://aybytv.xyz:8080/bnt1301/bnt1301/6302
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",History Channel
+#EXTINF:-1 group-title="AYBYTV",History Channel
 http://aybytv.xyz:8080/bnt1301/bnt1301/12822
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Viasat History
+#EXTINF:-1 group-title="AYBYTV",Viasat History
 http://aybytv.xyz:8080/bnt1301/bnt1301/110174
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Love Nature
+#EXTINF:-1 group-title="AYBYTV",Love Nature
 http://aybytv.xyz:8080/bnt1301/bnt1301/22098
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",DMAX
+#EXTINF:-1 group-title="AYBYTV",DMAX
 http://aybytv.xyz:8080/bnt1301/bnt1301/6296
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",TRT Belgesel
+#EXTINF:-1 group-title="AYBYTV",TRT Belgesel
 http://aybytv.xyz:8080/bnt1301/bnt1301/13286
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",TLC
+#EXTINF:-1 group-title="AYBYTV",TLC
 http://aybytv.xyz:8080/bnt1301/bnt1301/35593
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Life After TV
+#EXTINF:-1 group-title="AYBYTV",Life After TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/96755
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Sea Nat TV
+#EXTINF:-1 group-title="AYBYTV",Sea Nat TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/96756
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Tekno Belgesel TV
+#EXTINF:-1 group-title="AYBYTV",Tekno Belgesel TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/97247
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",HABITAT TV
+#EXTINF:-1 group-title="AYBYTV",HABITAT TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/103303
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN Box Office 1
+#EXTINF:-1 group-title="AYBYTV",beIN Box Office 1
 http://aybytv.xyz:8080/bnt1301/bnt1301/6195
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN Box Office 2
+#EXTINF:-1 group-title="AYBYTV",beIN Box Office 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/6196
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN Box Office 3
+#EXTINF:-1 group-title="AYBYTV",beIN Box Office 3
 http://aybytv.xyz:8080/bnt1301/bnt1301/6197
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN Movies Action
+#EXTINF:-1 group-title="AYBYTV",beIN Movies Action
 http://aybytv.xyz:8080/bnt1301/bnt1301/6198
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN Movies Action 2
+#EXTINF:-1 group-title="AYBYTV",beIN Movies Action 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/6199
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN Movies Premiere
+#EXTINF:-1 group-title="AYBYTV",beIN Movies Premiere
 http://aybytv.xyz:8080/bnt1301/bnt1301/6200
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN Movies Premiere 2
+#EXTINF:-1 group-title="AYBYTV",beIN Movies Premiere 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/6201
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN Movies Turk
+#EXTINF:-1 group-title="AYBYTV",beIN Movies Turk
 http://aybytv.xyz:8080/bnt1301/bnt1301/6202
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN Movies Family
+#EXTINF:-1 group-title="AYBYTV",beIN Movies Family
 http://aybytv.xyz:8080/bnt1301/bnt1301/6204
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN Series 2
+#EXTINF:-1 group-title="AYBYTV",beIN Series 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/457101
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN Series Vice
+#EXTINF:-1 group-title="AYBYTV",beIN Series Vice
 http://aybytv.xyz:8080/bnt1301/bnt1301/125800
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN Series Comedy
+#EXTINF:-1 group-title="AYBYTV",beIN Series Comedy
 http://aybytv.xyz:8080/bnt1301/bnt1301/6205
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",beIN Series Drama
+#EXTINF:-1 group-title="AYBYTV",beIN Series Drama
 http://aybytv.xyz:8080/bnt1301/bnt1301/457102
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",DiziSmart Premium
+#EXTINF:-1 group-title="AYBYTV",DiziSmart Premium
 http://aybytv.xyz:8080/bnt1301/bnt1301/192219
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Moviesmart Premium
+#EXTINF:-1 group-title="AYBYTV",Moviesmart Premium
 http://aybytv.xyz:8080/bnt1301/bnt1301/6183
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Moviesmart Türk
+#EXTINF:-1 group-title="AYBYTV",Moviesmart Türk
 http://aybytv.xyz:8080/bnt1301/bnt1301/6182
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Moviesmart Platin
+#EXTINF:-1 group-title="AYBYTV",Moviesmart Platin
 http://aybytv.xyz:8080/bnt1301/bnt1301/6184
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Moviesmart Classic
+#EXTINF:-1 group-title="AYBYTV",Moviesmart Classic
 http://aybytv.xyz:8080/bnt1301/bnt1301/6188
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Moviesmart Action
+#EXTINF:-1 group-title="AYBYTV",Moviesmart Action
 http://aybytv.xyz:8080/bnt1301/bnt1301/6190
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Sinema TV
+#EXTINF:-1 group-title="AYBYTV",Sinema TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/113291
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Sinema TV 2
+#EXTINF:-1 group-title="AYBYTV",Sinema TV 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/123920
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Sinema TV Aksiyon
+#EXTINF:-1 group-title="AYBYTV",Sinema TV Aksiyon
 http://aybytv.xyz:8080/bnt1301/bnt1301/113293
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Sinema TV 1001
+#EXTINF:-1 group-title="AYBYTV",Sinema TV 1001
 http://aybytv.xyz:8080/bnt1301/bnt1301/123921
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Sinema TV 1002
+#EXTINF:-1 group-title="AYBYTV",Sinema TV 1002
 http://aybytv.xyz:8080/bnt1301/bnt1301/123922
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Sinema TV Aile
+#EXTINF:-1 group-title="AYBYTV",Sinema TV Aile
 http://aybytv.xyz:8080/bnt1301/bnt1301/123923
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Sinema TV Comedy
+#EXTINF:-1 group-title="AYBYTV",Sinema TV Comedy
 http://aybytv.xyz:8080/bnt1301/bnt1301/123924
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Sinema TV Yerli
+#EXTINF:-1 group-title="AYBYTV",Sinema TV Yerli
 http://aybytv.xyz:8080/bnt1301/bnt1301/123925
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Kemal Sunal TV 1
+#EXTINF:-1 group-title="AYBYTV",Kemal Sunal TV 1
 http://aybytv.xyz:8080/bnt1301/bnt1301/6325
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Kemal Sunal TV 2
+#EXTINF:-1 group-title="AYBYTV",Kemal Sunal TV 2
 http://aybytv.xyz:8080/bnt1301/bnt1301/101136
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Zeki Metin TV
+#EXTINF:-1 group-title="AYBYTV",Zeki Metin TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/6320
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Şener Şen TV
+#EXTINF:-1 group-title="AYBYTV",Şener Şen TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/23578
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Ibrahim Tatlıses TV
+#EXTINF:-1 group-title="AYBYTV",Ibrahim Tatlıses TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/6318
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Cüneyt Arkın TV
+#EXTINF:-1 group-title="AYBYTV",Cüneyt Arkın TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/23579
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Kadir Inanır TV
+#EXTINF:-1 group-title="AYBYTV",Kadir Inanır TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/23580
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Ferdi Tayfur TV
+#EXTINF:-1 group-title="AYBYTV",Ferdi Tayfur TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/24201
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Filiz Akın TV
+#EXTINF:-1 group-title="AYBYTV",Filiz Akın TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/48292
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Hülya Koçyiğit TV
+#EXTINF:-1 group-title="AYBYTV",Hülya Koçyiğit TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/48293
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Tarık Akan TV
+#EXTINF:-1 group-title="AYBYTV",Tarık Akan TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/48295
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Türkan Şoray TV
+#EXTINF:-1 group-title="AYBYTV",Türkan Şoray TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/48296
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Orhan Gencebay TV
+#EXTINF:-1 group-title="AYBYTV",Orhan Gencebay TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/48297
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="AYBYTV",Müjde Ar TV
+#EXTINF:-1 group-title="AYBYTV",Müjde Ar TV
 http://aybytv.xyz:8080/bnt1301/bnt1301/48401
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SHORTLIST",beIN
+#EXTINF:-1 group-title="SHORTLIST",beIN
 http://188.95.65.168:25461/454543/4534543/2474
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SHORTLIST",beIN SPORTS
+#EXTINF:-1 group-title="SHORTLIST",beIN SPORTS
 http://188.95.65.168:25461/454543/4534543/2476
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SHORTLIST",beIN SPORTS
+#EXTINF:-1 group-title="SHORTLIST",beIN SPORTS
 http://188.95.65.168:25461/454543/4534543/2463
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SHORTLIST",beIN SPORTS
+#EXTINF:-1 group-title="SHORTLIST",beIN SPORTS
 http://188.95.65.168:25461/454543/4534543/2478
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SHORTLIST",beIN SPORTS 2
+#EXTINF:-1 group-title="SHORTLIST",beIN SPORTS 2
 http://188.95.65.168:25461/454543/4534543/2464
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SHORTLIST",beIN SPORTS 3
+#EXTINF:-1 group-title="SHORTLIST",beIN SPORTS 3
 http://188.95.65.168:25461/454543/4534543/2465
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SHORTLIST",beIN SPORTS 4
+#EXTINF:-1 group-title="SHORTLIST",beIN SPORTS 4
 http://188.95.65.168:25461/454543/4534543/2466
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SHORTLIST",beIN SPORTS 5
+#EXTINF:-1 group-title="SHORTLIST",beIN SPORTS 5
 http://188.95.65.168:25461/454543/4534543/2467
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SHORTLIST",beIN SPORTS Max
+#EXTINF:-1 group-title="SHORTLIST",beIN SPORTS Max
 http://188.95.65.168:25461/454543/4534543/2468
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SHORTLIST",beIN SPORTS Max 2
+#EXTINF:-1 group-title="SHORTLIST",beIN SPORTS Max 2
 http://188.95.65.168:25461/454543/4534543/2469
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 1 4K
+#EXTINF:-1 group-title="XC1", beIN SPORTS 1 4K
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93098.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 1 UHD
+#EXTINF:-1 group-title="XC1", beIN SPORTS 1 UHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1174.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 1 HQ FEED
+#EXTINF:-1 group-title="XC1", beIN SPORTS 1 HQ FEED
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/60489.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 1 SD
+#EXTINF:-1 group-title="XC1", beIN SPORTS 1 SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/2752.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 2 SD
+#EXTINF:-1 group-title="XC1", beIN SPORTS 2 SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3938.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS  3 SD
+#EXTINF:-1 group-title="XC1", beIN SPORTS  3 SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92610.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 4 SD
+#EXTINF:-1 group-title="XC1", beIN SPORTS 4 SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/45274.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 5 SD
+#EXTINF:-1 group-title="XC1", beIN SPORTS 5 SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/113215.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 1 HD
+#EXTINF:-1 group-title="XC1", beIN SPORTS 1 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3937.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 2 HD
+#EXTINF:-1 group-title="XC1", beIN SPORTS 2 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1177.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 3 HD
+#EXTINF:-1 group-title="XC1", beIN SPORTS 3 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1178.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 4 HD
+#EXTINF:-1 group-title="XC1", beIN SPORTS 4 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1179.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 5 HD
+#EXTINF:-1 group-title="XC1", beIN SPORTS 5 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/106797.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 1 HQ
+#EXTINF:-1 group-title="XC1", beIN SPORTS 1 HQ
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/2551.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 2 HQ
+#EXTINF:-1 group-title="XC1", beIN SPORTS 2 HQ
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92602.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 3 HQ
+#EXTINF:-1 group-title="XC1", beIN SPORTS 3 HQ
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92603.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 4 HQ
+#EXTINF:-1 group-title="XC1", beIN SPORTS 4 HQ
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92604.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 5 HQ
+#EXTINF:-1 group-title="XC1", beIN SPORTS 5 HQ
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/113213.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 1 FHD
+#EXTINF:-1 group-title="XC1", beIN SPORTS 1 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92601.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 2 FHD
+#EXTINF:-1 group-title="XC1", beIN SPORTS 2 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/28025.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 3 FHD
+#EXTINF:-1 group-title="XC1", beIN SPORTS 3 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3939.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 4 FHD
+#EXTINF:-1 group-title="XC1", beIN SPORTS 4 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3940.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS 5 FHD
+#EXTINF:-1 group-title="XC1", beIN SPORTS 5 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/113214.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS MAX 1 HD
+#EXTINF:-1 group-title="XC1", beIN SPORTS MAX 1 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1182.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS MAX 2 HD
+#EXTINF:-1 group-title="XC1", beIN SPORTS MAX 2 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1183.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS MAX 1 FHD
+#EXTINF:-1 group-title="XC1", beIN SPORTS MAX 1 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3941.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN SPORTS MAX 2 FHD
+#EXTINF:-1 group-title="XC1", beIN SPORTS MAX 2 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3942.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN-CONNECT CANLI 1
+#EXTINF:-1 group-title="XC1", beIN-CONNECT CANLI 1
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/71374.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN-CONNECT CANLI 2
+#EXTINF:-1 group-title="XC1", beIN-CONNECT CANLI 2
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/71375.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN-CONNECT CANLI 3
+#EXTINF:-1 group-title="XC1", beIN-CONNECT CANLI 3
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/71376.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN-CONNECT CANLI 4
+#EXTINF:-1 group-title="XC1", beIN-CONNECT CANLI 4
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/71377.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN-CONNECT CANLI 5
+#EXTINF:-1 group-title="XC1", beIN-CONNECT CANLI 5
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/71378.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", beIN-CONNECT CANLI 6
+#EXTINF:-1 group-title="XC1", beIN-CONNECT CANLI 6
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/71379.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 SD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 1 SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116242.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 576p
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 1 576p
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116243.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 720p
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 1 720p
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116244.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 FHD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 1 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/91401.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 2 FHD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 2 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/91402.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 3 FHD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 3 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/91403.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 4 FHD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 4 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93110.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 5 FHD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 5 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93111.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 6 FHD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 6 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93112.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 7 FHD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 7 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93113.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 8 FHD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 8 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/106446.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 HD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 1 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92007.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 2 HD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 2 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92008.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 3 HD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 3 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92009.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 4 HD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 4 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92010.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 5 HD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 5 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92011.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 6 HD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 6 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92012.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 7 HD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 7 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92455.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 8 HD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 8 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92456.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 SD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 1 SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116242.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 576p
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 1 576p
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116243.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 720p
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 1 720p
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116244.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 FHD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 1 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/91401.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 2 FHD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 2 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/91402.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 3 FHD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 3 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/91403.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 4 FHD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 4 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93110.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 5 FHD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 5 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93111.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 6 FHD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 6 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93112.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 7 FHD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 7 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93113.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 8 FHD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 8 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/106446.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 1 HD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 1 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92007.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 2 HD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 2 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92008.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 3 HD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 3 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92009.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 4 HD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 4 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92010.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 5 HD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 5 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92011.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 6 HD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 6 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92012.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1", EXXEN-SPORTS 7 HD
+#EXTINF:-1 group-title="XC1", EXXEN-SPORTS 7 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92455.ts
 #EXTINF:-1 tvg-name="D" tvg-logo="" group-title="XC1", EXXEN-SPORTS 8 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92456.ts
@@ -453,301 +453,301 @@ http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120059.ts
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120060.ts
 #EXTINF:-1 tvg-name="" group-title="XC1",TABii SPOR 10 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120061.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",S-SPORT 1 HD
+#EXTINF:-1 group-title="XC1",S-SPORT 1 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1196.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",S-SPORT 2 HD
+#EXTINF:-1 group-title="XC1",S-SPORT 2 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3068.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",S-SPORT 1 FHD
+#EXTINF:-1 group-title="XC1",S-SPORT 1 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1197.ts
 #EXTINF:-1 tvg-name="D" tvg-logo="" group-title="XC1",S-SPORT 2 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3943.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",S-SPORT-PLUS 1 HD
+#EXTINF:-1 group-title="XC1",S-SPORT-PLUS 1 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92461.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",S-SPORT-PLUS 2 HD
+#EXTINF:-1 group-title="XC1",S-SPORT-PLUS 2 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92462.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",S-SPORT-PLUS 3 HD
+#EXTINF:-1 group-title="XC1",S-SPORT-PLUS 3 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92463.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",S-SPORT-PLUS 4 HD
+#EXTINF:-1 group-title="XC1",S-SPORT-PLUS 4 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92464.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",S-SPORT-PLUS 5 HD
+#EXTINF:-1 group-title="XC1",S-SPORT-PLUS 5 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92465.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",S-SPORT-PLUS 6 HD
+#EXTINF:-1 group-title="XC1",S-SPORT-PLUS 6 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92466.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",SMART-SPOR 1 HD
+#EXTINF:-1 group-title="XC1",SMART-SPOR 1 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/4957.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",SMART SPOR 2 HD
+#EXTINF:-1 group-title="XC1",SMART SPOR 2 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/60516.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",SMART SPOR 1 FHD
+#EXTINF:-1 group-title="XC1",SMART SPOR 1 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1200.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",SMART SPOR 2 FHD
+#EXTINF:-1 group-title="XC1",SMART SPOR 2 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/60515.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",TIVIBU SPOR 1 HD
+#EXTINF:-1 group-title="XC1",TIVIBU SPOR 1 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1193.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",TIVIBU SPOR 2 HD
+#EXTINF:-1 group-title="XC1",TIVIBU SPOR 2 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1194.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",TIVIBU SPOR 3 HD
+#EXTINF:-1 group-title="XC1",TIVIBU SPOR 3 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1195.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",TIVIBU-SPOR 4 HD
+#EXTINF:-1 group-title="XC1",TIVIBU-SPOR 4 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/106958.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",TIVIBU SPOR 1 FHD
+#EXTINF:-1 group-title="XC1",TIVIBU SPOR 1 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1190.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",TIVIBU SPOR 2 FHD
+#EXTINF:-1 group-title="XC1",TIVIBU SPOR 2 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/2565.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",TIVIBU SPOR 3 FHD
+#EXTINF:-1 group-title="XC1",TIVIBU SPOR 3 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/2564.ts
 #EXTINF:-1 tvg-name="" group-title="XC1",TIVIBU SPOR 4 FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116233.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",A SPOR SD
+#EXTINF:-1 group-title="XC1",A SPOR SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1204.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",A SPOR HD
+#EXTINF:-1 group-title="XC1",A SPOR HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1203.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",A SPOR FHD
+#EXTINF:-1 group-title="XC1",A SPOR FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/36178.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",TRT SPOR YILDIZ SD
+#EXTINF:-1 group-title="XC1",TRT SPOR YILDIZ SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93069.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",TRT SPOR YILDIZ HD
+#EXTINF:-1 group-title="XC1",TRT SPOR YILDIZ HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93068.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",TRT SPOR SD
+#EXTINF:-1 group-title="XC1",TRT SPOR SD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/24046.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",TRT SPOR HD
+#EXTINF:-1 group-title="XC1",TRT SPOR HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1205.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",TRT SPOR FHD
+#EXTINF:-1 group-title="XC1",TRT SPOR FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/36176.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",SPORTS TV HD
+#EXTINF:-1 group-title="XC1",SPORTS TV HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/45277.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",SPORTS TV FHD
+#EXTINF:-1 group-title="XC1",SPORTS TV FHD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/38233.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",EUROSPORT 1 HD
+#EXTINF:-1 group-title="XC1",EUROSPORT 1 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1201.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",EUROSPORT 2 HD
+#EXTINF:-1 group-title="XC1",EUROSPORT 2 HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1202.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",KICKBOKS
+#EXTINF:-1 group-title="XC1",KICKBOKS
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/65256.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",FIGHTBOX HD
+#EXTINF:-1 group-title="XC1",FIGHTBOX HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3947.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",NBA TV HD
+#EXTINF:-1 group-title="XC1",NBA TV HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3946.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="XC1",FB TV HD
+#EXTINF:-1 group-title="XC1",FB TV HD
 http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1207.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Sports 1 HD (VIP)
+#EXTINF:-1 group-title="SUN-X",beIN Sports 1 HD (VIP)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/315720.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Sports 1 (HD)
+#EXTINF:-1 group-title="SUN-X",beIN Sports 1 (HD)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/311552.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Sports 1 SD (Mobile)
+#EXTINF:-1 group-title="SUN-X",beIN Sports 1 SD (Mobile)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/7042.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Sports 1 (FHD)
+#EXTINF:-1 group-title="SUN-X",beIN Sports 1 (FHD)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/52977.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Sports 1 (4K)
+#EXTINF:-1 group-title="SUN-X",beIN Sports 1 (4K)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/58659.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Sports 2 HD
+#EXTINF:-1 group-title="SUN-X",beIN Sports 2 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/52980.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Sports 2 (FHD)
+#EXTINF:-1 group-title="SUN-X",beIN Sports 2 (FHD)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244703.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Sports 3 HD
+#EXTINF:-1 group-title="SUN-X",beIN Sports 3 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/52981.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Sports 3 FHD
+#EXTINF:-1 group-title="SUN-X",beIN Sports 3 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244704.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Sports 4 HD
+#EXTINF:-1 group-title="SUN-X",beIN Sports 4 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/1492.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Sports 4 FHD
+#EXTINF:-1 group-title="SUN-X",beIN Sports 4 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244705.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Sports 5 HD
+#EXTINF:-1 group-title="SUN-X",beIN Sports 5 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/194676.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Sports 5 FHD
+#EXTINF:-1 group-title="SUN-X",beIN Sports 5 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244706.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Sports MAX 1 HD
+#EXTINF:-1 group-title="SUN-X",beIN Sports MAX 1 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/6977.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Sports MAX 1 FHD
+#EXTINF:-1 group-title="SUN-X",beIN Sports MAX 1 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244764.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Sports MAX 2 HD
+#EXTINF:-1 group-title="SUN-X",beIN Sports MAX 2 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/6978.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Sports MAX 2 FHD
+#EXTINF:-1 group-title="SUN-X",beIN Sports MAX 2 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244765.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN SPORTS HABER HD
+#EXTINF:-1 group-title="SUN-X",beIN SPORTS HABER HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/6508.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Connect 1 HD
+#EXTINF:-1 group-title="SUN-X",beIN Connect 1 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122770.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Connect 2 HD
+#EXTINF:-1 group-title="SUN-X",beIN Connect 2 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122771.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Connect 3 HD
+#EXTINF:-1 group-title="SUN-X",beIN Connect 3 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122772.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Connect 4 HD
+#EXTINF:-1 group-title="SUN-X",beIN Connect 4 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122773.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Connect 5 HD
+#EXTINF:-1 group-title="SUN-X",beIN Connect 5 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122774.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",beIN Connect 6 HD
+#EXTINF:-1 group-title="SUN-X",beIN Connect 6 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/250170.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",S Sport SD
+#EXTINF:-1 group-title="SUN-X",S Sport SD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/63396.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",S Sport HD
+#EXTINF:-1 group-title="SUN-X",S Sport HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/106293.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",S Sport RAW
+#EXTINF:-1 group-title="SUN-X",S Sport RAW
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244717.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",S Sport 2 SD
+#EXTINF:-1 group-title="SUN-X",S Sport 2 SD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/63404.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",S Sport 2 HD
+#EXTINF:-1 group-title="SUN-X",S Sport 2 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133890.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",S Sport 2 FHD
+#EXTINF:-1 group-title="SUN-X",S Sport 2 FHD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244718.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",S Sport+ HD
+#EXTINF:-1 group-title="SUN-X",S Sport+ HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/98748.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",S Sport+2 HD
+#EXTINF:-1 group-title="SUN-X",S Sport+2 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133895.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",S Sport+3 HD
+#EXTINF:-1 group-title="SUN-X",S Sport+3 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133896.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",S Sport+4 HD
+#EXTINF:-1 group-title="SUN-X",S Sport+4 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133897.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",S Sport+5 HD
+#EXTINF:-1 group-title="SUN-X",S Sport+5 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133898.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",S Sport+6 HD
+#EXTINF:-1 group-title="SUN-X",S Sport+6 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/146415.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",D Smart Spor SD
+#EXTINF:-1 group-title="SUN-X",D Smart Spor SD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/56226.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",D Smart Spor HD
+#EXTINF:-1 group-title="SUN-X",D Smart Spor HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/44016.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",D Smart Spor (RAW)
+#EXTINF:-1 group-title="SUN-X",D Smart Spor (RAW)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/284303.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",D Smart Spor 2 HD
+#EXTINF:-1 group-title="SUN-X",D Smart Spor 2 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/100140.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Eurosport 1 HD
+#EXTINF:-1 group-title="SUN-X",Eurosport 1 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/67.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",EUROSPORT 1 FHD+
+#EXTINF:-1 group-title="SUN-X",EUROSPORT 1 FHD+
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/290923.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Eurosport 2 HD
+#EXTINF:-1 group-title="SUN-X",Eurosport 2 HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/29.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",EUROSPORT 2 FHD+
+#EXTINF:-1 group-title="SUN-X",EUROSPORT 2 FHD+
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/290924.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Fb Tv HD
+#EXTINF:-1 group-title="SUN-X",Fb Tv HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/1709.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Sports Tv
+#EXTINF:-1 group-title="SUN-X",Sports Tv
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/86.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Nba Tv HD
+#EXTINF:-1 group-title="SUN-X",Nba Tv HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/12.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Edge Spor HD
+#EXTINF:-1 group-title="SUN-X",Edge Spor HD
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/134406.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tivibu Spor
+#EXTINF:-1 group-title="SUN-X",Tivibu Spor
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/169636.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tivibu Spor 1
+#EXTINF:-1 group-title="SUN-X",Tivibu Spor 1
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/179.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tivibu Spor 2
+#EXTINF:-1 group-title="SUN-X",Tivibu Spor 2
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/180.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tivibu Spor 3
+#EXTINF:-1 group-title="SUN-X",Tivibu Spor 3
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/181.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tivibu Spor 4
+#EXTINF:-1 group-title="SUN-X",Tivibu Spor 4
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/102443.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor
+#EXTINF:-1 group-title="SUN-X",Tabii Spor
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/312379.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor
+#EXTINF:-1 group-title="SUN-X",Tabii Spor
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/312380.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor (TR IP)
+#EXTINF:-1 group-title="SUN-X",Tabii Spor (TR IP)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321637.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor 1
+#EXTINF:-1 group-title="SUN-X",Tabii Spor 1
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293302.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor 1
+#EXTINF:-1 group-title="SUN-X",Tabii Spor 1
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293303.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor 1 (TR IP)
+#EXTINF:-1 group-title="SUN-X",Tabii Spor 1 (TR IP)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321639.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor 2
+#EXTINF:-1 group-title="SUN-X",Tabii Spor 2
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293304.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor 2
+#EXTINF:-1 group-title="SUN-X",Tabii Spor 2
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293305.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor 2 (TR IP)
+#EXTINF:-1 group-title="SUN-X",Tabii Spor 2 (TR IP)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321640.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor 3
+#EXTINF:-1 group-title="SUN-X",Tabii Spor 3
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293306.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor 3
+#EXTINF:-1 group-title="SUN-X",Tabii Spor 3
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293307.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor 3 (TR IP)
+#EXTINF:-1 group-title="SUN-X",Tabii Spor 3 (TR IP)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321641.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor 4
+#EXTINF:-1 group-title="SUN-X",Tabii Spor 4
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293308.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor 4
+#EXTINF:-1 group-title="SUN-X",Tabii Spor 4
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293309.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor 4 (TR IP)
+#EXTINF:-1 group-title="SUN-X",Tabii Spor 4 (TR IP)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321642.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor 5
+#EXTINF:-1 group-title="SUN-X",Tabii Spor 5
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293310.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor 5
+#EXTINF:-1 group-title="SUN-X",Tabii Spor 5
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293311.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor 5 (TR IP)
+#EXTINF:-1 group-title="SUN-X",Tabii Spor 5 (TR IP)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321643.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor 6
+#EXTINF:-1 group-title="SUN-X",Tabii Spor 6
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293312.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor 6
+#EXTINF:-1 group-title="SUN-X",Tabii Spor 6
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293313.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii Spor 6 (TR IP)
+#EXTINF:-1 group-title="SUN-X",Tabii Spor 6 (TR IP)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321644.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Tabii TV
+#EXTINF:-1 group-title="SUN-X",Tabii TV
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/318592.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Exxen TV
+#EXTINF:-1 group-title="SUN-X",Exxen TV
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/291106.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Exxen Spor 1
+#EXTINF:-1 group-title="SUN-X",Exxen Spor 1
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/146404.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Exxen Spor 1
+#EXTINF:-1 group-title="SUN-X",Exxen Spor 1
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245548.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Exxen Spor 1 (RAW)
+#EXTINF:-1 group-title="SUN-X",Exxen Spor 1 (RAW)
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245555.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Exxen Spor 2
+#EXTINF:-1 group-title="SUN-X",Exxen Spor 2
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/143250.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Exxen Spor 2
+#EXTINF:-1 group-title="SUN-X",Exxen Spor 2
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245549.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Exxen Spor 3
+#EXTINF:-1 group-title="SUN-X",Exxen Spor 3
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/143251.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Exxen Spor 3
+#EXTINF:-1 group-title="SUN-X",Exxen Spor 3
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245550.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Exxen Spor 4
+#EXTINF:-1 group-title="SUN-X",Exxen Spor 4
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/146209.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Exxen Spor 4
+#EXTINF:-1 group-title="SUN-X",Exxen Spor 4
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245551.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Exxen Spor 5
+#EXTINF:-1 group-title="SUN-X",Exxen Spor 5
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/148399.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Exxen Spor 5
+#EXTINF:-1 group-title="SUN-X",Exxen Spor 5
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245552.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Exxen Spor 6
+#EXTINF:-1 group-title="SUN-X",Exxen Spor 6
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/148400.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SUN-X",Exxen Spor 6
+#EXTINF:-1 group-title="SUN-X",Exxen Spor 6
 http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245553.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",beIN SPORTS
+#EXTINF:-1 group-title="480P",beIN SPORTS
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102284
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",beIN SPORTS 2 
+#EXTINF:-1 group-title="480P",beIN SPORTS 2 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102285
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",beIN SPORTS 3 
+#EXTINF:-1 group-title="480P",beIN SPORTS 3 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102286
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",beIN SPORTS 4 
+#EXTINF:-1 group-title="480P",beIN SPORTS 4 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102287
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",beIN SPORTS 5 
+#EXTINF:-1 group-title="480P",beIN SPORTS 5 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102288
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",beIN SPORTS Max
+#EXTINF:-1 group-title="480P",beIN SPORTS Max
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102289
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",beIN SPORTS Max 2 
+#EXTINF:-1 group-title="480P",beIN SPORTS Max 2 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102290
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480PK",S SPORT
+#EXTINF:-1 group-title="480PK",S SPORT
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102291
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",S SPORT 2 
+#EXTINF:-1 group-title="480P",S SPORT 2 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102292
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",SPOR SMART
+#EXTINF:-1 group-title="480P",SPOR SMART
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102300
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",SPOR SMART
+#EXTINF:-1 group-title="480P",SPOR SMART
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102301
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",Tabii Spor 
+#EXTINF:-1 group-title="480P",Tabii Spor 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102293
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",Tabii Spor 1 
+#EXTINF:-1 group-title="480P",Tabii Spor 1 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102294
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",Tabii Spor 2 
+#EXTINF:-1 group-title="480P",Tabii Spor 2 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102295
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",Tabii Spor 3 
+#EXTINF:-1 group-title="480P",Tabii Spor 3 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102296
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",Tabii Spor 4 
+#EXTINF:-1 group-title="480P",Tabii Spor 4 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102297
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",Tabii Spor 5 
+#EXTINF:-1 group-title="480P",Tabii Spor 5 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102298
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",Tabii Spor 6 
+#EXTINF:-1 group-title="480P",Tabii Spor 6 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102299
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",TIVIBU SPOR 1 
+#EXTINF:-1 group-title="480P",TIVIBU SPOR 1 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102302
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",TIVIBU SPOR 2
+#EXTINF:-1 group-title="480P",TIVIBU SPOR 2
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102303
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",TIVIBU SPOR 3 
+#EXTINF:-1 group-title="480P",TIVIBU SPOR 3 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102304
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="480P",TIVIBU SPOR 4 
+#EXTINF:-1 group-title="480P",TIVIBU SPOR 4 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102305
