@@ -1,753 +1,495 @@
 #EXTM3U
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS 4K (Feed)
-http://aybytv.xyz:8080/bnt1301/bnt1301/35650
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/35650.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS 8K (Feed)
-http://aybytv.xyz:8080/bnt1301/bnt1301/191152
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/191152.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS (H265)
-http://aybytv.xyz:8080/bnt1301/bnt1301/190072
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/190072.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS (Kutu)
-http://aybytv.xyz:8080/bnt1301/bnt1301/456568
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/456568.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS (Box)
-http://aybytv.xyz:8080/bnt1301/bnt1301/456567
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/456567.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS (VIP)
-http://aybytv.xyz:8080/bnt1301/bnt1301/98925
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/98925.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS (720p)
-http://aybytv.xyz:8080/bnt1301/bnt1301/351541
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/351541.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS
-http://aybytv.xyz:8080/bnt1301/bnt1301/126272
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/126272.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS (TTNET OZEL)
-http://aybytv.xyz:8080/bnt1301/bnt1301/334642
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/334642.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS (480p)
-http://aybytv.xyz:8080/bnt1301/bnt1301/35762
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/35762.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS 2
-http://aybytv.xyz:8080/bnt1301/bnt1301/195811
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/195811.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS 2
-http://aybytv.xyz:8080/bnt1301/bnt1301/196216
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/196216.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS 2
-http://aybytv.xyz:8080/bnt1301/bnt1301/35730
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/35730.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS 3
-http://aybytv.xyz:8080/bnt1301/bnt1301/196217
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/196217.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS 3
-http://aybytv.xyz:8080/bnt1301/bnt1301/6097
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6097.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS 3
-http://aybytv.xyz:8080/bnt1301/bnt1301/195812
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/195812.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS 4
-http://aybytv.xyz:8080/bnt1301/bnt1301/196218
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/196218.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS 4
-http://aybytv.xyz:8080/bnt1301/bnt1301/6098
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6098.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS 4
-http://aybytv.xyz:8080/bnt1301/bnt1301/195813
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/195813.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS 5
-http://aybytv.xyz:8080/bnt1301/bnt1301/125936
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/125936.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS Max
-http://aybytv.xyz:8080/bnt1301/bnt1301/6099
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6099.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN SPORTS Max 2
-http://aybytv.xyz:8080/bnt1301/bnt1301/6100
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6100.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN Connect 1 (Mac Saati)
-http://aybytv.xyz:8080/bnt1301/bnt1301/137710
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/137710.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN Connect 2 (Mac Saati)
-http://aybytv.xyz:8080/bnt1301/bnt1301/137711
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/137711.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN Connect 3 (Mac Saati)
-http://aybytv.xyz:8080/bnt1301/bnt1301/137712
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/137712.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Spor Smart
-http://aybytv.xyz:8080/bnt1301/bnt1301/121246
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/121246.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Spor Smart 2
-http://aybytv.xyz:8080/bnt1301/bnt1301/113272
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/113272.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Eurosport
-http://aybytv.xyz:8080/bnt1301/bnt1301/6106
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6106.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Eurosport 2
-http://aybytv.xyz:8080/bnt1301/bnt1301/6107
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6107.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",S SPORT
-http://aybytv.xyz:8080/bnt1301/bnt1301/115598
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/115598.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",S SPORT 2
-http://aybytv.xyz:8080/bnt1301/bnt1301/6105
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6105.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",S SPORT+1 (Mac Saati)
-http://aybytv.xyz:8080/bnt1301/bnt1301/137713
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/137713.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",S SPORT+2 (Mac Saati)
-http://aybytv.xyz:8080/bnt1301/bnt1301/137714
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/137714.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",S SPORT+3 (Mac Saati)
-http://aybytv.xyz:8080/bnt1301/bnt1301/137715
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/137715.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",S SPORT+4 (Mac Saati)
-http://aybytv.xyz:8080/bnt1301/bnt1301/137716
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/137716.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",S SPORT+5 (Mac Saati)
-http://aybytv.xyz:8080/bnt1301/bnt1301/137717
-#EXTINF:-1 group-title="AYBY(1.1.1.1)",TIVIBU SPOR
-http://aybytv.xyz:8080/bnt1301/bnt1301/6101
-#EXTINF:-1 group-title="AYBY(1.1.1.1)",TIVIBU SPOR 1
-http://aybytv.xyz:8080/bnt1301/bnt1301/6102
-#EXTINF:-1 group-title="AYBY(1.1.1.1)",TIVIBU SPOR 2
-http://aybytv.xyz:8080/bnt1301/bnt1301/6103
-#EXTINF:-1 group-title="AYBY(1.1.1.1)",TIVIBU SPOR 3
-http://aybytv.xyz:8080/bnt1301/bnt1301/113254
-#EXTINF:-1 group-title="AYBY(1.1.1.1)",TIVIBU SPOR 4
-http://aybytv.xyz:8080/bnt1301/bnt1301/115600
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/137717.m3u8
+#EXTINF:-1 group-title="AYBY(1.1.1.1)",TİVİBU SPOR
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6101.m3u8
+#EXTINF:-1 group-title="AYBY(1.1.1.1)",TİVİBU SPOR 1
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6102.m3u8
+#EXTINF:-1 group-title="AYBY(1.1.1.1)",TİVİBU SPOR 2
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6103.m3u8
+#EXTINF:-1 group-title="AYBY(1.1.1.1)",TİVİBU SPOR 3
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/113254.m3u8
+#EXTINF:-1 group-title="AYBY(1.1.1.1)",TİVİBU SPOR 4
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/115600.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Exxen Spor
-http://aybytv.xyz:8080/bnt1301/bnt1301/453643
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/453643.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Exxen Spor
-http://aybytv.xyz:8080/bnt1301/bnt1301/452750
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/452750.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Exxen Spor 2
-http://aybytv.xyz:8080/bnt1301/bnt1301/452752
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/452752.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Exxen Spor 3
-http://aybytv.xyz:8080/bnt1301/bnt1301/452753
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/452753.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Exxen Spor 4
-http://aybytv.xyz:8080/bnt1301/bnt1301/452754
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/452754.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Exxen Spor 5
-http://aybytv.xyz:8080/bnt1301/bnt1301/452755
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/452755.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Tabii Spor
-http://aybytv.xyz:8080/bnt1301/bnt1301/454312
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/454312.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Tabii Spor 1
-http://aybytv.xyz:8080/bnt1301/bnt1301/454316
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/454316.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Tabii Spor 3
-http://aybytv.xyz:8080/bnt1301/bnt1301/454318
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/454318.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Tabii Spor 4
-http://aybytv.xyz:8080/bnt1301/bnt1301/454322
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/454322.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Tabii Spor 6
-http://aybytv.xyz:8080/bnt1301/bnt1301/454320
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/454320.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Tabii Spor X
-http://aybytv.xyz:8080/bnt1301/bnt1301/454324
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/454324.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",TRT Spor
-http://aybytv.xyz:8080/bnt1301/bnt1301/6109
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6109.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",TRT Spor Yıldız
-http://aybytv.xyz:8080/bnt1301/bnt1301/353402
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/353402.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",NBA TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/6111
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6111.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",A Spor
-http://aybytv.xyz:8080/bnt1301/bnt1301/6113
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6113.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",FB TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/6114
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6114.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",SPORTS TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/20772
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/20772.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",NAT GEO HD TR
-http://aybytv.xyz:8080/bnt1301/bnt1301/6286
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6286.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",National Geographic Wild
-http://aybytv.xyz:8080/bnt1301/bnt1301/6287
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6287.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Discovery
-http://aybytv.xyz:8080/bnt1301/bnt1301/6289
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6289.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",ID
-http://aybytv.xyz:8080/bnt1301/bnt1301/6290
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6290.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Hazine TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/451019
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/451019.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Love TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/192797
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/192797.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Balık Tv
-http://aybytv.xyz:8080/bnt1301/bnt1301/189003
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/189003.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Relax Belgesel TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/451573
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/451573.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Relax Nature TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/113484
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/113484.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Relax Tadilat TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/47476
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/47476.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Doğadan TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/114704
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/114704.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Define TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/47809
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/47809.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",BBC Earth
-http://aybytv.xyz:8080/bnt1301/bnt1301/6294
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6294.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Animaux
-http://aybytv.xyz:8080/bnt1301/bnt1301/6297
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6297.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN IZ
-http://aybytv.xyz:8080/bnt1301/bnt1301/105919
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/105919.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN Gurme
-http://aybytv.xyz:8080/bnt1301/bnt1301/6302
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6302.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",History Channel
-http://aybytv.xyz:8080/bnt1301/bnt1301/12822
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/12822.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Viasat History
-http://aybytv.xyz:8080/bnt1301/bnt1301/110174
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/110174.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Love Nature
-http://aybytv.xyz:8080/bnt1301/bnt1301/22098
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/22098.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",DMAX
-http://aybytv.xyz:8080/bnt1301/bnt1301/6296
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6296.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",TRT Belgesel
-http://aybytv.xyz:8080/bnt1301/bnt1301/13286
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/13286.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",TLC
-http://aybytv.xyz:8080/bnt1301/bnt1301/35593
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/35593.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Life After TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/96755
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/96755.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Sea Nat TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/96756
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/96756.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Tekno Belgesel TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/97247
-#EXTINF:-1 group-title="AYBY(1.1.1.1)",HABITAT TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/103303
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/97247.m3u8
+#EXTINF:-1 group-title="AYBY(1.1.1.1)",HABİTAT TV
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/103303.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN Box Office 1
-http://aybytv.xyz:8080/bnt1301/bnt1301/6195
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6195.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN Box Office 2
-http://aybytv.xyz:8080/bnt1301/bnt1301/6196
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6196.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN Box Office 3
-http://aybytv.xyz:8080/bnt1301/bnt1301/6197
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6197.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN Movies Action
-http://aybytv.xyz:8080/bnt1301/bnt1301/6198
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6198.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN Movies Action 2
-http://aybytv.xyz:8080/bnt1301/bnt1301/6199
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6199.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN Movies Premiere
-http://aybytv.xyz:8080/bnt1301/bnt1301/6200
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6200.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN Movies Premiere 2
-http://aybytv.xyz:8080/bnt1301/bnt1301/6201
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6201.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN Movies Turk
-http://aybytv.xyz:8080/bnt1301/bnt1301/6202
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6202.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN Movies Family
-http://aybytv.xyz:8080/bnt1301/bnt1301/6204
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6204.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN Series 2
-http://aybytv.xyz:8080/bnt1301/bnt1301/457101
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/457101.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN Series Vice
-http://aybytv.xyz:8080/bnt1301/bnt1301/125800
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/125800.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN Series Comedy
-http://aybytv.xyz:8080/bnt1301/bnt1301/6205
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6205.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",beIN Series Drama
-http://aybytv.xyz:8080/bnt1301/bnt1301/457102
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/457102.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",DiziSmart Premium
-http://aybytv.xyz:8080/bnt1301/bnt1301/192219
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/192219.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Moviesmart Premium
-http://aybytv.xyz:8080/bnt1301/bnt1301/6183
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6183.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Moviesmart Türk
-http://aybytv.xyz:8080/bnt1301/bnt1301/6182
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6182.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Moviesmart Platin
-http://aybytv.xyz:8080/bnt1301/bnt1301/6184
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6184.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Moviesmart Classic
-http://aybytv.xyz:8080/bnt1301/bnt1301/6188
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6188.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Moviesmart Action
-http://aybytv.xyz:8080/bnt1301/bnt1301/6190
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6190.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Sinema TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/113291
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/113291.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Sinema TV 2
-http://aybytv.xyz:8080/bnt1301/bnt1301/123920
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/123920.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Sinema TV Aksiyon
-http://aybytv.xyz:8080/bnt1301/bnt1301/113293
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/113293.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Sinema TV 1001
-http://aybytv.xyz:8080/bnt1301/bnt1301/123921
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/123921.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Sinema TV 1002
-http://aybytv.xyz:8080/bnt1301/bnt1301/123922
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/123922.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Sinema TV Aile
-http://aybytv.xyz:8080/bnt1301/bnt1301/123923
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/123923.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Sinema TV Comedy
-http://aybytv.xyz:8080/bnt1301/bnt1301/123924
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/123924.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Sinema TV Yerli
-http://aybytv.xyz:8080/bnt1301/bnt1301/123925
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/123925.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Kemal Sunal TV 1
-http://aybytv.xyz:8080/bnt1301/bnt1301/6325
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6325.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Kemal Sunal TV 2
-http://aybytv.xyz:8080/bnt1301/bnt1301/101136
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/101136.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Zeki Metin TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/6320
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6320.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Şener Şen TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/23578
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/23578.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Ibrahim Tatlıses TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/6318
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/6318.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Cüneyt Arkın TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/23579
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/23579.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Kadir Inanır TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/23580
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/23580.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Ferdi Tayfur TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/24201
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/24201.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Filiz Akın TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/48292
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/48292.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Hülya Koçyiğit TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/48293
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/48293.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Tarık Akan TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/48295
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/48295.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Türkan Şoray TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/48296
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/48296.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Orhan Gencebay TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/48297
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/48297.m3u8
 #EXTINF:-1 group-title="AYBY(1.1.1.1)",Müjde Ar TV
-http://aybytv.xyz:8080/bnt1301/bnt1301/48401
+http://aybytv.xyz:8080/live/bnt1301/bnt1301/48401.m3u8
 #EXTINF:-1 group-title="200USER",beIN
-http://188.95.65.168:25461/454543/4534543/2474
+http://188.95.65.168:25461/live/454543/4534543/2474.m3u8
 #EXTINF:-1 group-title="200USER",beIN SPORTS
-http://188.95.65.168:25461/454543/4534543/2476
+http://188.95.65.168:25461/live/454543/4534543/2476.m3u8
 #EXTINF:-1 group-title="200USER",beIN SPORTS
-http://188.95.65.168:25461/454543/4534543/2463
+http://188.95.65.168:25461/live/454543/4534543/2463.m3u8
 #EXTINF:-1 group-title="200USER",beIN SPORTS
-http://188.95.65.168:25461/454543/4534543/2478
+http://188.95.65.168:25461/live/454543/4534543/2478.m3u8
 #EXTINF:-1 group-title="200USER",beIN SPORTS 2
-http://188.95.65.168:25461/454543/4534543/2464
+http://188.95.65.168:25461/live/454543/4534543/2464.m3u8
 #EXTINF:-1 group-title="200USER",beIN SPORTS 3
-http://188.95.65.168:25461/454543/4534543/2465
+http://188.95.65.168:25461/live/454543/4534543/2465.m3u8
 #EXTINF:-1 group-title="200USER",beIN SPORTS 4
-http://188.95.65.168:25461/454543/4534543/2466
+http://188.95.65.168:25461/live/454543/4534543/2466.m3u8
 #EXTINF:-1 group-title="200USER",beIN SPORTS 5
-http://188.95.65.168:25461/454543/4534543/2467
+http://188.95.65.168:25461/live/454543/4534543/2467.m3u8
 #EXTINF:-1 group-title="200USER",beIN SPORTS Max
-http://188.95.65.168:25461/454543/4534543/2468
+http://188.95.65.168:25461/live/454543/4534543/2468.m3u8
 #EXTINF:-1 group-title="200USER",beIN SPORTS Max 2
-http://188.95.65.168:25461/454543/4534543/2469
+http://188.95.65.168:25461/live/454543/4534543/2469.m3u8
 #EXTINF:-1 group-title="480P",beIN SPORTS
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102284
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102284.m3u8
 #EXTINF:-1 group-title="480P",beIN SPORTS 2 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102285
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102285.m3u8
 #EXTINF:-1 group-title="480P",beIN SPORTS 3 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102286
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102286.m3u8
 #EXTINF:-1 group-title="480P",beIN SPORTS 4 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102287
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102287.m3u8
 #EXTINF:-1 group-title="480P",beIN SPORTS 5 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102288
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102288.m3u8
 #EXTINF:-1 group-title="480P",beIN SPORTS Max
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102289
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102289.m3u8
 #EXTINF:-1 group-title="480P",beIN SPORTS Max 2 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102290
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102290.m3u8
 #EXTINF:-1 group-title="480P",S SPORT
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102291
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102291.m3u8
 #EXTINF:-1 group-title="480P",S SPORT 2 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102292
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102292.m3u8
 #EXTINF:-1 group-title="480P",SPOR SMART
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102300
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102300.m3u8
 #EXTINF:-1 group-title="480P",SPOR SMART
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102301
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102301.m3u8
 #EXTINF:-1 group-title="480P",Tabii Spor 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102293
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102293.m3u8
 #EXTINF:-1 group-title="480P",Tabii Spor 1 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102294
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102294.m3u8
 #EXTINF:-1 group-title="480P",Tabii Spor 2 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102295
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102295.m3u8
 #EXTINF:-1 group-title="480P",Tabii Spor 3 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102296
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102296.m3u8
 #EXTINF:-1 group-title="480P",Tabii Spor 4 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102297
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102297.m3u8
 #EXTINF:-1 group-title="480P",Tabii Spor 5 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102298
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102298.m3u8
 #EXTINF:-1 group-title="480P",Tabii Spor 6 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102299
-#EXTINF:-1 group-title="480P",TIVIBU SPOR 1 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102302
-#EXTINF:-1 group-title="480P",TIVIBU SPOR 2
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102303
-#EXTINF:-1 group-title="480P",TIVIBU SPOR 3 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102304
-#EXTINF:-1 group-title="480P",TIVIBU SPOR 4 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102305
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 1 4K
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93098.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 1 UHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1174.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 1 HQ FEED
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/60489.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 1 SD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/2752.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 2 SD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3938.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS  3 SD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92610.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 4 SD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/45274.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 5 SD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/113215.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 1 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3937.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 2 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1177.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 3 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1178.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 4 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1179.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 5 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/106797.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 1 HQ
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/2551.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 2 HQ
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92602.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 3 HQ
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92603.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 4 HQ
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92604.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 5 HQ
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/113213.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 1 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92601.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 2 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/28025.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 3 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3939.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 4 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3940.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS 5 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/113214.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS MAX 1 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1182.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS MAX 2 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1183.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS MAX 1 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3941.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN SPORTS MAX 2 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3942.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN-CONNECT CANLI 1
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/71374.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN-CONNECT CANLI 2
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/71375.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN-CONNECT CANLI 3
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/71376.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN-CONNECT CANLI 4
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/71377.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN-CONNECT CANLI 5
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/71378.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", beIN-CONNECT CANLI 6
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/71379.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 1 SD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116242.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 1 576p
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116243.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 1 720p
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116244.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 1 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/91401.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 2 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/91402.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 3 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/91403.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 4 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93110.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 5 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93111.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 6 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93112.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 7 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93113.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 8 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/106446.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 1 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92007.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 2 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92008.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 3 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92009.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 4 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92010.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 5 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92011.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 6 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92012.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 7 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92455.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 8 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92456.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 1 SD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116242.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 1 576p
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116243.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 1 720p
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116244.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 1 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/91401.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 2 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/91402.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 3 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/91403.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 4 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93110.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 5 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93111.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 6 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93112.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 7 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93113.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 8 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/106446.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 1 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92007.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 2 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92008.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 3 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92009.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 4 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92010.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 5 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92011.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 6 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92012.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 7 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92455.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)", EXXEN-SPORTS 8 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92456.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 1 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120042.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 1 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120043.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 2 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120044.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 2 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120045.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 3 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120046.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 3 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120047.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 4 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120048.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 4 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120049.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 5 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120050.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 5 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120051.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 6 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120052.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 6 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120053.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 7 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120054.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 7 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120055.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 8 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120056.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 8 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120057.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 9 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120058.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 9 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120059.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 10 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120060.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TABii SPOR 10 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/120061.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",S-SPORT 1 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1196.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",S-SPORT 2 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3068.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",S-SPORT 1 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1197.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",S-SPORT 2 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3943.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",S-SPORT-PLUS 1 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92461.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",S-SPORT-PLUS 2 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92462.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",S-SPORT-PLUS 3 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92463.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",S-SPORT-PLUS 4 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92464.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",S-SPORT-PLUS 5 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92465.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",S-SPORT-PLUS 6 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/92466.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",SMART-SPOR 1 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/4957.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",SMART SPOR 2 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/60516.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",SMART SPOR 1 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1200.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",SMART SPOR 2 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/60515.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TIVIBU SPOR 1 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1193.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TIVIBU SPOR 2 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1194.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TIVIBU SPOR 3 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1195.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TIVIBU-SPOR 4 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/106958.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TIVIBU SPOR 1 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1190.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TIVIBU SPOR 2 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/2565.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TIVIBU SPOR 3 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/2564.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TIVIBU SPOR 4 FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116233.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",A SPOR SD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1204.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",A SPOR HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1203.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",A SPOR FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/36178.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TRT SPOR YILDIZ SD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93069.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TRT SPOR YILDIZ HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/93068.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TRT SPOR SD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/24046.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TRT SPOR HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1205.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",TRT SPOR FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/36176.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",SPORTS TV HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/45277.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",SPORTS TV FHD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/38233.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",EUROSPORT 1 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1201.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",EUROSPORT 2 HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1202.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",KICKBOKS
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/65256.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",FIGHTBOX HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3947.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",NBA TV HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/3946.ts
-#EXTINF:-1 group-title="XC(1.1.1.1)",FB TV HD
-http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/1207.ts
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102299.m3u8
+#EXTINF:-1 group-title="480P",TİVİBU SPOR 1 
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102302.m3u8
+#EXTINF:-1 group-title="480P",TİVİBU SPOR 2
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102303.m3u8
+#EXTINF:-1 group-title="480P",TİVİBU SPOR 3 
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102304.m3u8
+#EXTINF:-1 group-title="480P",TİVİBU SPOR 4 
+http://kasdkhakfbv.xyz:8080/live/c7B8fgeKJt982/ezeSyCtJSxFX/102305.m3u8
 #EXTINF:-1 group-title="SUNX",beIN Sports 1 HD (VIP)
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/315720.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/315720.m3u8
 #EXTINF:-1 group-title="SUNX",beIN Sports 1 (HD)
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/311552.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/311552.m3u8
 #EXTINF:-1 group-title="SUNX",beIN Sports 1 SD (Mobile)
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/7042.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/7042.m3u8
 #EXTINF:-1 group-title="SUNX",beIN Sports 1 (FHD)
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/52977.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/52977.m3u8
 #EXTINF:-1 group-title="SUNX",beIN Sports 1 (4K)
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/58659.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/58659.m3u8
 #EXTINF:-1 group-title="SUNX",beIN Sports 2 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/52980.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/52980.m3u8
 #EXTINF:-1 group-title="SUNX",beIN Sports 2 (FHD)
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244703.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244703.m3u8
 #EXTINF:-1 group-title="SUNX",beIN Sports 3 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/52981.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/52981.m3u8
 #EXTINF:-1 group-title="SUNX",beIN Sports 3 FHD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244704.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244704.m3u8
 #EXTINF:-1 group-title="SUNX",beIN Sports 4 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/1492.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/1492.m3u8
 #EXTINF:-1 group-title="SUNX",beIN Sports 4 FHD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244705.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244705.m3u8
 #EXTINF:-1 group-title="SUNX",beIN Sports 5 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/194676.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/194676.m3u8
 #EXTINF:-1 group-title="SUNX",beIN Sports 5 FHD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244706.ts
-#EXTINF:-1 group-title="SUNX",beIN Sports MAX 1 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/6977.ts
-#EXTINF:-1 group-title="SUNX",beIN Sports MAX 1 FHD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244764.ts
-#EXTINF:-1 group-title="SUNX",beIN Sports MAX 2 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/6978.ts
-#EXTINF:-1 group-title="SUNX",beIN Sports MAX 2 FHD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244765.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244706.m3u8
+#EXTINF:-1 group-title="SUNX",beIN Sports Max 1 HD
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/6977.m3u8
+#EXTINF:-1 group-title="SUNX",beIN Sports Max 1 FHD
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244764.m3u8
+#EXTINF:-1 group-title="SUNX",beIN Sports Max 2 HD
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/6978.m3u8
+#EXTINF:-1 group-title="SUNX",beIN Sports Max 2 FHD
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244765.m3u8
 #EXTINF:-1 group-title="SUNX",beIN SPORTS HABER HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/6508.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/6508.m3u8
 #EXTINF:-1 group-title="SUNX",beIN Connect 1 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122770.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122770.m3u8
 #EXTINF:-1 group-title="SUNX",beIN Connect 2 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122771.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122771.m3u8
 #EXTINF:-1 group-title="SUNX",beIN Connect 3 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122772.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122772.m3u8
 #EXTINF:-1 group-title="SUNX",beIN Connect 4 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122773.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122773.m3u8
 #EXTINF:-1 group-title="SUNX",beIN Connect 5 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122774.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/122774.m3u8
 #EXTINF:-1 group-title="SUNX",beIN Connect 6 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/250170.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/250170.m3u8
 #EXTINF:-1 group-title="SUNX",S Sport SD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/63396.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/63396.m3u8
 #EXTINF:-1 group-title="SUNX",S Sport HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/106293.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/106293.m3u8
 #EXTINF:-1 group-title="SUNX",S Sport RAW
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244717.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244717.m3u8
 #EXTINF:-1 group-title="SUNX",S Sport 2 SD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/63404.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/63404.m3u8
 #EXTINF:-1 group-title="SUNX",S Sport 2 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133890.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133890.m3u8
 #EXTINF:-1 group-title="SUNX",S Sport 2 FHD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244718.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/244718.m3u8
 #EXTINF:-1 group-title="SUNX",S Sport+ HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/98748.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/98748.m3u8
 #EXTINF:-1 group-title="SUNX",S Sport+2 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133895.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133895.m3u8
 #EXTINF:-1 group-title="SUNX",S Sport+3 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133896.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133896.m3u8
 #EXTINF:-1 group-title="SUNX",S Sport+4 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133897.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133897.m3u8
 #EXTINF:-1 group-title="SUNX",S Sport+5 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133898.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/133898.m3u8
 #EXTINF:-1 group-title="SUNX",S Sport+6 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/146415.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/146415.m3u8
 #EXTINF:-1 group-title="SUNX",D Smart Spor SD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/56226.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/56226.m3u8
 #EXTINF:-1 group-title="SUNX",D Smart Spor HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/44016.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/44016.m3u8
 #EXTINF:-1 group-title="SUNX",D Smart Spor (RAW)
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/284303.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/284303.m3u8
 #EXTINF:-1 group-title="SUNX",D Smart Spor 2 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/100140.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/100140.m3u8
 #EXTINF:-1 group-title="SUNX",Eurosport 1 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/67.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/67.m3u8
 #EXTINF:-1 group-title="SUNX",EUROSPORT 1 FHD+
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/290923.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/290923.m3u8
 #EXTINF:-1 group-title="SUNX",Eurosport 2 HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/29.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/29.m3u8
 #EXTINF:-1 group-title="SUNX",EUROSPORT 2 FHD+
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/290924.ts
-#EXTINF:-1 group-title="SUNX",Fb Tv HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/1709.ts
-#EXTINF:-1 group-title="SUNX",Sports Tv
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/86.ts
-#EXTINF:-1 group-title="SUNX",Nba Tv HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/12.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/290924.m3u8
+#EXTINF:-1 group-title="SUNX",FB TV
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/1709.m3u8
+#EXTINF:-1 group-title="SUNX",Sports TV
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/86.m3u8
+#EXTINF:-1 group-title="SUNX",NBA TV
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/12.m3u8
 #EXTINF:-1 group-title="SUNX",Edge Spor HD
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/134406.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/134406.m3u8
 #EXTINF:-1 group-title="SUNX",Tivibu Spor
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/169636.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/169636.m3u8
 #EXTINF:-1 group-title="SUNX",Tivibu Spor 1
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/179.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/179.m3u8
 #EXTINF:-1 group-title="SUNX",Tivibu Spor 2
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/180.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/180.m3u8
 #EXTINF:-1 group-title="SUNX",Tivibu Spor 3
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/181.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/181.m3u8
 #EXTINF:-1 group-title="SUNX",Tivibu Spor 4
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/102443.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/102443.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/312379.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/312379.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/312380.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/312380.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor (TR IP)
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321637.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321637.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor 1
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293302.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293302.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor 1
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293303.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293303.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor 1 (TR IP)
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321639.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321639.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor 2
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293304.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293304.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor 2
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293305.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293305.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor 2 (TR IP)
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321640.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321640.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor 3
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293306.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293306.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor 3
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293307.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293307.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor 3 (TR IP)
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321641.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321641.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor 4
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293308.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293308.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor 4
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293309.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293309.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor 4 (TR IP)
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321642.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321642.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor 5
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293310.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293310.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor 5
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293311.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293311.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor 5 (TR IP)
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321643.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321643.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor 6
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293312.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293312.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor 6
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293313.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/293313.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii Spor 6 (TR IP)
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321644.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/321644.m3u8
 #EXTINF:-1 group-title="SUNX",Tabii TV
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/318592.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/318592.m3u8
 #EXTINF:-1 group-title="SUNX",Exxen TV
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/291106.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/291106.m3u8
 #EXTINF:-1 group-title="SUNX",Exxen Spor 1
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/146404.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/146404.m3u8
 #EXTINF:-1 group-title="SUNX",Exxen Spor 1
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245548.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245548.m3u8
 #EXTINF:-1 group-title="SUNX",Exxen Spor 1 (RAW)
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245555.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245555.m3u8
 #EXTINF:-1 group-title="SUNX",Exxen Spor 2
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/143250.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/143250.m3u8
 #EXTINF:-1 group-title="SUNX",Exxen Spor 2
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245549.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245549.m3u8
 #EXTINF:-1 group-title="SUNX",Exxen Spor 3
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/143251.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/143251.m3u8
 #EXTINF:-1 group-title="SUNX",Exxen Spor 3
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245550.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245550.m3u8
 #EXTINF:-1 group-title="SUNX",Exxen Spor 4
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/146209.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/146209.m3u8
 #EXTINF:-1 group-title="SUNX",Exxen Spor 4
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245551.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245551.m3u8
 #EXTINF:-1 group-title="SUNX",Exxen Spor 5
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/148399.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/148399.m3u8
 #EXTINF:-1 group-title="SUNX",Exxen Spor 5
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245552.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245552.m3u8
 #EXTINF:-1 group-title="SUNX",Exxen Spor 6
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/148400.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/148400.m3u8
 #EXTINF:-1 group-title="SUNX",Exxen Spor 6
-http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245553.ts
+http://sunxtiny5.cfd:80/live/berkfransa22/fransa.150819/245553.m3u8
