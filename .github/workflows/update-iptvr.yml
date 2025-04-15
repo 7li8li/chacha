@@ -14,8 +14,8 @@ jobs:
       - name: Listeleri Birleştir
         run: |
           echo "#EXTM3U" > iptvr.m3u  # Yeni listenin başına #EXTM3U ekler
-          tail - n +2 iptvts.m3u >> iptvr.m3u  # İlk satır hariç tüm içeriği ekler
-          tail - n +2 iptvg.m3u >> iptvr.m3u  # İlk satır hariç tüm içeriği ekler
+          awk 'NR>1' iptvts.m3u >> iptvr.m3u  # İlk satır hariç tüm içeriği ekler
+          awk 'NR>1' iptvg.m3u >> iptvr.m3u  # İlk satır hariç tüm içeriği ekler
 
       - name: Güncellenmiş Dosyayı Commit Et
         run: |
