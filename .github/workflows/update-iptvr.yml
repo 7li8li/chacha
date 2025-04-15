@@ -1,4 +1,4 @@
-name: IPTVR Liste Birleştir
+name: IPTVR List
 on:
   push:
     paths:
@@ -8,19 +8,21 @@ jobs:
   update-list:
     runs-on: ubuntu-latest
     steps:
-      - name: Depoyu Klonla
+      - name: Clonning
         uses: actions/checkout@v2
 
-      - name: Listeleri Birleştir
+      - name: IPTV Listelerini Birleştir
         run: |
-          echo "#EXTM3U" > iptvr.m3u  # Yeni listenin başına #EXTM3U ekler
-          awk 'NR>1' iptvts.m3u >> iptvr.m3u  # İlk satır hariç tüm içeriği ekler
-          awk 'NR>1' iptvg.m3u >> iptvr.m3u  # İlk satır hariç tüm içeriği ekler
+          echo "#EXTM3U" > iptvr.m3u
+          awk 'NR>1' iptvts.m3u >> iptvr.m3u
+          awk 'NR>1' iptvg.m3u >> iptvr.m3u
 
-      - name: Güncellenmiş Dosyayı Commit Et
+      - name: Commit
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add iptvr.m3u
-          git commit -m "Auto update"
-          git push
+          git commit -m "Auto merge"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/7li8li/chacha.git
