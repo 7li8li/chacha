@@ -53,6 +53,14 @@ https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=FtNYTaoc2TY.m3u8
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=FGL1GwoRRIw
 #EXTINF:-1 group-title="MYWAY",Yeşilçam
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=UgKxh04Iv9o
+#EXTINF:-1 group-title="HLS",beIN SPORTS
+https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
+#EXTINF:-1 group-title="HLS",beIN SPORTS 2
+https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8
+#EXTINF:-1 group-title="HLS",beIN SPORTS 3
+https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8
+#EXTINF:-1 group-title="HLS",beIN SPORTS 4
+https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8
 #EXTINF:-1 group-title="480P",beIN SPORTS
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102284
 #EXTINF:-1 group-title="480P",beIN SPORTS 2 
@@ -97,11 +105,3 @@ http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102303
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102304
 #EXTINF:-1 group-title="480P",TİVİBU SPOR 4 
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102305
-#EXTINF:-1 group-title="HLS",beIN SPORTS
-https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
-#EXTINF:-1 group-title="HLS",beIN SPORTS 2
-https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8
-#EXTINF:-1 group-title="HLS",beIN SPORTS 3
-https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8
-#EXTINF:-1 group-title="HLS",beIN SPORTS 4
-https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8
