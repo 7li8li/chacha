@@ -11,7 +11,7 @@ jobs:
       - name: Clonning
         uses: actions/checkout@v2
 
-      - name: IPTV Listelerini Birleştir
+      - name: Merge lists
         run: |
           echo "#EXTM3U" > iptvr.m3u
           awk 'NR>1' iptvts.m3u >> iptvr.m3u
