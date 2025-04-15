@@ -1,4 +1,4 @@
-name: IPTV Liste Birleştirme
+name: IPTVR Liste Birleştir
 on:
   push:
     paths:
@@ -11,16 +11,16 @@ jobs:
       - name: Depoyu Klonla
         uses: actions/checkout@v2
 
-      - name: IPTV Listelerini Birleştir
+      - name: Listeleri Birleştir
         run: |
-          echo "#EXTM3U" > iptvr.m3u
-          tail -n +2 iptvts.m3u >> iptvr.m3u
-          tail -n +2 iptvg.m3u >> iptvr.m3u
+          echo "#EXTM3U" > iptvr.m3u  # Yeni listenin başına #EXTM3U ekler
+          sed '1d' iptvts.m3u >> iptvr.m3u  # İlk satır hariç tüm içeriği ekler
+          sed '1d' iptvg.m3u >> iptvr.m3u  # İlk satır hariç tüm içeriği ekler
 
       - name: Güncellenmiş Dosyayı Commit Et
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add iptvr.m3u
-          git commit -m "Oto güncelleme"
+          git commit -m "Auto update"
           git push
