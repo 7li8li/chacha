@@ -35,6 +35,9 @@ jobs:
       - name: Verify IPTV File Before Update
         run: cat iptvts.m3u || echo "iptvts.m3u is empty!"
 
+      - name: Ensure error.log exists
+        run: touch error.log
+
       - name: Update IPTV List
         run: |
           if [ -s iptvts.m3u ]; then
