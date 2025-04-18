@@ -14,15 +14,19 @@ jobs:
 
       - name: Load Previous Parameters
         run: |
+          set -a
           source preconfigts.env
-          echo "OLD_PARAM1=$OLD_PARAM1"
-          echo "OLD_PARAM2=$OLD_PARAM2"
-          echo "OLD_PARAM3=$OLD_PARAM3"
-          echo "OLD_PARAM4=$OLD_PARAM4"
+          set +a
+          echo "OLD_PARAM1=${OLD_PARAM1:-EMPTY}"
+          echo "OLD_PARAM2=${OLD_PARAM2:-EMPTY}"
+          echo "OLD_PARAM3=${OLD_PARAM3:-EMPTY}"
+          echo "OLD_PARAM4=${OLD_PARAM4:-EMPTY}"
 
       - name: Load New Parameters
         run: |
+          set -a
           source configts.env
+          set +a
           echo "NEW_PARAM1=${NEW_PARAM1:-EMPTY}"
           echo "NEW_PARAM2=${NEW_PARAM2:-EMPTY}"
           echo "NEW_PARAM3=${NEW_PARAM3:-EMPTY}"
@@ -34,10 +38,10 @@ jobs:
       - name: Update IPTV List
         run: |
           if [ -s iptvts.m3u ]; then
-            sed -i "s|$OLD_PARAM1|${NEW_PARAM1:-$OLD_PARAM1}|g" iptvts.m3u
-            sed -i "s|$OLD_PARAM2|${NEW_PARAM2:-$OLD_PARAM2}|g" iptvts.m3u
-            sed -i "s|$OLD_PARAM3|${NEW_PARAM3:-$OLD_PARAM3}|g" iptvts.m3u
-            sed -i "s|$OLD_PARAM4|${NEW_PARAM4:-$OLD_PARAM4}|g" iptvts.m3u
+            sed -i "s|${OLD_PARAM1:-DEFAULT}|${NEW_PARAM1:-$OLD_PARAM1}|g" iptvts.m3u
+            sed -i "s|${OLD_PARAM2:-DEFAULT}|${NEW_PARAM2:-$OLD_PARAM2}|g" iptvts.m3u
+            sed -i "s|${OLD_PARAM3:-DEFAULT}|${NEW_PARAM3:-$OLD_PARAM3}|g" iptvts.m3u
+            sed -i "s|${OLD_PARAM4:-DEFAULT}|${NEW_PARAM4:-$OLD_PARAM4}|g" iptvts.m3u
           else
             echo "iptvts.m3u is empty! Update aborted." >> error.log
           fi
