@@ -14,9 +14,11 @@ jobs:
 
       - name: Load Previous Parameters
         run: |
-          set -a
+          if [ ! -f preconfigts.env ]; then
+            echo "Error: preconfigts.env does not exist!" > error.log
+            exit 1
+          fi
           source preconfigts.env
-          set +a
           echo "OLD_PARAM1=${OLD_PARAM1:-EMPTY}" | tee -a debug.log
           echo "OLD_PARAM2=${OLD_PARAM2:-EMPTY}" | tee -a debug.log
           echo "OLD_PARAM3=${OLD_PARAM3:-EMPTY}" | tee -a debug.log
@@ -24,16 +26,15 @@ jobs:
 
       - name: Load New Parameters
         run: |
-          set -a
+          if [ ! -f configts.env ]; then
+            echo "Error: configts.env does not exist!" > error.log
+            exit 1
+          fi
           source configts.env
-          set +a
           echo "NEW_PARAM1=${NEW_PARAM1:-EMPTY}" | tee -a debug.log
           echo "NEW_PARAM2=${NEW_PARAM2:-EMPTY}" | tee -a debug.log
           echo "NEW_PARAM3=${NEW_PARAM3:-EMPTY}" | tee -a debug.log
           echo "NEW_PARAM4=${NEW_PARAM4:-EMPTY}" | tee -a debug.log
-
-      - name: Verify IPTV File Before Update
-        run: cat iptvts.m3u || echo "iptvts.m3u is empty!"
 
       - name: Ensure error.log exists
         run: touch error.log
@@ -41,18 +42,29 @@ jobs:
       - name: Update IPTV List
         run: |
           if [ -s iptvts.m3u ]; then
-            sed -i "s|${OLD_PARAM1:-DEFAULT}|${NEW_PARAM1:-$OLD_PARAM1}|g" iptvts.m3u || echo "Error updating OLD_PARAM1" >> error.log
-            sed -i "s|${OLD_PARAM2:-DEFAULT}|${NEW_PARAM2:-$OLD_PARAM2}|g" iptvts.m3u || echo "Error updating OLD_PARAM2" >> error.log
-            sed -i "s|${OLD_PARAM3:-DEFAULT}|${NEW_PARAM3:-$OLD_PARAM3}|g" iptvts.m3u || echo "Error updating OLD_PARAM3" >> error.log
-            sed -i "s|${OLD_PARAM4:-DEFAULT}|${NEW_PARAM4:-$OLD_PARAM4}|g" iptvts.m3u || echo "Error updating OLD_PARAM4" >> error.log
+            sed -i "s|$OLD_PARAM1|${NEW_PARAM1:-$OLD_PARAM1}|g" iptvts.m3u || echo "Error updating OLD_PARAM1" >> error.log
+            sed -i "s|$OLD_PARAM2|${NEW_PARAM2:-$OLD_PARAM2}|g" iptvts.m3u || echo "Error updating OLD_PARAM2" >> error.log
+            sed -i "s|$OLD_PARAM3|${NEW_PARAM3:-$OLD_PARAM3}|g" iptvts.m3u || echo "Error updating OLD_PARAM3" >> error.log
+            sed -i "s|$OLD_PARAM4|${NEW_PARAM4:-$OLD_PARAM4}|g" iptvts.m3u || echo "Error updating OLD_PARAM4" >> error.log
           else
             echo "iptvts.m3u is empty! Update aborted." >> error.log
           fi
 
-      - name: Verify IPTV File After Update
-        run: cat iptvts.m3u || echo "iptvts.m3u remained empty!"
+      - name: Update Previous Config File Safely
+        run: |
+          if [ -s preconfigts.env ]; then
+            echo "OLD_PARAM1=${NEW_PARAM1:-$OLD_PARAM1}" > preconfigts.env
+            echo "OLD_PARAM2=${NEW_PARAM2:-$OLD_PARAM2}" >> preconfigts.env
+            echo "OLD_PARAM3=${NEW_PARAM3:-$OLD_PARAM3}" >> preconfigts.env
+            echo "OLD_PARAM4=${NEW_PARAM4:-$OLD_PARAM4}" >> preconfigts.env
+          else
+            echo "Warning: preconfigts.env is empty. Keeping previous values." >> error.log
+          fi
 
-      - name: Debug Previous Config Before Update
-        run: cat preconfigts.env || echo "preconfigts.env is empty BEFORE update!"
-
-      - name: Update Previous
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add iptvts.m3u preconfigts.env debug.log error.log
+          git commit -m "Auto update: Parameters changed"
+          git push
