@@ -12,8 +12,13 @@ jobs:
       - name: Clone Repository
         uses: actions/checkout@v2
 
+      - name: Initialize Logs
+        run: |
+          rm -f debug.log error.log
+
       - name: Load Parameters
         run: |
+          set -e
           if [ ! -f preconfigts.env ] || [ ! -f configts.env ]; then
             echo "Error: Required env files are missing!" > error.log
             exit 1
@@ -25,10 +30,12 @@ jobs:
 
       - name: Update IPTV List
         run: |
-          if [ -s iptvts.m3u ]; then
+          set -e
+          if [ -f iptvts.m3u ] && [ -s iptvts.m3u ]; then
             sed -i "s|$OLD_PARAM1|${NEW_PARAM1:-$OLD_PARAM1}|g" iptvts.m3u || echo "Error updating OLD_PARAM1" >> error.log
           else
-            echo "iptvts.m3u is empty! Update aborted." >> error.log
+            echo "iptvts.m3u is missing or empty! Update aborted." >> error.log
+            exit 1
           fi
 
       - name: Update Previous Config File
@@ -37,8 +44,8 @@ jobs:
 
       - name: Commit and Push Updates
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
           git add iptvts.m3u preconfigts.env debug.log error.log
-          git commit -m "Auto update: Parameters changed"
-          git push
+          git commit -m "Auto update: Parameters changed" || echo "No changes to commit."
+          git push || echo "No changes pushed."
