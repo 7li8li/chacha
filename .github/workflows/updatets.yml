@@ -14,7 +14,7 @@ jobs:
 
       - name: Load Previous Parameters
         run: |
-          source $GITHUB_WORKSPACE/preconfigts
+          source preconfigts
           echo "OLD_PARAM1=$OLD_PARAM1"
           echo "OLD_PARAM2=$OLD_PARAM2"
           echo "OLD_PARAM3=$OLD_PARAM3"
@@ -22,7 +22,7 @@ jobs:
 
       - name: Load New Parameters
         run: |
-          source $GITHUB_WORKSPACE/configts 
+          source configts 
           echo "NEW_PARAM1=${NEW_PARAM1:-EMPTY}"
           echo "NEW_PARAM2=${NEW_PARAM2:-EMPTY}"
           echo "NEW_PARAM3=${NEW_PARAM3:-EMPTY}"
