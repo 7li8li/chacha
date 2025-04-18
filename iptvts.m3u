@@ -1,257 +1,256 @@
-#EXTM3U
-#EXTINF:-1 group-title="MY-TABII",Tabii Spor 
-https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="MY-TABII",Tabii Spor 1 
-https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="MY-TABII",Tabii Spor 2 
-https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="MY-TABII",Tabii Spor 3 
-https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="MY-TABII",Tabii Spor 4 
-https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="MY-TABII",Tabii Spor 5 
-https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="MY-TABII",Tabii Spor 6 
-https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="MY-TABII",S SPORT
-https://217.30.11.74/e/3030.m3u8
-#EXTINF:-1 group-title="MY-TABII",S SPORT 2 
-https://217.30.11.74/e/3031.m3u8
-#EXTINF:-1 group-title="MY-TABII",National Geographic
-https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
-#EXTINF:-1 group-title="MY-TABII",Discovery Channel
-https://217.30.11.74/e/500.m3u8
-#EXTINF:-1 group-title="MY-TABII",Tabii TV
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
-#EXTINF:-1 group-title="MY-TABII",Tolga Çevik 1
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=wpIXwblLA8I
-#EXTINF:-1 group-title="MY-TABII",Tolga Çevik 2 
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=FATDnY2ymoo
-#EXTINF:-1 group-title="MY-TABII",Tolga Çevik 3 
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=aWfuX57lXis
-#EXTINF:-1 group-title="MY-TABII",Kemal Sunal 1
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=FtNYTaoc2TY.m3u8
-#EXTINF:-1 group-title="MY-TABII",Kemal Sunal 2
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=FGL1GwoRRIw
-#EXTINF:-1 group-title="MY-TABII",Yeşilçam
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=UgKxh04Iv9o
-#EXTINF:-1 group-title="JEST",beIN SPORTS
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinzirve.m3u8
-#EXTINF:-1 group-title="JEST",beIN SPORTS 2
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinb2.m3u8
-#EXTINF:-1 group-title="JEST",beIN SPORTS 3
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinb3.m3u8
-#EXTINF:-1 group-title="JEST",beIN SPORTS 4
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinb4.m3u8
-#EXTINF:-1 group-title="JEST",beIN SPORTS 5
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinb5.m3u8
-#EXTINF:-1 group-title="JEST",beIN SPORTS Max
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinbm1.m3u8
-#EXTINF:-1 group-title="JEST",beIN SPORTS Max 2
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinbm2.m3u8
-#EXTINF:-1 group-title="JEST",SPOR SMART
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinsmarts.m3u8
-#EXTINF:-1 group-title="JEST",SPOR SMART 2
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinsms2.m3u8
-#EXTINF:-1 group-title="JEST",S SPORT
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinss.m3u8
-#EXTINF:-1 group-title="JEST",S SPORT 2
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinss2.m3u8
-#EXTINF:-1 group-title="JEST",TİVİBU SPOR 1
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayint1.m3u8
-#EXTINF:-1 group-title="JEST",TİVİBU SPOR 2
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayint2.m3u8
-#EXTINF:-1 group-title="JEST",TİVİBU SPOR 3
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayint3.m3u8
-#EXTINF:-1 group-title="JEST",Tabii Spor
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinex7.m3u8
-#EXTINF:-1 group-title="JEST",Tabii Spor 1
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinex1.m3u8
-#EXTINF:-1 group-title="JEST",Tabii Spor 2
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinex2.m3u8
-#EXTINF:-1 group-title="JEST",Tabii Spor 3
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinex3.m3u8
-#EXTINF:-1 group-title="JEST",Tabii Spor 4
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinex4.m3u8
-#EXTINF:-1 group-title="JEST",Tabii Spor 5
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinex5.m3u8
-#EXTINF:-1 group-title="JEST",Tabii Spor 6
-#EXTVLCOPT:http-referrer=https://jestyayin935.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbb.mevzuhls30.cfd/yayinex6.m3u8
-#EXTINF:-1 group-title="TRGOALS",beIN SPORTS
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayinzirve.m3u8
-#EXTINF:-1 group-title="TRGOALS",beIN SPORTS 2
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayinb2.m3u8
-#EXTINF:-1 group-title="TRGOALS",beIN SPORTS 3
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayinb3.m3u8
-#EXTINF:-1 group-title="TRGOALS",beIN SPORTS 4
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayinb4.m3u8
-#EXTINF:-1 group-title="TRGOALS",beIN SPORTS 5
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayinb5.m3u8
-#EXTINF:-1 group-title="TRGOALS",beIN SPORTS Max
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayinbm1.m3u8
-#EXTINF:-1 group-title="TRGOALS",beIN SPORTS Max 2
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayinbm2.m3u8
-#EXTINF:-1 group-title="TRGOALS",S SPORT
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayinss.m3u8
-#EXTINF:-1 group-title="TRGOALS",S SPORT 2
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayinss2.m3u8
-#EXTINF:-1 group-title="TRGOALS",SPOR SMART
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayinsmarts.m3u8
-#EXTINF:-1 group-title="TRGOALS",SPOR SMART 2
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayinsms2.m3u8
-#EXTINF:-1 group-title="TRGOALS",TİVİBU SPOR 1
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayint1.m3u8
-#EXTINF:-1 group-title="TRGOALS",TİVİBU SPOR 2
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayint2.m3u8
-#EXTINF:-1 group-title="TRGOALS",TİVİBU SPOR 3
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayint3.m3u8
-#EXTINF:-1 group-title="TRGOALS",Tabii Spor
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayinex7.m3u8
-#EXTINF:-1 group-title="TRGOALS",Tabii Spor 1
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayinex1.m3u8
-#EXTINF:-1 group-title="TRGOALS",Tabii Spor 2
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayinex2.m3u8
-#EXTINF:-1 group-title="TRGOALS",Tabii Spor 3
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayinex3.m3u8
-#EXTINF:-1 group-title="TRGOALS",Tabii Spor 4
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayinex4.m3u8
-#EXTINF:-1 group-title="TRGOALS",Tabii Spor 5
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayinex5.m3u8
-#EXTINF:-1 group-title="TRGOALS",Tabii Spor 6
-#EXTVLCOPT:http-referrer=https://trgoals1281.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://h0.7fdc5a6527bc3dd5.workers.dev/yayinex6.m3u8
-#EXTINF:-1 group-title="480P(VPN)",beIN SPORTS
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102284
-#EXTINF:-1 group-title="480P(VPN)",beIN SPORTS 2 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102285
-#EXTINF:-1 group-title="480P(VPN)",beIN SPORTS 3 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102286
-#EXTINF:-1 group-title="480P(VPN)",beIN SPORTS 4 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102287
-#EXTINF:-1 group-title="480P(VPN)",beIN SPORTS 5 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102288
-#EXTINF:-1 group-title="480P(VPN)",beIN SPORTS Max
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102289
-#EXTINF:-1 group-title="480P(VPN)",beIN SPORTS Max 2 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102290
-#EXTINF:-1 group-title="480P(VPN)",S SPORT
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102291
-#EXTINF:-1 group-title="480P(VPN)",S SPORT 2 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102292
-#EXTINF:-1 group-title="480P(VPN)",SPOR SMART
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102300
-#EXTINF:-1 group-title="480P(VPN)",SPOR SMART 2
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102301
-#EXTINF:-1 group-title="480P(VPN)",Tabii Spor 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102293
-#EXTINF:-1 group-title="480P(VPN)",Tabii Spor 1 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102294
-#EXTINF:-1 group-title="480P(VPN)",Tabii Spor 2 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102295
-#EXTINF:-1 group-title="480P(VPN)",Tabii Spor 3 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102296
-#EXTINF:-1 group-title="480P(VPN)",Tabii Spor 4 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102297
-#EXTINF:-1 group-title="480P(VPN)",Tabii Spor 5 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102298
-#EXTINF:-1 group-title="480P(VPN)",Tabii Spor 6 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102299
-#EXTINF:-1 group-title="480P(VPN)",TİVİBU SPOR 1 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102302
-#EXTINF:-1 group-title="480P(VPN)",TİVİBU SPOR 2
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102303
-#EXTINF:-1 group-title="480P(VPN)",TİVİBU SPOR 3 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102304
-#EXTINF:-1 group-title="480P(VPN)",TİVİBU SPOR 4 
-http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102305
-#EXTINF:-1 group-title="HLS(DNS)",beIN SPORTS
-https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
-#EXTINF:-1 group-title="HLS(DNS)",beIN SPORTS 2
-https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8
-#EXTINF:-1 group-title="HLS(DNS)",beIN SPORTS 3
-https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8
-#EXTINF:-1 group-title="HLS(DNS)",beIN SPORTS 4
-https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
