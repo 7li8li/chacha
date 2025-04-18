@@ -1,0 +1,40 @@
+name: Update TS List
+on:
+  push:
+    paths:
+      - 'config.env'
+      - 'iptvts.m3u'
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone Repository
+        uses: actions/checkout@v2
+
+      - name: Load Previous Parameters
+        run: source previous_config.env # Load OLD_PARAM values
+
+      - name: Load New Parameters
+        run: source config.env # Load NEW_PARAM values
+
+      - name: Update IPTV List
+        run: |
+          sed -i "s|$OLD_PARAM1|$NEW_PARAM1|g" iptvts.m3u
+          sed -i "s|$OLD_PARAM2|$NEW_PARAM2|g" iptvts.m3u
+          sed -i "s|$OLD_PARAM3|$NEW_PARAM3|g" iptvts.m3u
+          sed -i "s|$OLD_PARAM4|$NEW_PARAM4|g" iptvts.m3u
+
+      - name: Update Previous Config File
+        run: |
+          echo "OLD_PARAM1=$NEW_PARAM1" > previous_config.env
+          echo "OLD_PARAM2=$NEW_PARAM2" >> previous_config.env
+          echo "OLD_PARAM3=$NEW_PARAM3" >> previous_config.env
+          echo "OLD_PARAM4=$NEW_PARAM4" >> previous_config.env
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add iptvts.m3u previous_config.env
+          git commit -m "Auto update: Parameters changed"
+          git push
