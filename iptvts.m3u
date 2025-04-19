@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="HLS",beIN SPORTS
-https://tvcdn.4t40.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
-#EXTINF:-1 group-title="HLS",beIN SPORTS 2
-https://tvcdn.4t40.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8
-#EXTINF:-1 group-title="HLS",beIN SPORTS 3
-https://tvcdn.4t40.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8
-#EXTINF:-1 group-title="HLS",beIN SPORTS 4
-https://tvcdn.4t40.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8
 #EXTINF:-1 group-title="MY-TABII",Tabii Spor 
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="MY-TABII",Tabii Spor 1 
@@ -243,6 +235,14 @@ https://a0.4928d54d950ee70q21.click/yayineu1.m3u8
 #EXTVLCOPT:http-referrer=https://trgoals1285.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://a0.4928d54d950ee70q21.click/yayineu2.m3u8
+#EXTINF:-1 group-title="HLS(DNS)",beIN SPORTS
+https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
+#EXTINF:-1 group-title="HLS(DNS)",beIN SPORTS 2
+https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8
+#EXTINF:-1 group-title="HLS(DNS)",beIN SPORTS 3
+https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8
+#EXTINF:-1 group-title="HLS(DNS)",beIN SPORTS 4
+https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8
 #EXTINF:-1 group-title="480P(VPN)",beIN SPORTS
 http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102284
 #EXTINF:-1 group-title="480P(VPN)",beIN SPORTS 2 
