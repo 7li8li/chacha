@@ -47,8 +47,12 @@ https://217.30.11.74/e/3030.m3u8
 https://217.30.11.74/e/3031.m3u8
 #EXTINF:-1 group-title="MY-TABII",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
+#EXTINF:-1 group-title="MY-TABII",National Geographic Wild
+https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 group-title="MY-TABII",Discovery Channel
 https://217.30.11.74/e/500.m3u8
+#EXTINF:-1 group-title="MY-TABII",FX
+https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 group-title="MY-TABII",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
 #EXTINF:-1 group-title="MY-TABII",Tolga Çevik 1
@@ -56,7 +60,7 @@ https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=wpIXwblLA8I
 #EXTINF:-1 group-title="MY-TABII",Tolga Çevik 2 
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=FATDnY2ymoo
 #EXTINF:-1 group-title="MY-TABII",Tolga Çevik 3 
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=aWfuX57lXis
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=tzWXShIdFWI
 #EXTINF:-1 group-title="MY-TABII",Kemal Sunal 1
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=FtNYTaoc2TY.m3u8
 #EXTINF:-1 group-title="MY-TABII",Kemal Sunal 2
