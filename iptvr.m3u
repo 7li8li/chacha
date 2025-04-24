@@ -828,6 +828,14 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="MY-TABII",Tabii Spor 6 
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="MY-TABII",beIN SPORTS
+https://gknnowtv.onrender.com/bein1.m3u8
+#EXTINF:-1 group-title="MY-TABII",beIN SPORTS 2
+https://gknnowtv.onrender.com/bein2.m3u8
+#EXTINF:-1 group-title="MY-TABII",beIN SPORTS 3
+https://gknnowtv.onrender.com/bein3.m3u8
+#EXTINF:-1 group-title="MY-TABII",beIN SPORTS 4
+https://gknnowtv.onrender.com/bein4.m3u8
+#EXTINF:-1 group-title="MY-TABII",beIN SPORTS
 #EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://alpha.cf-worker-e421c8e8da6ff691.workers.dev/live/selcukbeinsports1/playlist.m3u8
