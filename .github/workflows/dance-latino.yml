@@ -1,4 +1,4 @@
-name: Dance Dance Dance
+name: DanceDanceDance
 on:
   push:
     paths:
