@@ -1,1 +1,240 @@
-Initiated
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal 1" tvg-logo="" group-title="M&S (Vavoo)",Kemal Sunal 1
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=FtNYTaoc2TY.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal 2" tvg-logo="" group-title="M&S (Vavoo)",Kemal Sunal 2
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=FGL1GwoRRIw
+#EXTINF:-1 tvg-id="" tvg-name="Yeşilçam" tvg-logo="" group-title="M&S (Vavoo)",Yeşilçam
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=UgKxh04Iv9o
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="" group-title="M&S (Vavoo)",360
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+#EXTINF:-1 tvg-id="a2.tr" tvg-name="A2" tvg-logo="" group-title="M&S (Vavoo)",A2
+https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
+? # https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="teve 2" tvg-logo="" group-title="M&S (Vavoo)",teve 2
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
+#EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="ShowMax" tvg-logo="" group-title="M&S (Vavoo)",ShowMax
+https://canlitvulusal.xyz/live/showmax/index.m3u8
+#EXTINF:-1 tvg-id="Tabii TV.tr" tvg-name="Tabii TV" tvg-logo="" group-title="M&S (Vavoo)",Tabii TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-logo="" group-title="M&S (Vavoo)",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="" group-title="M&S (Vavoo)",TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:-1 tvg-id="FX.tr" tvg-name="FX" tvg-logo="" group-title="M&S (Vavoo)",FX
+https://saran-live.ercdn.net/fx/index.m3u8
+#EXTINF:-1 tvg-id="Dizi Smart Max.tr" tvg-name="Dizismart Max" tvg-logo="" group-title="M&S (Vavoo)",Dizismart Max
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1165201807/index.m3u8
+#EXTINF:-1 tvg-id="Dizi Smart Premium.tr" tvg-name="Dizismart Premium" tvg-logo="" group-title="M&S (Vavoo)",Dizismart Premium
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1195429280/index.m3u8
+#EXTINF:-1 tvg-id="beIN SERIES 1.tr" tvg-name="beIN SERIES 1" tvg-logo="" group-title="M&S (Vavoo)",beIN SERIES 1
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2190922298/index.m3u8
+#EXTINF:-1 tvg-id="beIN SERIES 2.tr" tvg-name="beIN SERIES 2" tvg-logo="" group-title="M&S (Vavoo)",beIN SERIES 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3308693738/index.m3u8
+#EXTINF:-1 tvg-id="beIN SERIES 3.tr" tvg-name="beIN SERIES 3" tvg-logo="" group-title="M&S (Vavoo)",beIN SERIES 3
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4166418778/index.m3u8
+#EXTINF:-1 tvg-id="beIN SERIES 4.tr" tvg-name="beIN SERIES 4" tvg-logo="" group-title="M&S (Vavoo)",beIN SERIES 4
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1249271114/index.m3u8
+#EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-name="Moviesmart Türk" tvg-logo="" group-title="M&S (Vavoo)",Moviesmart Türk
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3719397522/index.m3u8
+#EXTINF:-1 tvg-id="beIN MOVIES TURK.tr" tvg-name="beIN Movies Turk" tvg-logo="" group-title="M&S (Vavoo)",beIN Movies Turk
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1835579025/index.m3u8
+#EXTINF:-1 tvg-id="Moviesmart Classic.tr" tvg-name="Moviesmart Classic" tvg-logo="" group-title="M&S (Vavoo)",Moviesmart Classic
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1337239933/index.m3u8
+#EXTINF:-1 tvg-id="beIN MOVIES PREMIERE.tr" tvg-name="beIN Movies Premiere" tvg-logo="" group-title="M&S (Vavoo)",beIN Movies Premiere
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2197747964/index.m3u8
+#EXTINF:-1 tvg-id="beIN MOVIES PREMIERE 2.tr" tvg-name="beIN Movies Premiere 2" tvg-logo="" group-title="M&S (Vavoo)",beIN Movies Premiere 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2120218356/index.m3u8
+#EXTINF:-1 tvg-id="beIN MOVIES STARS.tr" tvg-name="beIN Movies Stars" tvg-logo="" group-title="M&S (Vavoo)",beIN Movies Stars
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1963748784/index.m3u8
+#EXTINF:-1 tvg-id="Sinema Tv.tr" tvg-name="Sinema TV" tvg-logo="" group-title="M&S (Vavoo)",Sinema TV
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2780830033/index.m3u8
+#EXTINF:-1 tvg-id="Sinema Tv 2.tr" tvg-name="Sinema 2" tvg-logo="" group-title="M&S (Vavoo)",Sinema 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/295060524/index.m3u8
+#EXTINF:-1 tvg-id="Sinema Tv Aksiyon.tr" tvg-name="Sinema Aksiyon" tvg-logo="" group-title="M&S (Vavoo)",Sinema Aksiyon
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2246993811/index.m3u8
+#EXTINF:-1 tvg-id="Sinema Tv Aksiyon 2.tr" tvg-name="Sinema Aksiyon 2" tvg-logo="" group-title="M&S (Vavoo)",Sinema Aksiyon 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3440711580/index.m3u8
+#EXTINF:-1 tvg-id="Sinema Tv 1001.tr" tvg-name="Sinema 1001" tvg-logo="" group-title="M&S (Vavoo)",Sinema 1001
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2761385166/index.m3u8
+#EXTINF:-1 tvg-id="Sinema Tv 1002.tr" tvg-name="Sinema 1002" tvg-logo="" group-title="M&S (Vavoo)",Sinema 1002
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1076643856/index.m3u8
+#EXTINF:-1 tvg-id="Sinema Tv Aile.tr" tvg-name="Sinema Aile" tvg-logo="" group-title="M&S (Vavoo)",Sinema Aile
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3000594763/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="beIN BOX OFFICE 1" tvg-logo="" group-title="M&S (Vavoo)",beIN BOX OFFICE 1
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1320363850/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="beIN BOX OFFICE 2" tvg-logo="" group-title="M&S (Vavoo)",beIN BOX OFFICE 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/152264090/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="beIN BOX OFFICE 3" tvg-logo="" group-title="M&S (Vavoo)",beIN BOX OFFICE 3
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/879981610/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="Filmbox Comedy" tvg-logo="" group-title="M&S (Vavoo)",Filmbox Comedy
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2089556265/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="SL Sinema Türk" tvg-logo="" group-title="M&S (Vavoo)",SL Sinema Türk
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2789249461/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="Sinemax Türk" tvg-logo="" group-title="M&S (Vavoo)",Sinemax Türk
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4201568953/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="Sinemax Komedi" tvg-logo="" group-title="M&S (Vavoo)",Sinemax Komedi
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/565813762/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="Sinemax Family" tvg-logo="" group-title="M&S (Vavoo)",Sinemax Family
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1469484475/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="Fiberbox Türk" tvg-logo="" group-title="M&S (Vavoo)",Fiberbox Türk
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2600387615/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="Fiberbox Aksiyon" tvg-logo="" group-title="M&S (Vavoo)",Fiberbox Aksiyon
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1130352730/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="Fiberbox Fantastik" tvg-logo="" group-title="M&S (Vavoo)",Fiberbox Fantastik
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2267707661/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBALbox Kemal Sunal" tvg-logo="" group-title="M&S (Vavoo)",GLOBALbox Kemal Sunal
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4275446197/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBALbox Yeşilçam" tvg-logo="" group-title="M&S (Vavoo)",GLOBALbox Yeşilçam
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2046943434/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBALbox Yerli" tvg-logo="" group-title="M&S (Vavoo)",GLOBALbox Yerli
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2322262210/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBALbox Comedy" tvg-logo="" group-title="M&S (Vavoo)",GLOBALbox Comedy
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1828059735/index.m3u8
+EXTINF:-1 tvg-id="" tvg-name="GLOBALbox Action" tvg-logo="" group-title="M&S (Vavoo)",GLOBALbox Action
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2456232539/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBALbox Dram" tvg-logo="" group-title="M&S (Vavoo)",GLOBALbox Dram
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1040144724/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBALbox Fantastic" tvg-logo="" group-title="M&S (Vavoo)",GLOBALbox Fantastic
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1557465046/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBALbox Korku" tvg-logo="" group-title="M&S (Vavoo)",GLOBALbox Korku
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/562681030/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBALbox Vizyon" tvg-logo="" group-title="M&S (Vavoo)",GLOBALbox Vizyon
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2960112808/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIX CINEMA ACTION" tvg-logo="" group-title="M&S (Vavoo)",FIX CINEMA ACTION
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/140294889/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIX CINEMA BILM KURGU" tvg-logo="" group-title="M&S (Vavoo)",FIX CINEMA BILM KURGU
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2480231926/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIX CINEMA COMEDY" tvg-logo="" group-title="M&S (Vavoo)",FIX CINEMA COMEDY
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4140720869/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIX CINEMA DRAM" tvg-logo="" group-title="M&S (Vavoo)",FIX CINEMA DRAM
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2830763591/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIX CINEMA FANTASTIC" tvg-logo="" group-title="M&S (Vavoo)",FIX CINEMA FANTASTIC
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2459747332/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIX CINEMA KORKU" tvg-logo="" group-title="M&S (Vavoo)",FIX CINEMA KORKU
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2778910791/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIX CINEMA MACERA" tvg-logo="" group-title="M&S (Vavoo)",FIX CINEMA MACERA
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2958075443/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIX CINEMA NETFLIX" tvg-logo="" group-title="M&S (Vavoo)",FIX CINEMA NETFLIX
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3216985800/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIX CINEMA YERLI" tvg-logo="" group-title="M&S (Vavoo)",FIX CINEMA YERLI
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/239201347/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIX CINEMA YESILCAM" tvg-logo="" group-title="M&S (Vavoo)",FIX CINEMA YESILCAM
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4110861662/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Horror 1" tvg-logo="" group-title="M&S (Vavoo)",Horror 1
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3611975312/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Horror 2" tvg-logo="" group-title="M&S (Vavoo)",Horror 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1506105715/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Horror 3" tvg-logo="" group-title="M&S (Vavoo)",Horror 3
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2507102701/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Horror 4" tvg-logo="" group-title="M&S (Vavoo)",Horror 4
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2678739188/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Horror 5" tvg-logo="" group-title="M&S (Vavoo)",Horror 5
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1392529514/index.m3u8
