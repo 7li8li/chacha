@@ -1,9 +1,9 @@
-name: IPTVR List
+name: Dance Dance Dance
 on:
   push:
     paths:
-      - 'iptvts.m3u'
-      - 'iptvg.m3u'
+      - 'mambo.m3u'
+      - 'tango.m3u'
 jobs:
   update-list:
     runs-on: ubuntu-latest
@@ -13,9 +13,9 @@ jobs:
 
       - name: Merge lists
         run: |
-          echo "#EXTM3U" > iptvr.m3u
-          awk 'NR>1' iptvg.m3u >> iptvr.m3u
-          awk 'NR>1' iptvts.m3u >> iptvr.m3u
+          echo "#EXTM3U" > latino.m3u
+          awk 'NR>1' tango.m3u >> latino.m3u
+          awk 'NR>1' mambo.m3u >> latino.m3u
 
       - name: Commit
         env:
@@ -23,6 +23,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add iptvr.m3u
+          git add latino.m3u
           git commit -m "Auto merge"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/7li8li/chacha.git
