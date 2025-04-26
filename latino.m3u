@@ -735,12 +735,6 @@ https://vavoo.to/play/2678739188/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1392529514/index.m3u8
-#EXTINF:-1 group-title="TEST",TEST TS
-https://small-water.lamoyid549.workers.dev/b11.ts
-#EXTINF:-1 group-title="TEST",TEST DÜZ
-https://small-water.lamoyid549.workers.dev/b11
-#EXTINF:-1 group-title="TEST",TEST U8
-https://small-water.lamoyid549.workers.dev/b11.m3u8
 #EXTINF:-1 group-title="HARİKA",beIN SPORTS
 https://small-water.lamoyid549.workers.dev/b11.m3u8
 #EXTINF:-1 group-title="HARİKA",beIN SPORTS
