@@ -743,6 +743,12 @@ https://small-water.lamoyid549.workers.dev/b2.m3u8
 https://small-water.lamoyid549.workers.dev/b3.m3u8
 #EXTINF:-1 group-title="HARİKA",beIN SPORTS 4
 https://small-water.lamoyid549.workers.dev/b4.m3u8
+#EXTINF:-1 group-title="HARİKA",beIN SPORTS 5
+https://small-water.lamoyid549.workers.dev/b5.m3u8
+#EXTINF:-1 group-title="HARİKA",beIN SPORTS Max
+https://small-water.lamoyid549.workers.dev/bm1.m3u8
+#EXTINF:-1 group-title="HARİKA",beIN SPORTS Max 2
+https://small-water.lamoyid549.workers.dev/bm2.m3u8
 #EXTINF:-1 group-title="HARİKA",beIN SPORTS
 https://gknnowtv.onrender.com/bein1.m3u8
 #EXTINF:-1 group-title="HARİKA",beIN SPORTS 2
