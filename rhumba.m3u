@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="" group-title="M&S (Vavoo)",360
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
-#EXTINF:-1 tvg-id="a2.tr" tvg-name="A2" tvg-logo="" group-title="M&S (Vavoo)",A2
+#EXTINF:-1 tvg-id="a2.tr" tvg-name="A2" tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="M&S (Vavoo)",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-id="teve2.tr" tvg-name="teve 2" tvg-logo="" group-title="M&S (Vavoo)",teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
-#EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="ShowMax" tvg-logo="" group-title="M&S (Vavoo)",ShowMax
+#EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="ShowMax" tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="M&S (Vavoo)",ShowMax
 https://canlitvulusal.xyz/live/showmax/index.m3u8
 #EXTINF:-1 tvg-id="Tabii TV.tr" tvg-name="Tabii TV" tvg-logo="" group-title="M&S (Vavoo)",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
-#EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-logo="" group-title="M&S (Vavoo)",DMAX
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="M&S (Vavoo)",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="" group-title="M&S (Vavoo)",TLC
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="M&S (Vavoo)",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="FX.tr" tvg-name="FX" tvg-logo="" group-title="M&S (Vavoo)",FX
 https://saran-live.ercdn.net/fx/index.m3u8
