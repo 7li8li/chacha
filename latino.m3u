@@ -812,59 +812,59 @@ https://r14.cf2-af9.workers.dev/static/bs5.m3u8
 #EXTINF:-1 group-title="RECTV", beIN SPORTS Max
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/static/bm1.m3u8
+https://tv2.arectv30.sbs/static/bm1.m3u8
 #EXTINF:-1 group-title="RECTV", beIN SPORTS Max 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/static/bm2.m3u8
+https://tv2.arectv30.sbs/static/bm2.m3u8
 #EXTINF:-1 group-title="RECTV", S SPORT
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/static/ss1.m3u8
+https://tv2.arectv30.sbs/static/ss1.m3u8
 #EXTINF:-1 group-title="RECTV", S SPORT 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/static/ss2.m3u8
+https://tv2.arectv30.sbs/static/ss2.m3u8
 #EXTINF:-1 group-title="RECTV", Tabii Spor
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/static/tabi.m3u8
+https://tv2.arectv30.sbs/static/tabi.m3u8
 #EXTINF:-1 group-title="RECTV", Tabii Spor 1
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/static/tabi1.m3u8
+https://tv2.arectv30.sbs/static/tabi1.m3u8
 #EXTINF:-1 group-title="RECTV", Tabii Spor 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/static/tabi2.m3u8
+https://tv2.arectv30.sbs/static/tabi2.m3u8
 #EXTINF:-1 group-title="RECTV", Tabii Spor 3
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/static/tabi3.m3u8
+https://tv2.arectv30.sbs/static/tabi3.m3u8
 #EXTINF:-1 group-title="RECTV", Tabii Spor 4
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/static/tabi4.m3u8
+https://tv2.arectv30.sbs/static/tabi4.m3u8
 #EXTINF:-1 group-title="RECTV", Tabii Spor 5
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/static/tabi5.m3u8
+https://tv2.arectv30.sbs/static/tabi5.m3u8
 #EXTINF:-1 group-title="RECTV", Tabii Spor 6
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/static/tabi6.m3u8
+https://tv2.arectv30.sbs/static/tabi6.m3u8
 #EXTINF:-1 group-title="RECTV", S SPORT+1
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/static/pl1.m3u8
+https://tv2.arectv30.sbs/static/pl1.m3u8
 #EXTINF:-1 group-title="RECTV", S SPORT+2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/static/pl2.m3u8
+https://tv2.arectv30.sbs/static/pl2.m3u8
 #EXTINF:-1 group-title="RECTV", S SPORT+3
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/static/pl3.m3u8
+https://tv2.arectv30.sbs/static/pl3.m3u8
 #EXTINF:-1 group-title="RECTV", TRT Spor
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -880,43 +880,43 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 group-title="RECTV", A Spor
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/live/aspor.m3u8
+https://tv2.arectv30.sbs/live/aspor.m3u8
 #EXTINF:-1 group-title="RECTV", FX
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/live/fx.m3u8
+https://tv2.arectv30.sbs/live/fx.m3u8
 #EXTINF:-1 group-title="RECTV", Moviesmart Türk
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/live/mvturk.m3u8
+https://tv2.arectv30.sbs/live/mvturk.m3u8
 #EXTINF:-1 group-title="RECTV", National Geographic
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/live/natgeo.m3u8
+https://tv2.arectv30.sbs/live/natgeo.m3u8
 #EXTINF:-1 group-title="RECTV", National Geographic Wild
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/live/natgeowild.m3u8
+https://tv2.arectv30.sbs/live/natgeowild.m3u8
 #EXTINF:-1 group-title="RECTV", Discovery Channel
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/live/discovery.m3u8
+https://tv2.arectv30.sbs/live/discovery.m3u8
 #EXTINF:-1 group-title="RECTV", BBC Earth
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/live/bbc.m3u8
+https://tv2.arectv30.sbs/live/bbc.m3u8
 #EXTINF:-1 group-title="RECTV", Viasat Explore
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/live/viasathistory.m3u8
+https://tv2.arectv30.sbs/live/viasathistory.m3u8
 #EXTINF:-1 group-title="RECTV", History Channel
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/live/history.m3u8
+https://tv2.arectv30.sbs/live/history.m3u8
 #EXTINF:-1 group-title="RECTV", Tarih TV
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://v.arectv29.sbs/live/tarihtv.m3u8
+https://tv2.arectv30.sbs/live/tarihtv.m3u8
 #EXTINF:-1 group-title="JEST",beIN SPORTS
 #EXTVLCOPT:http-referrer=https://jestyayin936.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
