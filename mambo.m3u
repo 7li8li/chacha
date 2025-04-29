@@ -5,8 +5,6 @@ https://small-water.lamoyid549.workers.dev/b11.m3u8
 https://small-water.lamoyid549.workers.dev/b10.m3u8
 #EXTINF:-1 group-title="HARİKA",beIN SPORTS
 https://small-water.lamoyid549.workers.dev/b12.m3u8
-#EXTINF:-1 group-title="HARİKA",beIN SPORTS
-https://small-water.lamoyid549.workers.dev/b13.m3u8
 #EXTINF:-1 group-title="HARİKA",beIN SPORTS 2
 https://small-water.lamoyid549.workers.dev/b21.m3u8
 #EXTINF:-1 group-title="HARİKA",beIN SPORTS 2
@@ -186,15 +184,15 @@ https://tv1.arectv30.sbs/live/tarihtv.m3u8
 #EXTINF:-1 group-title="JEST",beIN SPORTS
 #EXTVLCOPT:http-referrer=https://jestyayin938.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lll.mevzuhls35.cfd/yayininat.m3u8
-#EXTINF:-1 group-title="JEST",beIN SPORTS
-#EXTVLCOPT:http-referrer=https://jestyayin938.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://lll.mevzuhls35.cfd/yayinzirve.m3u8
 #EXTINF:-1 group-title="JEST",beIN SPORTS Yedek
 #EXTVLCOPT:http-referrer=https://jestyayin938.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://lll.mevzuhls35.cfd/yayin1.m3u8
+#EXTINF:-1 group-title="JEST",beIN SPORTS Yedek
+#EXTVLCOPT:http-referrer=https://jestyayin938.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lll.mevzuhls35.cfd/yayininat.m3u8
 #EXTINF:-1 group-title="JEST",beIN SPORTS 2
 #EXTVLCOPT:http-referrer=https://jestyayin938.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -291,14 +289,14 @@ https://lll.mevzuhls35.cfd/yayinex6.m3u8
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://u0.4928d54d950ee70q40.click/yayinzirve.m3u8
-#EXTINF:-1 group-title="TRGOALS",beIN SPORTS
-#EXTVLCOPT:http-referrer=https://trgoals1300.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://u0.4928d54d950ee70q40.click/yayininat.m3u8
 #EXTINF:-1 group-title="TRGOALS",beIN SPORTS Yedek
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://u0.4928d54d950ee70q40.click/yayin1.m3u8
+#EXTINF:-1 group-title="TRGOALS",beIN SPORTS Yedek
+#EXTVLCOPT:http-referrer=https://trgoals1300.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://u0.4928d54d950ee70q40.click/yayininat.m3u8 
 #EXTINF:-1 group-title="TRGOALS",beIN SPORTS 2
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
