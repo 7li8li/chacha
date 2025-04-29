@@ -42,12 +42,20 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="HARİKA",Tabii Spor 6 
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="HARİKA",beIN SPORTS (Yedek)
+#EXTVLCOPT:http-referrer=https://www.netsportv203.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://young-scene-fba5.freeeelinkoc.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
 #EXTINF:-1 group-title="HARİKA",beIN SPORTS 2 (Yedek)
+#EXTVLCOPT:http-referrer=https://www.netsportv203.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://young-scene-fba5.freeeelinkoc.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8
 #EXTINF:-1 group-title="HARİKA",beIN SPORTS 3 (Yedek)
+#EXTVLCOPT:http-referrer=https://www.netsportv203.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://young-scene-fba5.freeeelinkoc.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8
 #EXTINF:-1 group-title="HARİKA",beIN SPORTS 4 (Yedek)
+#EXTVLCOPT:http-referrer=https://www.netsportv203.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://young-scene-fba5.freeeelinkoc.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8
 #EXTINF:-1 group-title="RECTV", beIN SPORTS
 #EXTVLCOPT:http-user-agent=googleusercontent
