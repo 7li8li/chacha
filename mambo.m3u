@@ -144,11 +144,11 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 group-title="RECTV", A Spor
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/aspor.m3u8
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:-1 group-title="RECTV", FX
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/fx.m3u8
+https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 group-title="RECTV", Moviesmart Türk
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -156,11 +156,11 @@ https://tv1.arectv30.sbs/live/mvturk.m3u8
 #EXTINF:-1 group-title="RECTV", National Geographic
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/natgeo.m3u8
+https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 group-title="RECTV", National Geographic Wild
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/natgeowild.m3u8
+https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 group-title="RECTV", Discovery Channel
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
