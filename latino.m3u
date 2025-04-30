@@ -925,6 +925,14 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/discovery.m3u8
+#EXTINF:-1 group-title="RECTV", Discovery ID
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/discs.m3u8
+#EXTINF:-1 group-title="RECTV", Love Nature
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/lovenature.m3u8
 #EXTINF:-1 group-title="RECTV", BBC Earth
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
