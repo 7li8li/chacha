@@ -1,0 +1,28 @@
+name: DanceHalayMambo
+on:
+  push:
+    paths:
+      - 'mambo.m3u'
+      - 'halay.m3u'
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonning
+        uses: actions/checkout@v2
+
+      - name: Merge lists
+        run: |
+          echo "#EXTM3U x-tvg-url="https://sty.ink/epgp3"" > sirtaki.m3u
+          awk 'NR>1' halay.m3u >> sirtaki.m3u
+          awk 'NR>1' mambo.m3u >> sirtaki.m3u
+
+      - name: Commit
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add latino.m3u
+          git commit -m "Auto merge"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/7li8li/chacha.git
