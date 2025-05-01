@@ -1012,7 +1012,7 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 group-title="RECTV", Discovery Channel
+#EXTINF:-1 group-title="RECTV", Discovery
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/discovery.m3u8
