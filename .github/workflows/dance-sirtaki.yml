@@ -25,4 +25,5 @@ jobs:
           git config --global user.email "actions@github.com"
           git add sirtaki.m3u
           git commit -m "Auto merge"
+          sleep 30
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/7li8li/chacha.git
