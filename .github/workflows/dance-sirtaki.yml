@@ -13,7 +13,7 @@ jobs:
 
       - name: Merge lists
         run: |
-          echo "#EXTM3U x-tvg-url="https://sty.ink/epgp3"" > sirtaki.m3u
+          echo '#EXTM3U x-tvg-url="https://sty.ink/epgp3"' > sirtaki.m3u
           awk 'NR>1' halay.m3u >> sirtaki.m3u
           awk 'NR>1' mambo.m3u >> sirtaki.m3u
 
