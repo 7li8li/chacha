@@ -509,7 +509,7 @@ https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/ntv-tr.png" group-title="Ulusal",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:-1 tvg-name="CNN Turk" tvg-id="CNN Turk.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/cnn-turk-tr.png" group-title="Ulusal",CNN Turk
+#EXTINF:-1 tvg-name="CNN Turk" tvg-id="CNN Turk.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/cnn-turk-tr.png" group-title="Ulusal",CNN Türk
 http://51.20.137.71/stream/yt/cnnturk.m3u8
 #EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/now-tr.png" group-title="Ulusal",NOW
 http://51.20.137.71/stream/ulusal/nowtv.m3u8
@@ -529,7 +529,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-name="FX" tvg-id="FX.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/fx-tr.png" group-title="Ulusal",FX
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-name="MovieSmart Turk" tvg-id="MovieSmart Turk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_of_MovieSmart_Türk.png" group-title="Ulusal",MovieSmart Turk
+#EXTINF:-1 tvg-name="MovieSmart Turk" tvg-id="MovieSmart Turk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_of_MovieSmart_Türk.png" group-title="Ulusal",Moviesmart Türk
 #EXTVLCOPT:http-referrer=https://twitter.com/
 #EXTVLCOPT:http-user-agent=googleusercontent
 https://tv1.arectv30.sbs/live/mvturk.m3u8
@@ -555,7 +555,7 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=173
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-name="TRT Belgesel" tvg-id="TRT Belgesel.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-belgesel-tr.png" group-title="Ulusal",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery.tr" tvg-logo="https://www.blm.de/files/png1/logo_discoverychannel_600.jpg" group-title="Ulusal",Discovery
+#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery.tr" tvg-logo="https://www.blm.de/files/png1/logo_discoverychannel_600.jpg" group-title="Ulusal",Discovery Channel
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/discovery.m3u8
 #EXTINF:-1 tvg-name="Discovery ID" tvg-id="Discovery ID.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/540px-Investigation_Discovery_Logo_2018.svg.png" group-title="Ulusal",Discovery ID
@@ -582,7 +582,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 tvg-name="Bloomberg HT" tvg-id="Bloomberg HT.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/bloomberg-ht-tr.png" group-title="Ulusal",Bloomberg HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CNBC-e.svg/367px-CNBC-e.svg.png" group-title="Ulusal",CNBC-E
+#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CNBC-e.svg/367px-CNBC-e.svg.png" group-title="Ulusal",CNBC-e
 http://51.20.137.71/stream/yt/cnbc-e.m3u8
 #EXTINF:-1 tvg-name="TV 100" tvg-id="Tv 100.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/TV100_logo.png" group-title="Ulusal",TV 100
 https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
@@ -594,7 +594,7 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 http://51.20.137.71/stream/yt/ulusalkanaltv.m3u8
 #EXTINF:-1 tvg-name="TRT Haber" tvg-id="TRT Haber.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-haber-tr.png" group-title="Ulusal",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="Haber Turk" tvg-id="Haber Turk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Habertürk_logo.svg/101px-Habertürk_logo.svg.png" group-title="Ulusal",Haber Turk
+#EXTINF:-1 tvg-name="Haber Turk" tvg-id="Haber Turk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Habertürk_logo.svg/101px-Habertürk_logo.svg.png" group-title="Ulusal",Haber Türk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-name="Haber Global" tvg-id="Haber Global.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/haber-global-tr.png" group-title="Ulusal",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
