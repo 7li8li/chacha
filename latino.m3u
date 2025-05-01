@@ -529,7 +529,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-name="FX" tvg-id="FX.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/fx-tr.png" group-title="Ulusal",FX
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-name="MovieSmart Turk" tvg-id="MovieSmart Turk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_of_MovieSmart_Türk.png" group-title="Ulusal",Moviesmart Türk
+#EXTINF:-1 tvg-name="MovieSmart Turk" tvg-id="MovieSmart Turk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_of_MovieSmart_Türk.png" group-title="Ulusal",MovieSmart Türk
 #EXTVLCOPT:http-referrer=https://twitter.com/
 #EXTVLCOPT:http-user-agent=googleusercontent
 https://tv1.arectv30.sbs/live/mvturk.m3u8
