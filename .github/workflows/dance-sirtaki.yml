@@ -11,6 +11,13 @@ jobs:
     steps:
       - name: Cloning Repository
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Force Detect Changes
+        run: |
+          git reset --hard HEAD
+          git status
 
       - name: Merge Lists
         run: |
@@ -30,8 +37,9 @@ jobs:
 
       - name: Pull Remote Changes
         run: |
-          git pull --rebase origin main || true
+          git fetch --all
+          git merge origin/main --allow-unrelated-histories
 
       - name: Push Changes
         run: |
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/7li8li/chacha.git || true
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/7li8li/chacha.git
