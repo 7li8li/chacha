@@ -612,27 +612,27 @@ http://51.20.137.71/stream/yt/krt.m3u8
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1 tvg-name="a Haber" tvg-id="a Haber.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/a-haber-tr.png" group-title="Ulusal",a Haber
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="Gülşah Film" tvg-logo="" group-title="M&S (Vavoo)",Gülşah Film
+#EXTINF:-1 tvg-id="None" tvg-name="Gülşah Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="M&S (Vavoo)",Gülşah Film
 http://51.20.137.71/stream/yt/gulsahfilm.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="Fanatik Film" tvg-logo="" group-title="M&S (Vavoo)",Fanatik Film
+#EXTINF:-1 tvg-id="None" tvg-name="Fanatik Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="M&S (Vavoo)",Fanatik Film
 http://51.20.137.71/yt/yt.m3u8?kanal=@FanatikFilmYerli
-#EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal" tvg-logo="" group-title="M&S (Vavoo)",Kemal Sunal
+#EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="M&S (Vavoo)",Kemal Sunal
 http://51.20.137.71/stream/yt2/kemalsunal.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal 2" tvg-logo="" group-title="M&S (Vavoo)",Kemal Sunal 2
+#EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="M&S (Vavoo)",Kemal Sunal 2
 http://51.20.137.71/yt/yt.m3u8?kanal=@KemalSunalFilmleriveSahneleri
-#EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal 3" tvg-logo="" group-title="M&S (Vavoo)",Kemal Sunal 3
+#EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="M&S (Vavoo)",Kemal Sunal 3
 http://51.20.137.71/yt/yt.m3u8?kanal=@kemalsunalfilmleri
-#EXTINF:-1 tvg-id="None" tvg-name="Behzat Ç." tvg-logo="" group-title="M&S (Vavoo)",Behzat Ç.
+#EXTINF:-1 tvg-id="None" tvg-name="Behzat Ç." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="M&S (Vavoo)",Behzat Ç.
 http://51.20.137.71/stream/yt2/behzatc.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="Cennet Mahallesi" tvg-logo="" group-title="M&S (Vavoo)",Cennet Mahallesi
+#EXTINF:-1 tvg-id="None" tvg-name="Cennet Mahallesi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="M&S (Vavoo)",Cennet Mahallesi
 http://51.20.137.71/stream/yt2/cennetmahallesishowtv.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="Yalan Dünya" tvg-logo="" group-title="M&S (Vavoo)",Yalan Dünya
+#EXTINF:-1 tvg-id="None" tvg-name="Yalan Dünya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="M&S (Vavoo)",Yalan Dünya
 http://51.20.137.71/stream/yt2/yalandunyakanald.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="Yedi Numara" tvg-logo="" group-title="M&S (Vavoo)",Yedi Numara
+#EXTINF:-1 tvg-id="None" tvg-name="Yedi Numara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="M&S (Vavoo)",Yedi Numara
 http://51.20.137.71/stream/yt2/yedinumaradizisi.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="" group-title="M&S (Vavoo)",360
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
-#EXTINF:-1 tvg-id="a2.tr" tvg-name="A2" tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="M&S (Vavoo)",A2
+#EXTINF:-1 tvg-id="a2.tr" tvg-name="A2" tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="M&S (Vavoo)",a2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-id="teve2.tr" tvg-name="teve 2" tvg-logo="" group-title="M&S (Vavoo)",teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
