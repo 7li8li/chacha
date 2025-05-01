@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - 'mambo.m3u'
+      - 'halay.m3u'
       - 'rhumba.m3u'
       - 'tango.m3u'
 jobs:
@@ -14,8 +15,9 @@ jobs:
 
       - name: Merge lists
         run: |
-          echo "#EXTM3U" > latino.m3u
+          echo "#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"" > latino.m3u
           awk 'NR>1' tango.m3u >> latino.m3u
+          awk 'NR>1' halay.m3u >> latino.m3u
           awk 'NR>1' rhumba.m3u >> latino.m3u
           awk 'NR>1' mambo.m3u >> latino.m3u
 
