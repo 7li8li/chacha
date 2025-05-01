@@ -529,7 +529,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-name="FX" tvg-id="FX.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/fx-tr.png" group-title="Ulusal",FX
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-name="MovieSmart Turk" tvg-id="MovieSmart Turk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_of_MovieSmart_Türk.png" group-title="Ulusal",MovieSmart Türk
+#EXTINF:-1 tvg-name="MovieSmart Turk" tvg-id="MovieSmart Turk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_of_MovieSmart_Türk.png" group-title="Ulusal",Moviesmart Türk
 #EXTVLCOPT:http-referrer=https://twitter.com/
 #EXTVLCOPT:http-user-agent=googleusercontent
 https://tv1.arectv30.sbs/live/mvturk.m3u8
@@ -537,7 +537,7 @@ https://tv1.arectv30.sbs/live/mvturk.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 tvg-name="teve 2" tvg-id="teve2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/Teve2_logo.png" group-title="Ulusal",teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
-#EXTINF:-1 tvg-name="A2 HD" tvg-id="A2 HD.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/a2-tr.png" group-title="Ulusal",a2
+#EXTINF:-1 tvg-name="A2 HD" tvg-id="A2 HD.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/a2-tr.png" group-title="Ulusal",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-name="TV8,5" tvg-id="TV8,5.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605" group-title="Ulusal",TV 8,5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
@@ -564,6 +564,12 @@ https://tv1.arectv30.sbs/live/discs.m3u8
 #EXTINF:-1 tvg-name="BBC Earth" tvg-id="BBC Earth.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/330px-BBC_Earth_2023.svg.png" group-title="Ulusal",BBC Earth
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/bbc.m3u8
+#EXTINF:-1 tvg-name="Viasat Explore" tvg-id="Viasat Explore.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Viasat_Explore-logo.svg/250px-Viasat_Explore-logo.svg.png" group-title="Ulusal",Viasat Explore
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://tv1.arectv30.sbs/live/viasathistory.m3u8
+#EXTINF:-1 tvg-name="Love Nature" tvg-id="Love Nature.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Nature_journal_logo.svg/163px-Nature_journal_logo.svg.png" group-title="Ulusal",Love Nature
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://tv1.arectv30.sbs/live/lovenature.m3u8
 #EXTINF:-1 tvg-name="History Channel" tvg-id="History Channel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/250px-History_Logo.svg.png" group-title="Ulusal",History Channel
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/history.m3u8
@@ -610,7 +616,7 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 http://51.20.137.71/stream/yt/krt.m3u8
 #EXTINF:-1 tvg-name="Tele 1" tvg-id="Tele 1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" group-title="Ulusal",Tele 1
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
-#EXTINF:-1 tvg-name="a Haber" tvg-id="a Haber.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/a-haber-tr.png" group-title="Ulusal",a Haber
+#EXTINF:-1 tvg-name="a Haber" tvg-id="a Haber.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/a-haber-tr.png" group-title="Ulusal",A Haber
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Gülşah Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="M&S (Vavoo)",Gülşah Film
 http://51.20.137.71/stream/yt/gulsahfilm.m3u8
