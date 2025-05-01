@@ -126,61 +126,61 @@ https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor 6" tvg-id="Tabii Spor 6.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="TEMEL LİSTE",Tabii Spor 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="HARİKA",beIN SPORTS
+#EXTINF:-1 group-title="COMBO",beIN SPORTS
 https://small-water.lamoyid549.workers.dev/b11.m3u8
-#EXTINF:-1 group-title="HARİKA",beIN SPORTS
+#EXTINF:-1 group-title="COMBO",beIN SPORTS
 https://small-water.lamoyid549.workers.dev/b10.m3u8
-#EXTINF:-1 group-title="HARİKA",beIN SPORTS
+#EXTINF:-1 group-title="COMBO",beIN SPORTS
 https://small-water.lamoyid549.workers.dev/b12.m3u8
-#EXTINF:-1 group-title="HARİKA",beIN SPORTS 2
+#EXTINF:-1 group-title="COMBO",beIN SPORTS 2
 https://small-water.lamoyid549.workers.dev/b21.m3u8
-#EXTINF:-1 group-title="HARİKA",beIN SPORTS 2
+#EXTINF:-1 group-title="COMBO",beIN SPORTS 2
 https://small-water.lamoyid549.workers.dev/b20.m3u8
-#EXTINF:-1 group-title="HARİKA",beIN SPORTS 3
+#EXTINF:-1 group-title="COMBO",beIN SPORTS 3
 https://small-water.lamoyid549.workers.dev/b31.m3u8
-#EXTINF:-1 group-title="HARİKA",beIN SPORTS 3
+#EXTINF:-1 group-title="COMBO",beIN SPORTS 3
 https://small-water.lamoyid549.workers.dev/b30.m3u8
-#EXTINF:-1 group-title="HARİKA",beIN SPORTS 4
+#EXTINF:-1 group-title="COMBO",beIN SPORTS 4
 https://small-water.lamoyid549.workers.dev/b41.m3u8
-#EXTINF:-1 group-title="HARİKA",beIN SPORTS 4
+#EXTINF:-1 group-title="COMBO",beIN SPORTS 4
 https://small-water.lamoyid549.workers.dev/b40.m3u8
-#EXTINF:-1 group-title="HARİKA",beIN SPORTS 5
+#EXTINF:-1 group-title="COMBO",beIN SPORTS 5
 https://small-water.lamoyid549.workers.dev/b50.m3u8
-#EXTINF:-1 group-title="HARİKA",beIN SPORTS Max
+#EXTINF:-1 group-title="COMBO",beIN SPORTS Max
 https://small-water.lamoyid549.workers.dev/bm10.m3u8
-#EXTINF:-1 group-title="HARİKA",beIN SPORTS Max 2
+#EXTINF:-1 group-title="COMBO",beIN SPORTS Max 2
 https://small-water.lamoyid549.workers.dev/bm20.m3u8
-#EXTINF:-1 group-title="HARİKA",S SPORT
+#EXTINF:-1 group-title="COMBO",S SPORT
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="HARİKA",S SPORT 2
+#EXTINF:-1 group-title="COMBO",S SPORT 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="HARİKA",Tabii Spor 
+#EXTINF:-1 group-title="COMBO",Tabii Spor 
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="HARİKA",Tabii Spor 1 
+#EXTINF:-1 group-title="COMBO",Tabii Spor 1 
 https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="HARİKA",Tabii Spor 2 
+#EXTINF:-1 group-title="COMBO",Tabii Spor 2 
 https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="HARİKA",Tabii Spor 3 
+#EXTINF:-1 group-title="COMBO",Tabii Spor 3 
 https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="HARİKA",Tabii Spor 4 
+#EXTINF:-1 group-title="COMBO",Tabii Spor 4 
 https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="HARİKA",Tabii Spor 5 
+#EXTINF:-1 group-title="COMBO",Tabii Spor 5 
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="HARİKA",Tabii Spor 6 
+#EXTINF:-1 group-title="COMBO",Tabii Spor 6 
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="HARİKA",beIN SPORTS (Yedek)
+#EXTINF:-1 group-title="COMBO",beIN SPORTS (Yedek)
 #EXTVLCOPT:http-referrer=https://www.netsportv203.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://young-scene-fba5.freeeelinkoc.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
-#EXTINF:-1 group-title="HARİKA",beIN SPORTS 2 (Yedek)
+#EXTINF:-1 group-title="COMBO",beIN SPORTS 2 (Yedek)
 #EXTVLCOPT:http-referrer=https://www.netsportv203.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://young-scene-fba5.freeeelinkoc.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8
-#EXTINF:-1 group-title="HARİKA",beIN SPORTS 3 (Yedek)
+#EXTINF:-1 group-title="COMBO",beIN SPORTS 3 (Yedek)
 #EXTVLCOPT:http-referrer=https://www.netsportv203.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://young-scene-fba5.freeeelinkoc.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8
-#EXTINF:-1 group-title="HARİKA",beIN SPORTS 4 (Yedek)
+#EXTINF:-1 group-title="COMBO",beIN SPORTS 4 (Yedek)
 #EXTVLCOPT:http-referrer=https://www.netsportv203.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://young-scene-fba5.freeeelinkoc.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8
