@@ -1,0 +1,102 @@
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TRT 1" tvg-id="TRT 1.tr" tvg-logo="" group-title="Ulusal",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TRT 2" tvg-id="TRT 2.tr" tvg-logo="" group-title="Ulusal",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="" group-title="Ulusal",NTV
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="CNN Turk" tvg-id="CNN Turk.tr" tvg-logo="" group-title="Ulusal",CNN Türk
+http://51.20.137.71/stream/yt/cnnturk.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="" group-title="Ulusal",NOW
+http://51.20.137.71/stream/ulusal/nowtv.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Kanal D" tvg-id="Kanal D.tr" tvg-logo="" group-title="Ulusal",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Star" tvg-id="Star.tr" tvg-logo="" group-title="Ulusal",Star
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Show TV" tvg-id="Show TV.tr" tvg-logo="" group-title="Ulusal",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TV8" tvg-id="TV8.tr" tvg-logo="" group-title="Ulusal",TV 8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="" group-title="Ulusal",ATV
+https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Beyaz TV" tvg-id="Beyaz TV.tr" tvg-logo="" group-title="Ulusal",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Kanal 7" tvg-id="Kanal 7.tr" tvg-logo="" group-title="Ulusal",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="FX" tvg-id="FX.tr" tvg-logo="" group-title="Ulusal",FX
+https://saran-live.ercdn.net/fx/index.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="MovieSmart Turk" tvg-id="MovieSmart Turk.tr" tvg-logo="" group-title="Ulusal",Moviesmart Türk
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/mvturk.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="360" tvg-id="360.tr" tvg-logo="" group-title="Ulusal",360
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="teve 2" tvg-id="teve2.tr" tvg-logo="" group-title="Ulusal",teve 2
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="A2" tvg-id="a2.tr" tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="Ulusal",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TV 8,5" tvg-id="TV 8,5.tr" tvg-logo="" group-title="Ulusal",TV 8,5
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Tabii TV" tvg-id="Tabii TV.tr" tvg-logo="" group-title="Ulusal",Tabii TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TRT Türk" tvg-id="TRT Turk.tr" tvg-logo="" group-title="Ulusal",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="Ulusal",TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="Ulusal",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="National Geographic" tvg-id="National Geographic.tr" tvg-logo="" group-title="Ulusal",National Geographic
+https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="National Geographic Wild" tvg-id="National Geographic WILD.tr" tvg-logo="" group-title="Ulusal",National Geographic Wild
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TRT Belgesel" tvg-id="TRT Belgesel.tr" tvg-logo="" group-title="Ulusal",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Discovery" tvg-id="Discovery.tr" tvg-logo="" group-title="Ulusal",Discovery
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://tv1.arectv30.sbs/live/discovery.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Discovery ID" tvg-id="Discovery ID.tr" tvg-logo="" group-title="Ulusal",Discovery ID
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://tv1.arectv30.sbs/live/discs.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="BBC Earth" tvg-id="BBC Earth.tr" tvg-logo="" group-title="Ulusal",BBC Earth
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://tv1.arectv30.sbs/live/bbc.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="History Channel" tvg-id="History Channel.tr" tvg-logo="" group-title="Ulusal",History Channel
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://tv1.arectv30.sbs/live/history.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Tarih TV" tvg-id="Tarih TV.tr" tvg-logo="" group-title="Ulusal",Tarih TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://tv1.arectv30.sbs/live/tarihtv.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TRT Spor" tvg-id="TRT Spor.tr" tvg-logo="" group-title="Ulusal",TRT Spor
+https://trt.daioncdn.net/trtspor/master.m3u8?app=web
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TRT Spor Yıldız" tvg-id="TRT Spor Yıldız.tr" tvg-logo="" group-title="Ulusal",TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="HT Spor" tvg-id="HT Spor.tr" tvg-logo="" group-title="Ulusal",HT Spor
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="A Spor" tvg-id="a Spor.tr" tvg-logo="" group-title="Ulusal",A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Sports TV" tvg-id="Sports TV.tr" tvg-logo="" group-title="Ulusal",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Bloomberg HT" tvg-id="Bloomberg HT.tr" tvg-logo="" group-title="Ulusal",Bloomberg HT
+https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="" group-title="Ulusal",CNBC-E
+http://51.20.137.71/stream/yt/cnbc-e.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TV 100" tvg-id="Tv 100.tr" tvg-logo="" group-title="Ulusal",TV 100
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="SZC TV" tvg-id="Szc Tv.tr" tvg-logo="" group-title="Ulusal",SZC
+http://51.20.137.71/stream/yt/sozcu.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Halk TV" tvg-id="Halk TV.tr" tvg-logo="" group-title="Ulusal",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Ulusal TV" tvg-id="Ulusal TV.tr" tvg-logo="" group-title="Ulusal",Ulusal TV
+http://51.20.137.71/stream/yt/ulusalkanaltv.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TRT Haber" tvg-id="TRT Haber.tr" tvg-logo="" group-title="Ulusal",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Haber Turk" tvg-id="Haber Turk.tr" tvg-logo="" group-title="Ulusal",Habertürk
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Haber Global" tvg-id="Haber Global.tr" tvg-logo="" group-title="Ulusal",Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Ekol TV" tvg-id="Ekol TV.tr" tvg-logo="" group-title="Ulusal",Ekol TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="KRT" tvg-id="KRT.tr" tvg-logo="" group-title="Ulusal",KRT
+http://51.20.137.71/stream/yt/krt.m3u8
+EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="Tele 1" tvg-id="Tele 1.tr" tvg-logo="" group-title="Ulusal",Tele 1
+https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
