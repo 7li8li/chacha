@@ -35,10 +35,10 @@ jobs:
       - name: Force Sync with Remote Repo
         run: |
           git fetch origin main  # Get latest remote changes
-          git reset --hard origin/main  # Overwrite local changes with remote version
-          git pull origin main --rebase  # Ensure local repo is fully synced
+          git reset --hard origin/main  # Fully sync local repo with remote
+          git pull origin main --rebase  # Apply remote changes on top of local
 
-      - name: Commit and Push Changes
+      - name: Commit and Force Push Changes
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
