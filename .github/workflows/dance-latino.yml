@@ -1,5 +1,4 @@
 name: DanceDanceDance
-
 on:
   push:
     paths:
@@ -11,16 +10,20 @@ on:
 jobs:
   update-list:
     runs-on: ubuntu-latest
-    
     steps:
       - name: Cloning Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
-      - name: Merge lists
+      - name: Force Detect Changes
+        run: |
+          git reset --hard HEAD
+          git status
+
+      - name: Merge Lists
         run: |
           echo '#EXTM3U x-tvg-url="https://sty.ink/epgp3"' > latino.m3u
-          
-          # Append content from each playlist file, skipping the first line
           awk 'NR>1' tango.m3u >> latino.m3u
           awk 'NR>1' halay.m3u >> latino.m3u
           awk 'NR>1' rhumba.m3u >> latino.m3u
@@ -28,25 +31,19 @@ jobs:
 
       - name: Configure Git
         run: |
-          # Set GitHub Actions bot as the commit author
-          git config --global user.name "GitHub Actions Bot"
+          git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
-      - name: Hard Reset with Remote
-        run: |
-          git fetch origin main  # Get latest remote changes
-          git reset --hard origin/main  # Overwrite local changes with remote version
-          git pull origin main --rebase  # Apply remote changes on top of local
-
-      - name: Verify Changes Before Commit
-        run: |
-          git status  # Show status before committing
-          git diff  # Check what is actually changing
-
-      - name: Commit and Push Changes
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit Changes
         run: |
           git add latino.m3u
           git commit -m "Auto merge"
-          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/7li8li/chacha.git
+
+      - name: Pull Remote Changes
+        run: |
+          git fetch --all
+          git merge origin/main --allow-unrelated-histories
+
+      - name: Push Changes
+        run: |
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/7li8li/chacha.git
