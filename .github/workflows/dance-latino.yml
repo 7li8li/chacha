@@ -15,12 +15,10 @@ jobs:
     steps:
       - name: Cloning Repository
         uses: actions/checkout@v3
-        
+
       - name: Merge lists
         run: |
           echo '#EXTM3U x-tvg-url="https://sty.ink/epgp3"' > latino.m3u
-          
-          # Append content from each playlist file, skipping the first line
           awk 'NR>1' tango.m3u >> latino.m3u
           awk 'NR>1' halay.m3u >> latino.m3u
           awk 'NR>1' rhumba.m3u >> latino.m3u
@@ -32,9 +30,10 @@ jobs:
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
 
-      - name: Pull latest changes to prevent merge conflicts
+      - name: Fetch latest changes before pushing
         run: |
-          git pull origin main --rebase  # Ensures local repo is up-to-date before committing
+          git fetch origin main
+          git pull origin main --rebase  # Ensures no conflicts before committing
 
       - name: Commit changes
         env:
