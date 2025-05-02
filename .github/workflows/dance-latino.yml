@@ -1,4 +1,5 @@
 name: DanceDanceDance
+
 on:
   push:
     paths:
@@ -6,27 +7,39 @@ on:
       - 'halay.m3u'
       - 'rhumba.m3u'
       - 'tango.m3u'
+
 jobs:
   update-list:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Clonning
-        uses: actions/checkout@v2
-
+      - name: Cloning Repository
+        uses: actions/checkout@v3  # Update checkout action version
+        
       - name: Merge lists
         run: |
           echo '#EXTM3U x-tvg-url="https://sty.ink/epgp3"' > latino.m3u
+          
+          # Append content from each playlist file, skipping the first line
           awk 'NR>1' tango.m3u >> latino.m3u
           awk 'NR>1' halay.m3u >> latino.m3u
           awk 'NR>1' rhumba.m3u >> latino.m3u
           awk 'NR>1' mambo.m3u >> latino.m3u
 
-      - name: Commit
+      - name: Configure Git
+        run: |
+          # Set GitHub Actions bot as the commit author
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+
+      - name: Pull latest changes to prevent merge conflicts
+        run: |
+          git pull origin main --rebase  # Ensures local repo is up-to-date before committing
+
+      - name: Commit changes
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
           git add latino.m3u
           git commit -m "Auto merge"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/7li8li/chacha.git
