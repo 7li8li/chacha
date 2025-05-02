@@ -599,7 +599,7 @@ https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8
 #EXTINF:-1 tvg-name="Halk TV" tvg-id="Halk TV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/halk-tv-tr.png" group-title="TEMEL LİSTE",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-name="UlusalTV" tvg-id="UlusalTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/7/7c/Ulusal_Kanal_Yeni_Logo.png/330px-Ulusal_Kanal_Yeni_Logo.png" group-title="TEMEL LİSTE",Ulusal TV
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=BzcxSAWvOaE.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=dK96AZbCns0.m3u8
 #EXTINF:-1 tvg-name="TRT Haber" tvg-id="TRT Haber.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-haber-tr.png" group-title="TEMEL LİSTE",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Haber Turk" tvg-id="Haber Turk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Habertürk_logo.svg/101px-Habertürk_logo.svg.png" group-title="TEMEL LİSTE",Haber Türk
