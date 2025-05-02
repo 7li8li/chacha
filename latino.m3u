@@ -541,8 +541,6 @@ https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-name="TV8,5" tvg-id="TV8,5.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605" group-title="TEMEL LİSTE",TV 8,5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii TV" tvg-id="Tabii TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="TEMEL LİSTE",Tabii TV
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
 #EXTINF:-1 tvg-name="TRT Türk" tvg-id="TRT Turk.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-turk-tr.png" group-title="TEMEL LİSTE",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="TEMEL LİSTE",TLC
@@ -616,6 +614,8 @@ http://13.60.64.58/stream/yt/krt.m3u8
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1 tvg-name="a Haber" tvg-id="a Haber.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/a-haber-tr.png" group-title="TEMEL LİSTE",A Haber
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
+#EXTINF:-1 tvg-name="Tabii TV" tvg-id="Tabii TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="TEMEL LİSTE",Tabii TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
 #EXTINF:-1 tvg-name="Tabii Spor" tvg-id="Tabii Spor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="TEMEL LİSTE",Tabii Spor
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor 1" tvg-id="Tabii Spor 1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="TEMEL LİSTE",Tabii Spor 1
@@ -635,9 +635,9 @@ http://13.60.64.58/stream/yt/gulsahfilm.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Fanatik Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Fanatik Film
 http://13.60.64.58/yt/yt.m3u8?kanal=@FanatikFilmYerli
 #EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Kemal Sunal
-http://13.60.64.58/stream/yt2/kemalsunal.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Kemal Sunal 2
 http://13.60.64.58/yt/yt.m3u8?kanal=@KemalSunalFilmleriveSahneleri
+#EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Kemal Sunal 2
+http://13.60.64.58/stream/yt2/kemalsunal.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Kemal Sunal 3
 http://13.60.64.58/yt/yt.m3u8?kanal=@kemalsunalfilmleri
 #EXTINF:-1 tvg-id="None" tvg-name="Behzat Ç." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Behzat Ç.
