@@ -1,199 +1,167 @@
 #EXTM3U
-#EXTINF:-1 group-title="COMBO",beIN SPORTS
-https://small-water.lamoyid549.workers.dev/b11.m3u8
-#EXTINF:-1 group-title="COMBO",beIN SPORTS
-https://small-water.lamoyid549.workers.dev/b10.m3u8
-#EXTINF:-1 group-title="COMBO",beIN SPORTS
-https://small-water.lamoyid549.workers.dev/b12.m3u8
-#EXTINF:-1 group-title="COMBO",beIN SPORTS 2
-https://small-water.lamoyid549.workers.dev/b21.m3u8
-#EXTINF:-1 group-title="COMBO",beIN SPORTS 2
-https://small-water.lamoyid549.workers.dev/b20.m3u8
-#EXTINF:-1 group-title="COMBO",beIN SPORTS 3
-https://small-water.lamoyid549.workers.dev/b31.m3u8
-#EXTINF:-1 group-title="COMBO",beIN SPORTS 3
-https://small-water.lamoyid549.workers.dev/b30.m3u8
-#EXTINF:-1 group-title="COMBO",beIN SPORTS 4
-https://small-water.lamoyid549.workers.dev/b41.m3u8
-#EXTINF:-1 group-title="COMBO",beIN SPORTS 4
-https://small-water.lamoyid549.workers.dev/b40.m3u8
-#EXTINF:-1 group-title="COMBO",beIN SPORTS 5
-https://small-water.lamoyid549.workers.dev/b50.m3u8
-#EXTINF:-1 group-title="COMBO",beIN SPORTS Max
-https://small-water.lamoyid549.workers.dev/bm10.m3u8
-#EXTINF:-1 group-title="COMBO",beIN SPORTS Max 2
-https://small-water.lamoyid549.workers.dev/bm20.m3u8
-#EXTINF:-1 group-title="COMBO",S SPORT
-https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="COMBO",S SPORT 2
-https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="COMBO",Tabii Spor 
-https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="COMBO",Tabii Spor 1 
-https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="COMBO",Tabii Spor 2 
-https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="COMBO",Tabii Spor 3 
-https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="COMBO",Tabii Spor 4 
-https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="COMBO",Tabii Spor 5 
-https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="COMBO",Tabii Spor 6 
-https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="COMBO",beIN SPORTS (Yedek)
-#EXTVLCOPT:http-referrer=https://www.netsportv203.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://young-scene-fba5.freeeelinkoc.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
-#EXTINF:-1 group-title="COMBO",beIN SPORTS 2 (Yedek)
-#EXTVLCOPT:http-referrer=https://www.netsportv203.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://young-scene-fba5.freeeelinkoc.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8
-#EXTINF:-1 group-title="COMBO",beIN SPORTS 3 (Yedek)
-#EXTVLCOPT:http-referrer=https://www.netsportv203.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://young-scene-fba5.freeeelinkoc.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8
-#EXTINF:-1 group-title="COMBO",beIN SPORTS 4 (Yedek)
-#EXTVLCOPT:http-referrer=https://www.netsportv203.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://young-scene-fba5.freeeelinkoc.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8
-#EXTINF:-1 group-title="RECTV", beIN SPORTS
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png",beIN SPORTS
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af91.workers.dev/static/bs1.m3u8
-#EXTINF:-1 group-title="RECTV", beIN SPORTS Yedek
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png",beIN SPORTS (Yedek)
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af91.workers.dev/static/bs11.m3u8
-#EXTINF:-1 group-title="RECTV", beIN SPORTS 2
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png",beIN SPORTS (Netspor)
+#EXTVLCOPT:http-referrer=https://www.netsportv203.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://young-scene-fba5.freeeelinkoc.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png",beIN SPORTS (CF)
+https://small-water.lamoyid549.workers.dev/b11.m3u8
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png",beIN SPORTS (CF)
+https://small-water.lamoyid549.workers.dev/b12.m3u8
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-2-hd.png",beIN SPORTS 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af91.workers.dev/static/bs2.m3u8
-#EXTINF:-1 group-title="RECTV", beIN SPORTS 3
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-2-hd.png",beIN SPORTS 2 (Netspor)
+#EXTVLCOPT:http-referrer=https://www.netsportv203.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://young-scene-fba5.freeeelinkoc.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-2-hd.png",beIN SPORTS 2 (CF)
+https://small-water.lamoyid549.workers.dev/b21.m3u8
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-3-hd.png",beIN SPORTS 3
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af91.workers.dev/static/bs3.m3u8
-#EXTINF:-1 group-title="RECTV", beIN SPORTS 4
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-3-hd.png",beIN SPORTS 3 (Netspor)
+#EXTVLCOPT:http-referrer=https://www.netsportv203.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://young-scene-fba5.freeeelinkoc.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-3-hd.png",beIN SPORTS 3 (CF)
+https://small-water.lamoyid549.workers.dev/b31.m3u8
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-4-hd.png",beIN SPORTS 4
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af91.workers.dev/static/bs4.m3u8
-#EXTINF:-1 group-title="RECTV", beIN SPORTS 5
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-4-hd.png",beIN SPORTS 4 (Netspor)
+#EXTVLCOPT:http-referrer=https://www.netsportv203.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://young-scene-fba5.freeeelinkoc.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-4-hd.png",beIN SPORTS 4 (CF)
+https://small-water.lamoyid549.workers.dev/b41.m3u8
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-5-hd.png",beIN SPORTS 5
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af91.workers.dev/static/bs5.m3u8
-#EXTINF:-1 group-title="RECTV", beIN SPORTS Max
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png",beIN SPORTS Max
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/bm1.m3u8
-#EXTINF:-1 group-title="RECTV", beIN SPORTS Max 2
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://i.imgur.com/t7U20yR.png",beIN SPORTS Max 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/bm2.m3u8
-#EXTINF:-1 group-title="RECTV", S SPORT
+#EXTINF:-1 group-title="RECTV+", S SPORT
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/ss1.m3u8
-#EXTINF:-1 group-title="RECTV", S SPORT 2
+#EXTINF:-1 group-title="RECTV+", S SPORT 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/ss2.m3u8
-#EXTINF:-1 group-title="RECTV", Tabii Spor
+#EXTINF:-1 group-title="RECTV+", Tabii Spor
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/tabi.m3u8
-#EXTINF:-1 group-title="RECTV", Tabii Spor 1
+#EXTINF:-1 group-title="RECTV+", Tabii Spor 1
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/tabi1.m3u8
-#EXTINF:-1 group-title="RECTV", Tabii Spor 2
+#EXTINF:-1 group-title="RECTV+", Tabii Spor 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/tabi2.m3u8
-#EXTINF:-1 group-title="RECTV", Tabii Spor 3
+#EXTINF:-1 group-title="RECTV+", Tabii Spor 3
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/tabi3.m3u8
-#EXTINF:-1 group-title="RECTV", Tabii Spor 4
+#EXTINF:-1 group-title="RECTV+", Tabii Spor 4
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/tabi4.m3u8
-#EXTINF:-1 group-title="RECTV", Tabii Spor 5
+#EXTINF:-1 group-title="RECTV+", Tabii Spor 5
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/tabi5.m3u8
-#EXTINF:-1 group-title="RECTV", Tabii Spor 6
+#EXTINF:-1 group-title="RECTV+", Tabii Spor 6
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/tabi6.m3u8
-#EXTINF:-1 group-title="RECTV", S SPORT+1
+#EXTINF:-1 group-title="RECTV+", S SPORT+1
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/pl1.m3u8
-#EXTINF:-1 group-title="RECTV", S SPORT+2
+#EXTINF:-1 group-title="RECTV+", S SPORT+2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/pl2.m3u8
-#EXTINF:-1 group-title="RECTV", S SPORT+3
+#EXTINF:-1 group-title="RECTV+", S SPORT+3
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/pl3.m3u8
-#EXTINF:-1 group-title="RECTV", TRT Spor
+#EXTINF:-1 group-title="RECTV+", TRT Spor
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web&
-#EXTINF:-1 group-title="RECTV", TRT Spor Yıldız
+#EXTINF:-1 group-title="RECTV+", TRT Spor Yıldız
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
-#EXTINF:-1 group-title="RECTV", Sports TV
+#EXTINF:-1 group-title="RECTV+", Sports TV
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 group-title="RECTV", A Spor
+#EXTINF:-1 group-title="RECTV+", A Spor
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-#EXTINF:-1 group-title="RECTV", FX
+#EXTINF:-1 group-title="RECTV+", FX
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 group-title="RECTV", Moviesmart Türk
+#EXTINF:-1 group-title="RECTV+", Moviesmart Türk
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/mvturk.m3u8
-#EXTINF:-1 group-title="RECTV", National Geographic
+#EXTINF:-1 group-title="RECTV+", National Geographic
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 group-title="RECTV", National Geographic Wild
+#EXTINF:-1 group-title="RECTV+", National Geographic Wild
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 group-title="RECTV", Discovery
+#EXTINF:-1 group-title="RECTV+", Discovery
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/discovery.m3u8
-#EXTINF:-1 group-title="RECTV", Discovery ID
+#EXTINF:-1 group-title="RECTV+", Discovery ID
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/discs.m3u8
-#EXTINF:-1 group-title="RECTV", Love Nature
+#EXTINF:-1 group-title="RECTV+", Love Nature
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/lovenature.m3u8
-#EXTINF:-1 group-title="RECTV", BBC Earth
+#EXTINF:-1 group-title="RECTV+", BBC Earth
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/bbc.m3u8
-#EXTINF:-1 group-title="RECTV", Viasat Explore
+#EXTINF:-1 group-title="RECTV+", Viasat Explore
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/viasathistory.m3u8
-#EXTINF:-1 group-title="RECTV", History Channel
+#EXTINF:-1 group-title="RECTV+", History Channel
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/history.m3u8
-#EXTINF:-1 group-title="RECTV", Tarih TV
+#EXTINF:-1 group-title="RECTV+", Tarih TV
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/tarihtv.m3u8
