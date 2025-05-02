@@ -37,8 +37,6 @@ https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-name="TV8,5" tvg-id="TV8,5.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605" group-title="TEMEL LİSTE",TV 8,5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii TV" tvg-id="Tabii TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="TEMEL LİSTE",Tabii TV
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
 #EXTINF:-1 tvg-name="TRT Türk" tvg-id="TRT Turk.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-turk-tr.png" group-title="TEMEL LİSTE",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="TEMEL LİSTE",TLC
@@ -89,15 +87,15 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 tvg-name="Bloomberg HT" tvg-id="Bloomberg HT.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/bloomberg-ht-tr.png" group-title="TEMEL LİSTE",Bloomberg HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CNBC-e.svg/367px-CNBC-e.svg.png" group-title="TEMEL LİSTE",CNBC-e
-http://51.20.137.71/stream/yt/cnbc-e.m3u8
+http://13.60.64.58/stream/yt/cnbc-e.m3u8
 #EXTINF:-1 tvg-name="TV 100" tvg-id="Tv 100.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/TV100_logo.png" group-title="TEMEL LİSTE",TV 100
 https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
 #EXTINF:-1 tvg-name="SZC TV" tvg-id="Szc Tv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="TEMEL LİSTE",SZC TV
-http://51.20.137.71/stream/yt/sozcu.m3u8
+http://13.60.64.58/stream/yt/sozcu.m3u8
 #EXTINF:-1 tvg-name="Halk TV" tvg-id="Halk TV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/halk-tv-tr.png" group-title="TEMEL LİSTE",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-name="UlusalTV" tvg-id="UlusalTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/7/7c/Ulusal_Kanal_Yeni_Logo.png/330px-Ulusal_Kanal_Yeni_Logo.png" group-title="TEMEL LİSTE",Ulusal TV
-http://51.20.137.71/stream/yt/ulusalkanaltv.m3u8
+http://13.60.64.58/stream/yt/ulusalkanaltv.m3u8
 #EXTINF:-1 tvg-name="TRT Haber" tvg-id="TRT Haber.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-haber-tr.png" group-title="TEMEL LİSTE",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Haber Turk" tvg-id="Haber Turk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Habertürk_logo.svg/101px-Habertürk_logo.svg.png" group-title="TEMEL LİSTE",Haber Türk
@@ -107,11 +105,13 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-name="Ekol TV" tvg-id="Ekol TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Ekol_TV_Kanalının_Logosu.png" group-title="TEMEL LİSTE",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 #EXTINF:-1 tvg-name="KRT TV" tvg-id="KRT TV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/krt-tr.png" group-title="TEMEL LİSTE",KRT
-http://51.20.137.71/stream/yt/krt.m3u8
+http://13.60.64.58/stream/yt/krt.m3u8
 #EXTINF:-1 tvg-name="Tele 1" tvg-id="Tele 1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" group-title="TEMEL LİSTE",Tele 1
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1 tvg-name="a Haber" tvg-id="a Haber.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/a-haber-tr.png" group-title="TEMEL LİSTE",A Haber
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
+#EXTINF:-1 tvg-name="Tabii TV" tvg-id="Tabii TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="TEMEL LİSTE",Tabii TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
 #EXTINF:-1 tvg-name="Tabii Spor" tvg-id="Tabii Spor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="TEMEL LİSTE",Tabii Spor
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor 1" tvg-id="Tabii Spor 1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="TEMEL LİSTE",Tabii Spor 1
@@ -126,6 +126,24 @@ https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor 6" tvg-id="Tabii Spor 6.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="TEMEL LİSTE",Tabii Spor 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="Gülşah Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Gülşah Film
+http://13.60.64.58/stream/yt/gulsahfilm.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="Fanatik Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Fanatik Film
+http://13.60.64.58/yt/yt.m3u8?kanal=@FanatikFilmYerli
+#EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Kemal Sunal
+http://13.60.64.58/yt/yt.m3u8?kanal=@KemalSunalFilmleriveSahneleri
+#EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Kemal Sunal 2
+http://13.60.64.58/stream/yt2/kemalsunal.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Kemal Sunal 3
+http://13.60.64.58/yt/yt.m3u8?kanal=@kemalsunalfilmleri
+#EXTINF:-1 tvg-id="None" tvg-name="Behzat Ç." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Behzat Ç.
+http://13.60.64.58/stream/yt2/behzatc.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="Cennet Mahallesi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Cennet Mahallesi
+http://13.60.64.58/stream/yt2/cennetmahallesishowtv.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="Yalan Dünya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Yalan Dünya
+http://13.60.64.58/stream/yt2/yalandunyakanald.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="Yedi Numara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Yedi Numara
+http://13.60.64.58/stream/yt2/yedinumaradizisi.m3u8
 #EXTINF:-1 group-title="COMBO",beIN SPORTS
 https://small-water.lamoyid549.workers.dev/b11.m3u8
 #EXTINF:-1 group-title="COMBO",beIN SPORTS
