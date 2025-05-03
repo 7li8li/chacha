@@ -70,9 +70,9 @@ https://tv1.arectv30.sbs/live/history.m3u8
 #EXTINF:-1 tvg-name="Tarih TV" tvg-id="Tarih TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/250px-Tarih-tv-logo-siyah-1080x1080.png" group-title="TEMEL LİSTE",Tarih TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/tarihtv.m3u8
-#EXTINF:-1 tvg-name="S SPORT" tvg-id="S SPORT.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/82/S_Sport_logo.jpg/330px-S_Sport_logo.jpg" group-title="TEMEL LİSTE",S SPORT
+#EXTINF:-1 tvg-name="S SPORT" tvg-id="S SPORT.tr" tvg-logo="https://tinyurl.com/logo7ss1" group-title="TEMEL LİSTE",S SPORT
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-name="S SPORT 2" tvg-id="S SPORT 2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/ed/S_Sport_2_logo.jpg/330px-S_Sport_2_logo.jpg" group-title="TEMEL LİSTE",S SPORT 2
+#EXTINF:-1 tvg-name="S SPORT 2" tvg-id="S SPORT 2.tr" tvg-logo="https://tinyurl.com/logo7ss2" group-title="TEMEL LİSTE",S SPORT 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-name="TRT Spor" tvg-id="TRT Spor.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-spor-tr.png" group-title="TEMEL LİSTE",TRT Spor
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web
@@ -112,19 +112,19 @@ https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 #EXTINF:-1 tvg-name="Tabii TV" tvg-id="Tabii TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="TEMEL LİSTE",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
-#EXTINF:-1 tvg-name="Tabii Spor" tvg-id="Tabii Spor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="TEMEL LİSTE",Tabii Spor
+#EXTINF:-1 tvg-name="Tabii Spor" tvg-id="Tabii Spor.tr" tvg-logo="https://tinyurl.com/logo7tb0" group-title="TEMEL LİSTE",Tabii Spor
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 1" tvg-id="Tabii Spor 1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="TEMEL LİSTE",Tabii Spor 1
+#EXTINF:-1 tvg-name="Tabii Spor 1" tvg-id="Tabii Spor 1.tr" tvg-logo="https://tinyurl.com/logo7tb0" group-title="TEMEL LİSTE",Tabii Spor 1
 https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 2" tvg-id="Tabii Spor 2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="TEMEL LİSTE",Tabii Spor 2
+#EXTINF:-1 tvg-name="Tabii Spor 2" tvg-id="Tabii Spor 2.tr" tvg-logo="https://tinyurl.com/logo7tb0" group-title="TEMEL LİSTE",Tabii Spor 2
 https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 3" tvg-id="Tabii Spor 3.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="TEMEL LİSTE",Tabii Spor 3
+#EXTINF:-1 tvg-name="Tabii Spor 3" tvg-id="Tabii Spor 3.tr" tvg-logo="https://tinyurl.com/logo7tb0" group-title="TEMEL LİSTE",Tabii Spor 3
 https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 4" tvg-id="Tabii Spor 4.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="TEMEL LİSTE",Tabii Spor 4
+#EXTINF:-1 tvg-name="Tabii Spor 4" tvg-id="Tabii Spor 4.tr" tvg-logo="https://tinyurl.com/logo7tb0" group-title="TEMEL LİSTE",Tabii Spor 4
 https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 5" tvg-id="Tabii Spor 5.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="TEMEL LİSTE",Tabii Spor 5
+#EXTINF:-1 tvg-name="Tabii Spor 5" tvg-id="Tabii Spor 5.tr" tvg-logo="https://tinyurl.com/logo7tb0" group-title="TEMEL LİSTE",Tabii Spor 5
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 6" tvg-id="Tabii Spor 6.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="TEMEL LİSTE",Tabii Spor 6
+#EXTINF:-1 tvg-name="Tabii Spor 6" tvg-id="Tabii Spor 6.tr" tvg-logo="https://tinyurl.com/logo7tb0" group-title="TEMEL LİSTE",Tabii Spor 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Gülşah Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Gülşah Film
 http://13.60.64.58/stream/yt/gulsahfilm.m3u8
