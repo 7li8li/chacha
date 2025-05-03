@@ -866,45 +866,45 @@ https://vavoo.to/play/2678739188/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1392529514/index.m3u8
-#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png",beIN SPORTS
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs1.m3u8
-#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png",beIN SPORTS (Yedek)
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS (Yedek)
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs11.m3u8
-#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png",beIN SPORTS (CF)
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS (CF)
 https://small-water.lamoyid549.workers.dev/b11.m3u8
-#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png",beIN SPORTS (CF)
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS (CF)
 https://small-water.lamoyid549.workers.dev/b12.m3u8
-#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-2-hd.png",beIN SPORTS 2
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b2",beIN SPORTS 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs2.m3u8
-#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-2-hd.png",beIN SPORTS 2 (CF)
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b2",beIN SPORTS 2 (CF)
 https://small-water.lamoyid549.workers.dev/b21.m3u8
-#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-3-hd.png",beIN SPORTS 3
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b33",beIN SPORTS 3
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs3.m3u8
-#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-3-hd.png",beIN SPORTS 3 (CF)
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b33",beIN SPORTS 3 (CF)
 https://small-water.lamoyid549.workers.dev/b31.m3u8
-#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-4-hd.png",beIN SPORTS 4
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b4",beIN SPORTS 4
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs4.m3u8
-#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-4-hd.png",beIN SPORTS 4 (CF)
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b4",beIN SPORTS 4 (CF)
 https://small-water.lamoyid549.workers.dev/b41.m3u8
-#EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-5-hd.png",beIN SPORTS 5
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b55",beIN SPORTS 5
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs5.m3u8
-#EXTINF:-1 group-title="RECTV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png",beIN SPORTS Max
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7bm1",beIN SPORTS Max
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/bm1.m3u8
-#EXTINF:-1 group-title="RECTV+" tvg-logo="https://i.imgur.com/t7U20yR.png",beIN SPORTS Max 2
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7bm2",beIN SPORTS Max 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/bm2.m3u8
