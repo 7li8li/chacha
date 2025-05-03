@@ -128,14 +128,16 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Gülşah Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Gülşah Film
 http://13.60.64.58/stream/yt/gulsahfilm.m3u8
-EXTINF:-1 tvg-id="None" tvg-name="Fanatik Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Fanatik Film
+#EXTINF:-1 tvg-id="None" tvg-name="Fanatik Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Fanatik Film
 http://13.60.64.58/yt/yt.m3u8?kanal=@FanatikFilmYerli
 #EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Kemal Sunal
 http://13.60.64.58/yt/yt.m3u8?kanal=@KemalSunalFilmleriveSahneleri
 #EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Kemal Sunal 2
 http://13.60.64.58/stream/yt2/kemalsunal.m3u8
-EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Kemal Sunal 3
+#EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Kemal Sunal 3
 http://13.60.64.58/yt/yt.m3u8?kanal=@kemalsunalfilmleri
+#EXTINF:-1 tvg-id="None" tvg-name="Zeki-Metin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Zeki-Metin
+http://13.60.64.58/yt/yt.m3u8?kanal=@TurkFilmleri-TV
 #EXTINF:-1 tvg-id="None" tvg-name="Behzat Ç." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Behzat Ç.
 http://13.60.64.58/stream/yt2/behzatc.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Cennet Mahallesi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Cennet Mahallesi
