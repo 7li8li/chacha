@@ -149,11 +149,11 @@ http://13.60.64.58/stream/yt2/yedinumaradizisi.m3u8
 #EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png",beIN SPORTS
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af91.workers.dev/static/bs1.m3u8
+https://r14.af92.workers.dev/static/bs1.m3u8
 #EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png",beIN SPORTS (Yedek)
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af91.workers.dev/static/bs11.m3u8
+https://r14.af92.workers.dev/static/bs11.m3u8
 #EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png",beIN SPORTS (Netspor)
 #EXTVLCOPT:http-referrer=https://www.netsportv203.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -165,7 +165,7 @@ https://small-water.lamoyid549.workers.dev/b12.m3u8
 #EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-2-hd.png",beIN SPORTS 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af91.workers.dev/static/bs2.m3u8
+https://r14.af92.workers.dev/static/bs2.m3u8
 #EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-2-hd.png",beIN SPORTS 2 (Netspor)
 #EXTVLCOPT:http-referrer=https://www.netsportv203.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -175,7 +175,7 @@ https://small-water.lamoyid549.workers.dev/b21.m3u8
 #EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-3-hd.png",beIN SPORTS 3
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af91.workers.dev/static/bs3.m3u8
+https://r14.af92.workers.dev/static/bs3.m3u8
 #EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-3-hd.png",beIN SPORTS 3 (Netspor)
 #EXTVLCOPT:http-referrer=https://www.netsportv203.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -185,7 +185,7 @@ https://small-water.lamoyid549.workers.dev/b31.m3u8
 #EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-4-hd.png",beIN SPORTS 4
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af91.workers.dev/static/bs4.m3u8
+https://r14.af92.workers.dev/static/bs4.m3u8
 #EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-4-hd.png",beIN SPORTS 4 (Netspor)
 #EXTVLCOPT:http-referrer=https://www.netsportv203.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -195,7 +195,7 @@ https://small-water.lamoyid549.workers.dev/b41.m3u8
 #EXTINF:-1 group-title="RECTV+" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-5-hd.png",beIN SPORTS 5
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af91.workers.dev/static/bs5.m3u8
+https://r14.af92.workers.dev/static/bs5.m3u8
 #EXTINF:-1 group-title="RECTV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png",beIN SPORTS Max
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
