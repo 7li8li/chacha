@@ -6,6 +6,7 @@ on:
       - 'halay.m3u'
       - 'rhumba.m3u'
       - 'tango.m3u'
+      - 'waltz.m3u'
 
 jobs:
   update-list:
@@ -27,6 +28,7 @@ jobs:
           awk 'NR>1' tango.m3u >> latino.m3u
           awk 'NR>1' halay.m3u >> latino.m3u
           awk 'NR>1' rhumba.m3u >> latino.m3u
+          awk 'NR>1' waltz.m3u >> latino.m3u
           awk 'NR>1' mambo.m3u >> latino.m3u
 
       - name: Configure Git
