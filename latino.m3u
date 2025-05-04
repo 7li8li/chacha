@@ -1142,7 +1142,7 @@ https://vavoo.to/play/1343303170/index.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs1.m3u8
-#EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS (Yedek)
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS B
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs11.m3u8
@@ -1244,11 +1244,11 @@ https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTVLCOPT:http-referrer=https://jestyayin938.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://xn--tdaaa.mevzuhls37.cfd/yayinzirve.m3u8
-#EXTINF:-1 group-title="JEST" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS Yedek
+#EXTINF:-1 group-title="JEST" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS B
 #EXTVLCOPT:http-referrer=https://jestyayin938.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://xn--tdaaa.mevzuhls37.cfd/yayin1.m3u8
-#EXTINF:-1 group-title="JEST" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS Yedek
+#EXTINF:-1 group-title="JEST" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS C
 #EXTVLCOPT:http-referrer=https://jestyayin938.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://xn--tdaaa.mevzuhls37.cfd/yayininat.m3u8
@@ -1348,11 +1348,11 @@ https://xn--tdaaa.mevzuhls37.cfd/yayinex6.m3u8
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://c0.4928d54d950ee70q43.click/yayinzirve.m3u8
-#EXTINF:-1 group-title="TRGOALS" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS Yedek
+#EXTINF:-1 group-title="TRGOALS" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS B
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://c0.4928d54d950ee70q43.click/yayin1.m3u8
-#EXTINF:-1 group-title="TRGOALS" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS Yedek
+#EXTINF:-1 group-title="TRGOALS" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS C
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://c0.4928d54d950ee70q43.click/yayininat.m3u8 
@@ -1451,56 +1451,70 @@ https://c0.4928d54d950ee70q43.click/yayinex6.m3u8
 #EXTINF:-1 group-title="SELCUK" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsports1/playlist.m3u8
+https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:-1 group-title="SELCUK" tvg-logo="https://tinyurl.com/logo7b2",beIN SPORTS 2
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsports2/playlist.m3u8
+https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcukbeinsports2/playlist.m3u8
 #EXTINF:-1 group-title="SELCUK" tvg-logo="https://tinyurl.com/logo7b33",beIN SPORTS 3
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsports3/playlist.m3u8
+https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 group-title="SELCUK" tvg-logo="https://tinyurl.com/logo7b4",beIN SPORTS 4
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsports4/playlist.m3u8
+https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 group-title="SELCUK" tvg-logo="https://tinyurl.com/logo7b55",beIN SPORTS 5
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsports5/playlist.m3u8
+https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 group-title="SELCUK" tvg-logo="https://tinyurl.com/logo7bm1",beIN SPORTS Max
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
+https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
 #EXTINF:-1 group-title="SELCUK" tvg-logo="https://tinyurl.com/logo7bm2",beIN SPORTS Max 2
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
+https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
 #EXTINF:-1 group-title="SELCUK" tvg-logo="https://tinyurl.com/logo7ss1",S SPORT
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport/playlist.m3u8
+https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcukssport/playlist.m3u8
 #EXTINF:-1 group-title="SELCUK" tvg-logo="https://tinyurl.com/logo7ss2",S SPORT 2
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport2/playlist.m3u8
+https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 group-title="SELCUK" tvg-logo="https://tinyurl.com/logo7sm1",Spor Smart
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuksmartspor/playlist.m3u8
+https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcuksmartspor/playlist.m3u8
 #EXTINF:-1 group-title="SELCUK" tvg-logo="https://tinyurl.com/logo7sm2",Spor Smart 2
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuksmartspor2/playlist.m3u8
+https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcuksmartspor2/playlist.m3u8
 #EXTINF:-1 group-title="SELCUK" tvg-logo="https://tinyurl.com/logo7ts1",TİVİBU SPOR 1
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktivibuspor1/playlist.m3u8
+https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcuktivibuspor1/playlist.m3u8
 #EXTINF:-1 group-title="SELCUK" tvg-logo="https://tinyurl.com/logo7ts2",TİVİBU SPOR 2
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktivibuspor2/playlist.m3u8
+https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcuktivibuspor2/playlist.m3u8
 #EXTINF:-1 group-title="SELCUK" tvg-logo="https://tinyurl.com/logo7ts3",TİVİBU SPOR 3
 #EXTVLCOPT:http-referrer=https://trgoals1300.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktivibuspor3/playlist.m3u8
+https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcuktivibuspor3/playlist.m3u8
+#EXTINF:-1 group-title="HLS" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS A
+http://13.60.206.244/hls/stream1/stream1.m3u8
+#EXTINF:-1 group-title="HLS" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS B
+http://13.60.206.244/hls/stream2/stream2.m3u8
+#EXTINF:-1 group-title="HLS" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS C
+http://13.60.206.244/hls/stream3/stream3.m3u8
+#EXTINF:-1 group-title="HLS" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS D
+http://13.60.206.244/hls/stream4/stream4.m3u8
+#EXTINF:-1 group-title="HLS" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS E
+http://13.60.206.244/hls/stream5/stream5.m3u8
+#EXTINF:-1 group-title="HLS" tvg-logo="https://tinyurl.com/logo7b2",beIN SPORTS 2
+http://13.60.206.244/hls/stream6/stream6.m3u8
+#EXTINF:-1 group-title="HLS" tvg-logo="https://tinyurl.com/logo7b2",beIN SPORTS 2
+http://13.60.206.244/hls/stream7/stream7.m3u8
