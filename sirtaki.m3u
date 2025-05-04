@@ -1,116 +1,116 @@
 #EXTM3U x-tvg-url="https://sty.ink/epgp3"
-#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT 1.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-1-tr.png" group-title="TEMEL LİSTE",TRT 1
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT 1.tr" tvg-logo="https://tinyurl.com/logo7trt" group-title="TEMEL LİSTE",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT 2.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-2-tr.png" group-title="TEMEL LİSTE",TRT 2
+#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT 2.tr" tvg-logo="https://tinyurl.com/logo7trt2" group-title="TEMEL LİSTE",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/ntv-tr.png" group-title="TEMEL LİSTE",NTV
+#EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://tinyurl.com/logo7ntv" group-title="TEMEL LİSTE",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:-1 tvg-name="CNNTurk" tvg-id="CNNTurk.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/cnn-turk-tr.png" group-title="TEMEL LİSTE",CNN Türk
+#EXTINF:-1 tvg-name="CNNTurk" tvg-id="CNNTurk.tr" tvg-logo="https://tinyurl.com/logo7cnnturk" group-title="TEMEL LİSTE",CNN Türk
 https://b.fulltvizle.com/cnn/playlist.m3u8
-#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/now-tr.png" group-title="TEMEL LİSTE",NOW
+#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://tinyurl.com/logo7now" group-title="TEMEL LİSTE",NOW
 http://13.60.64.58/stream/ulusal/nowtv.m3u8
-#EXTINF:-1 tvg-name="Kanal D" tvg-id="Kanal D.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4e/Kanal_D.png" group-title="TEMEL LİSTE",Kanal D
+#EXTINF:-1 tvg-name="Kanal D" tvg-id="Kanal D.tr" tvg-logo="https://tinyurl.com/logo7kd" group-title="TEMEL LİSTE",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-#EXTINF:-1 tvg-name="Star" tvg-id="Star.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/star-tv-tr.png" group-title="TEMEL LİSTE",Star
+#EXTINF:-1 tvg-name="Star" tvg-id="Star.tr" tvg-logo="https://tinyurl.com/logo7star" group-title="TEMEL LİSTE",Star
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF:-1 tvg-name="Show TV" tvg-id="Show TV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/show-tr.png" group-title="TEMEL LİSTE",Show TV
+#EXTINF:-1 tvg-name="Show TV" tvg-id="Show TV.tr" tvg-logo="https://tinyurl.com/logo7show" group-title="TEMEL LİSTE",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/tv8-tr.png" group-title="TEMEL LİSTE",TV8
+#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.tr" tvg-logo="https://tinyurl.com/logo7tv8" group-title="TEMEL LİSTE",TV8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/atv-tr.png" group-title="TEMEL LİSTE",ATV
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://tinyurl.com/logo7atv" group-title="TEMEL LİSTE",ATV
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
-#EXTINF:-1 tvg-name="Beyaz TV" tvg-id="Beyaz TV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/beyaz-tv-tr.png" group-title="TEMEL LİSTE",Beyaz TV
+#EXTINF:-1 tvg-name="Beyaz TV" tvg-id="Beyaz TV.tr" tvg-logo="https://tinyurl.com/logo7beyaz" group-title="TEMEL LİSTE",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:-1 tvg-name="Kanal7" tvg-id="Kanal7.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/kanal-7-tr.png" group-title="TEMEL LİSTE",Kanal 7
+#EXTINF:-1 tvg-name="Kanal7" tvg-id="Kanal7.tr" tvg-logo="https://tinyurl.com/logo7k7" group-title="TEMEL LİSTE",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:-1 tvg-name="FX" tvg-id="FX.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/fx-tr.png" group-title="TEMEL LİSTE",FX
+#EXTINF:-1 tvg-name="FX" tvg-id="FX.tr" tvg-logo="https://tinyurl.com/logo7fx" group-title="TEMEL LİSTE",FX
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-name="MovieSmart Turk" tvg-id="MovieSmart Turk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_of_MovieSmart_Türk.png" group-title="TEMEL LİSTE",Moviesmart Türk
+#EXTINF:-1 tvg-name="MovieSmart Turk" tvg-id="MovieSmart Turk.tr" tvg-logo="https://tinyurl.com/logo7mst" group-title="TEMEL LİSTE",Moviesmart Türk
 #EXTVLCOPT:http-referrer=https://twitter.com/
 #EXTVLCOPT:http-user-agent=googleusercontent
 https://tv1.arectv30.sbs/live/mvturk.m3u8
-#EXTINF:-1 tvg-name="360" tvg-id="360.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/360-tr.png" group-title="TEMEL LİSTE",360
+#EXTINF:-1 tvg-name="360" tvg-id="360.tr" tvg-logo="https://tinyurl.com/logo7360" group-title="TEMEL LİSTE",360
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
-#EXTINF:-1 tvg-name="teve 2" tvg-id="teve2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/Teve2_logo.png" group-title="TEMEL LİSTE",teve 2
+#EXTINF:-1 tvg-name="teve 2" tvg-id="teve2.tr" tvg-logo="https://tinyurl.com/logo7teve2" group-title="TEMEL LİSTE",teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
-#EXTINF:-1 tvg-name="A2 HD" tvg-id="A2 HD.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/a2-tr.png" group-title="TEMEL LİSTE",A2
+#EXTINF:-1 tvg-name="A2 HD" tvg-id="A2 HD.tr" tvg-logo="https://tinyurl.com/logo7a22" group-title="TEMEL LİSTE",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
-#EXTINF:-1 tvg-name="TV8,5" tvg-id="TV8,5.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605" group-title="TEMEL LİSTE",TV 8,5
+#EXTINF:-1 tvg-name="TV8,5" tvg-id="TV8,5.tr" tvg-logo="https://tinyurl.com/logo7tv85" group-title="TEMEL LİSTE",TV 8,5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:-1 tvg-name="TRT Türk" tvg-id="TRT Turk.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-turk-tr.png" group-title="TEMEL LİSTE",TRT Türk
+#EXTINF:-1 tvg-name="TRT Türk" tvg-id="TRT Turk.tr" tvg-logo="https://tinyurl.com/logo7trtt" group-title="TEMEL LİSTE",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="TEMEL LİSTE",TLC
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://tinyurl.com/logo7tlc" group-title="TEMEL LİSTE",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="TEMEL LİSTE",DMAX
+#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://tinyurl.com/logo7dmax" group-title="TEMEL LİSTE",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1 tvg-name="National Geographic" tvg-id="National Geographic.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/199px-National-Geographic-Logo.svg.png" group-title="TEMEL LİSTE",National Geographic
+#EXTINF:-1 tvg-name="National Geographic" tvg-id="National Geographic.tr" tvg-logo="https://tinyurl.com/logo7ng" group-title="TEMEL LİSTE",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 tvg-name="National Geographic Wild" tvg-id="National Geographic WILD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/100px-National_Geographic_Wild_logo.svg.png" group-title="TEMEL LİSTE",National Geographic Wild
+#EXTINF:-1 tvg-name="National Geographic Wild" tvg-id="National Geographic WILD.tr" tvg-logo="https://tinyurl.com/logo7ngw" group-title="TEMEL LİSTE",National Geographic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 tvg-name="TRT Belgesel" tvg-id="TRT Belgesel.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-belgesel-tr.png" group-title="TEMEL LİSTE",TRT Belgesel
+#EXTINF:-1 tvg-name="TRT Belgesel" tvg-id="TRT Belgesel.tr" tvg-logo="https://tinyurl.com/logo7trtb" group-title="TEMEL LİSTE",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery.tr" tvg-logo="https://www.blm.de/files/png1/logo_discoverychannel_600.jpg" group-title="TEMEL LİSTE",Discovery
+#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery.tr" tvg-logo="https://tinyurl.com/logo7dis" group-title="TEMEL LİSTE",Discovery
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/discovery.m3u8
-#EXTINF:-1 tvg-name="Discovery ID" tvg-id="Discovery ID.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/540px-Investigation_Discovery_Logo_2018.svg.png" group-title="TEMEL LİSTE",Discovery ID
+#EXTINF:-1 tvg-name="Discovery ID" tvg-id="Discovery ID.tr" tvg-logo="https://tinyurl.com/logo7id" group-title="TEMEL LİSTE",Discovery ID
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/discs.m3u8
-#EXTINF:-1 tvg-name="BBC Earth" tvg-id="BBC Earth.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/330px-BBC_Earth_2023.svg.png" group-title="TEMEL LİSTE",BBC Earth
+#EXTINF:-1 tvg-name="BBC Earth" tvg-id="BBC Earth.tr" tvg-logo="https://tinyurl.com/logo7bbce" group-title="TEMEL LİSTE",BBC Earth
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/bbc.m3u8
-#EXTINF:-1 tvg-name="Viasat Explore" tvg-id="Viasat Explore.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Viasat_Explore-logo.svg/250px-Viasat_Explore-logo.svg.png" group-title="TEMEL LİSTE",Viasat Explore
+#EXTINF:-1 tvg-name="Viasat Explore" tvg-id="Viasat Explore.tr" tvg-logo="https://tinyurl.com/logo7viae" group-title="TEMEL LİSTE",Viasat Explore
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/viasathistory.m3u8
-#EXTINF:-1 tvg-name="Love Nature" tvg-id="Love Nature.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Nature_journal_logo.svg/163px-Nature_journal_logo.svg.png" group-title="TEMEL LİSTE",Love Nature
+#EXTINF:-1 tvg-name="Love Nature" tvg-id="Love Nature.tr" tvg-logo="https://tinyurl.com/logo7nature" group-title="TEMEL LİSTE",Love Nature
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/lovenature.m3u8
-#EXTINF:-1 tvg-name="History Channel" tvg-id="History Channel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/250px-History_Logo.svg.png" group-title="TEMEL LİSTE",History Channel
+#EXTINF:-1 tvg-name="History Channel" tvg-id="History Channel.tr" tvg-logo="https://tinyurl.com/logo7history" group-title="TEMEL LİSTE",History Channel
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/history.m3u8
-#EXTINF:-1 tvg-name="Tarih TV" tvg-id="Tarih TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/250px-Tarih-tv-logo-siyah-1080x1080.png" group-title="TEMEL LİSTE",Tarih TV
+#EXTINF:-1 tvg-name="Tarih TV" tvg-id="Tarih TV.tr" tvg-logo="https://tinyurl.com/logo7tarih" group-title="TEMEL LİSTE",Tarih TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/tarihtv.m3u8
 #EXTINF:-1 tvg-name="S SPORT" tvg-id="S SPORT.tr" tvg-logo="https://tinyurl.com/logo7ss1" group-title="TEMEL LİSTE",S SPORT
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-name="S SPORT 2" tvg-id="S SPORT 2.tr" tvg-logo="https://tinyurl.com/logo7ss2" group-title="TEMEL LİSTE",S SPORT 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-name="TRT Spor" tvg-id="TRT Spor.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-spor-tr.png" group-title="TEMEL LİSTE",TRT Spor
+#EXTINF:-1 tvg-name="TRT Spor" tvg-id="TRT Spor.tr" tvg-logo="https://tinyurl.com/logo7trts" group-title="TEMEL LİSTE",TRT Spor
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web
-#EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-id="TRT Spor Yıldız.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-spor-yildiz-tr.png" group-title="TEMEL LİSTE",TRT Spor Yıldız
+#EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-id="TRT Spor Yıldız.tr" tvg-logo="https://tinyurl.com/logo7trtsy" group-title="TEMEL LİSTE",TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="HT Spor" tvg-id="HT Spor.tr" tvg-logo="https://im.haberturk.com/assets/laravel/images/common/sport/logo/ht-spor-white.svg" group-title="TEMEL LİSTE",HT Spor
+#EXTINF:-1 tvg-name="HT Spor" tvg-id="HT Spor.tr" tvg-logo="https://tinyurl.com/logo7htsp" group-title="TEMEL LİSTE",HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-#EXTINF:-1 tvg-name="A Spor" tvg-id="a Spor.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/a-spor-tr.png" group-title="TEMEL LİSTE",A Spor
+#EXTINF:-1 tvg-name="A Spor" tvg-id="a Spor.tr" tvg-logo="https://tinyurl.com/logo7asp" group-title="TEMEL LİSTE",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
-#EXTINF:-1 tvg-name="Sports TV HD" tvg-id="Sports TV HD.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/sports-tv-tr.png" group-title="TEMEL LİSTE",Sports TV
+#EXTINF:-1 tvg-name="Sports TV HD" tvg-id="Sports TV HD.tr" tvg-logo="https://tinyurl.com/logo7sptv" group-title="TEMEL LİSTE",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-name="Bloomberg HT" tvg-id="Bloomberg HT.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/bloomberg-ht-tr.png" group-title="TEMEL LİSTE",Bloomberg HT
+#EXTINF:-1 tvg-name="Bloomberg HT" tvg-id="Bloomberg HT.tr" tvg-logo="https://tinyurl.com/logo7bht" group-title="TEMEL LİSTE",Bloomberg HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CNBC-e.svg/367px-CNBC-e.svg.png" group-title="TEMEL LİSTE",CNBC-e
+#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://tinyurl.com/logo7cnbce" group-title="TEMEL LİSTE",CNBC-e
 http://13.60.64.58/stream/yt/cnbc-e.m3u8
-#EXTINF:-1 tvg-name="TV 100" tvg-id="Tv 100.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/TV100_logo.png" group-title="TEMEL LİSTE",TV 100
+#EXTINF:-1 tvg-name="TV 100" tvg-id="Tv 100.tr" tvg-logo="https://tinyurl.com/logo7tv100" group-title="TEMEL LİSTE",TV 100
 https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
-#EXTINF:-1 tvg-name="SZC TV" tvg-id="Szc Tv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="TEMEL LİSTE",SZC TV
+#EXTINF:-1 tvg-name="SZC TV" tvg-id="Szc Tv.tr" tvg-logo="https://tinyurl.com/logo7szc" group-title="TEMEL LİSTE",SZC TV
 http://13.60.64.58/stream/yt/sozcu.m3u8
-#EXTINF:-1 tvg-name="Halk TV" tvg-id="Halk TV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/halk-tv-tr.png" group-title="TEMEL LİSTE",Halk TV
+#EXTINF:-1 tvg-name="Halk TV" tvg-id="Halk TV.tr" tvg-logo="https://tinyurl.com/logo7halk" group-title="TEMEL LİSTE",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 tvg-name="UlusalTV" tvg-id="UlusalTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/7/7c/Ulusal_Kanal_Yeni_Logo.png/330px-Ulusal_Kanal_Yeni_Logo.png" group-title="TEMEL LİSTE",Ulusal TV
+#EXTINF:-1 tvg-name="UlusalTV" tvg-id="UlusalTV.tr" tvg-logo="https://tinyurl.com/logo7ulus" group-title="TEMEL LİSTE",Ulusal TV
 http://13.60.64.58/stream/yt/ulusalkanaltv.m3u8
-#EXTINF:-1 tvg-name="TRT Haber" tvg-id="TRT Haber.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-haber-tr.png" group-title="TEMEL LİSTE",TRT Haber
+#EXTINF:-1 tvg-name="TRT Haber" tvg-id="TRT Haber.tr" tvg-logo="https://tinyurl.com/logo7trth" group-title="TEMEL LİSTE",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="Haber Turk" tvg-id="Haber Turk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Habertürk_logo.svg/101px-Habertürk_logo.svg.png" group-title="TEMEL LİSTE",Haber Türk
+#EXTINF:-1 tvg-name="Haber Turk" tvg-id="Haber Turk.tr" tvg-logo="https://tinyurl.com/logo7hbrt" group-title="TEMEL LİSTE",Haber Türk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-#EXTINF:-1 tvg-name="Haber Global" tvg-id="Haber Global.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/haber-global-tr.png" group-title="TEMEL LİSTE",Haber Global
+#EXTINF:-1 tvg-name="Haber Global" tvg-id="Haber Global.tr" tvg-logo="https://tinyurl.com/logo7hbrg" group-title="TEMEL LİSTE",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1 tvg-name="Ekol TV" tvg-id="Ekol TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Ekol_TV_Kanalının_Logosu.png" group-title="TEMEL LİSTE",Ekol TV
+#EXTINF:-1 tvg-name="Ekol TV" tvg-id="Ekol TV.tr" tvg-logo="https://tinyurl.com/logo7ekol" group-title="TEMEL LİSTE",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
-#EXTINF:-1 tvg-name="KRT TV" tvg-id="KRT TV.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/krt-tr.png" group-title="TEMEL LİSTE",KRT
+#EXTINF:-1 tvg-name="KRT TV" tvg-id="KRT TV.tr" tvg-logo="https://tinyurl.com/logo7krt" group-title="TEMEL LİSTE",KRT
 http://13.60.64.58/stream/yt/krt.m3u8
-#EXTINF:-1 tvg-name="Tele 1" tvg-id="Tele 1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" group-title="TEMEL LİSTE",Tele 1
+#EXTINF:-1 tvg-name="Tele 1" tvg-id="Tele 1.tr" tvg-logo="https://tinyurl.com/logo7tele1" group-title="TEMEL LİSTE",Tele 1
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
-#EXTINF:-1 tvg-name="a Haber" tvg-id="a Haber.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/a-haber-tr.png" group-title="TEMEL LİSTE",A Haber
+#EXTINF:-1 tvg-name="a Haber" tvg-id="a Haber.tr" tvg-logo="https://tinyurl.com/logo7ahbr" group-title="TEMEL LİSTE",A Haber
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
-#EXTINF:-1 tvg-name="Tabii TV" tvg-id="Tabii TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="TEMEL LİSTE",Tabii TV
+#EXTINF:-1 tvg-name="Tabii TV" tvg-id="Tabii TV.tr" tvg-logo="https://tinyurl.com/logo7tabi" group-title="TEMEL LİSTE",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
 #EXTINF:-1 tvg-name="Tabii Spor" tvg-id="Tabii Spor.tr" tvg-logo="https://tinyurl.com/logo7tb0" group-title="TEMEL LİSTE",Tabii Spor
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
@@ -126,25 +126,25 @@ https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor 6" tvg-id="Tabii Spor 6.tr" tvg-logo="https://tinyurl.com/logo7tb0" group-title="TEMEL LİSTE",Tabii Spor 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="Gülşah Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Gülşah Film
+#EXTINF:-1 tvg-id="None" tvg-name="Gülşah Film" tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Gülşah Film
 http://13.60.64.58/stream/yt/gulsahfilm.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="Fanatik Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Fanatik Film
+#EXTINF:-1 tvg-id="None" tvg-name="Fanatik Film" tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Fanatik Film
 http://13.60.64.58/yt/yt.m3u8?kanal=@FanatikFilmYerli
-#EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Kemal Sunal
+#EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal" tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Kemal Sunal
 http://13.60.64.58/yt/yt.m3u8?kanal=@KemalSunalFilmleriveSahneleri
-#EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Kemal Sunal 2
+#EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal 2" tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Kemal Sunal 2
 http://13.60.64.58/stream/yt2/kemalsunal.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Kemal Sunal 3
+#EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal 3" tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Kemal Sunal 3
 http://13.60.64.58/yt/yt.m3u8?kanal=@kemalsunalfilmleri
-#EXTINF:-1 tvg-id="None" tvg-name="Zeki-Metin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Zeki-Metin
+#EXTINF:-1 tvg-id="None" tvg-name="Zeki-Metin" tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Zeki-Metin
 http://13.60.64.58/yt/yt.m3u8?kanal=@TurkFilmleri-TV
-#EXTINF:-1 tvg-id="None" tvg-name="Behzat Ç." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Behzat Ç.
+#EXTINF:-1 tvg-id="None" tvg-name="Behzat Ç." tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Behzat Ç.
 http://13.60.64.58/stream/yt2/behzatc.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="Cennet Mahallesi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Cennet Mahallesi
+#EXTINF:-1 tvg-id="None" tvg-name="Cennet Mahallesi" tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Cennet Mahallesi
 http://13.60.64.58/stream/yt2/cennetmahallesishowtv.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="Yalan Dünya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Yalan Dünya
+#EXTINF:-1 tvg-id="None" tvg-name="Yalan Dünya" tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Yalan Dünya
 http://13.60.64.58/stream/yt2/yalandunyakanald.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="Yedi Numara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/330px-YouTube_full-color_icon_(2017).svg.png" group-title="YouTube 7/24",Yedi Numara
+#EXTINF:-1 tvg-id="None" tvg-name="Yedi Numara" tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Yedi Numara
 http://13.60.64.58/stream/yt2/yedinumaradizisi.m3u8
 #EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS
 #EXTVLCOPT:http-user-agent=googleusercontent
