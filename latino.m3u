@@ -512,7 +512,8 @@ https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-name="CNNTurk" tvg-id="CNNTurk.tr" tvg-logo="https://tinyurl.com/logo7cnnturk" group-title="TEMEL LİSTE",CNN Türk
 https://b.fulltvizle.com/cnn/playlist.m3u8
 #EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://tinyurl.com/logo7now" group-title="TEMEL LİSTE",NOW
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://www.nowtv.com.tr/canli-yayin/
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-name="Kanal D" tvg-id="Kanal D.tr" tvg-logo="https://tinyurl.com/logo7kd" group-title="TEMEL LİSTE",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
