@@ -8,7 +8,7 @@ https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-name="CNNTurk" tvg-id="CNNTurk.tr" tvg-logo="https://tinyurl.com/logo7cnnturk" group-title="TEMEL LİSTE",CNN Türk
 https://b.fulltvizle.com/cnn/playlist.m3u8
 #EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://tinyurl.com/logo7now" group-title="TEMEL LİSTE",NOW
-http://13.60.64.58/stream/ulusal/nowtv.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-name="Kanal D" tvg-id="Kanal D.tr" tvg-logo="https://tinyurl.com/logo7kd" group-title="TEMEL LİSTE",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-name="Star" tvg-id="Star.tr" tvg-logo="https://tinyurl.com/logo7star" group-title="TEMEL LİSTE",Star
@@ -26,8 +26,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-name="FX" tvg-id="FX.tr" tvg-logo="https://tinyurl.com/logo7fx" group-title="TEMEL LİSTE",FX
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-name="MovieSmart Turk" tvg-id="MovieSmart Turk.tr" tvg-logo="https://tinyurl.com/logo7mst" group-title="TEMEL LİSTE",Moviesmart Türk
-#EXTVLCOPT:http-referrer=https://twitter.com/
-#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/mvturk.m3u8
 #EXTINF:-1 tvg-name="360" tvg-id="360.tr" tvg-logo="https://tinyurl.com/logo7360" group-title="TEMEL LİSTE",360
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
@@ -87,15 +86,15 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 tvg-name="Bloomberg HT" tvg-id="Bloomberg HT.tr" tvg-logo="https://tinyurl.com/logo7bht" group-title="TEMEL LİSTE",Bloomberg HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://tinyurl.com/logo7cnbce" group-title="TEMEL LİSTE",CNBC-e
-http://13.60.64.58/stream/yt/cnbc-e.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=XihyuKSyUD0.m3u8
 #EXTINF:-1 tvg-name="TV 100" tvg-id="Tv 100.tr" tvg-logo="https://tinyurl.com/logo7tv100" group-title="TEMEL LİSTE",TV 100
 https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
 #EXTINF:-1 tvg-name="SZC TV" tvg-id="Szc Tv.tr" tvg-logo="https://tinyurl.com/logo7szc" group-title="TEMEL LİSTE",SZC TV
-http://13.60.64.58/stream/yt/sozcu.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8
 #EXTINF:-1 tvg-name="Halk TV" tvg-id="Halk TV.tr" tvg-logo="https://tinyurl.com/logo7halk" group-title="TEMEL LİSTE",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-name="UlusalTV" tvg-id="UlusalTV.tr" tvg-logo="https://tinyurl.com/logo7ulus" group-title="TEMEL LİSTE",Ulusal TV
-http://13.60.64.58/stream/yt/ulusalkanaltv.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=dK96AZbCns0.m3u8
 #EXTINF:-1 tvg-name="TRT Haber" tvg-id="TRT Haber.tr" tvg-logo="https://tinyurl.com/logo7trth" group-title="TEMEL LİSTE",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Haber Turk" tvg-id="Haber Turk.tr" tvg-logo="https://tinyurl.com/logo7hbrt" group-title="TEMEL LİSTE",Haber Türk
@@ -105,7 +104,7 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-name="Ekol TV" tvg-id="Ekol TV.tr" tvg-logo="https://tinyurl.com/logo7ekol" group-title="TEMEL LİSTE",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 #EXTINF:-1 tvg-name="KRT TV" tvg-id="KRT TV.tr" tvg-logo="https://tinyurl.com/logo7krt" group-title="TEMEL LİSTE",KRT
-http://13.60.64.58/stream/yt/krt.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=3rrff_65UMw.m3u8
 #EXTINF:-1 tvg-name="Tele 1" tvg-id="Tele 1.tr" tvg-logo="https://tinyurl.com/logo7tele1" group-title="TEMEL LİSTE",Tele 1
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1 tvg-name="a Haber" tvg-id="a Haber.tr" tvg-logo="https://tinyurl.com/logo7ahbr" group-title="TEMEL LİSTE",A Haber
@@ -127,25 +126,23 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor 6" tvg-id="Tabii Spor 6.tr" tvg-logo="https://tinyurl.com/logo7tb0" group-title="TEMEL LİSTE",Tabii Spor 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Gülşah Film" tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Gülşah Film
-http://13.60.64.58/stream/yt/gulsahfilm.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="Fanatik Film" tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Fanatik Film
-http://13.60.64.58/yt/yt.m3u8?kanal=@FanatikFilmYerli
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=hfx8H7YrmTw.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal" tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Kemal Sunal
-http://13.60.64.58/yt/yt.m3u8?kanal=@KemalSunalFilmleriveSahneleri
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=u62XApSFaz8.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal 2" tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Kemal Sunal 2
-http://13.60.64.58/stream/yt2/kemalsunal.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal 3" tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Kemal Sunal 3
-http://13.60.64.58/yt/yt.m3u8?kanal=@kemalsunalfilmleri
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=FGL1GwoRRIw.m3u8
+#EXTINF:-1 tvg-id="None" tvg-name="Arzu Film" tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Gülşah Film
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=UgKxh04Iv9o.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Zeki-Metin" tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Zeki-Metin
-http://13.60.64.58/yt/yt.m3u8?kanal=@TurkFilmleri-TV
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=9ZMh3wSverE.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Behzat Ç." tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Behzat Ç.
-http://13.60.64.58/stream/yt2/behzatc.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=V6_46VDV1dY.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Cennet Mahallesi" tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Cennet Mahallesi
-http://13.60.64.58/stream/yt2/cennetmahallesishowtv.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=lf1NxAexRAE.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Yalan Dünya" tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Yalan Dünya
-http://13.60.64.58/stream/yt2/yalandunyakanald.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=swCdxaGHkM8.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Yedi Numara" tvg-logo="https://tinyurl.com/logo7ytb" group-title="YouTube 7/24",Yedi Numara
-http://13.60.64.58/stream/yt2/yedinumaradizisi.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=rS5dHYQsSxs.m3u8
 #EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
