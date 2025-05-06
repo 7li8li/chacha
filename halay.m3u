@@ -6,11 +6,9 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://tinyurl.com/logo7ntv" group-title="TEMEL LİSTE",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-name="CNNTurk" tvg-id="CNNTurk.tr" tvg-logo="https://tinyurl.com/logo7cnnturk" group-title="TEMEL LİSTE",CNN Türk
-https://b.fulltvizle.com/cnn/playlist.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=93Iri_-Jgfo.m3u8
 #EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://tinyurl.com/logo7now" group-title="TEMEL LİSTE",NOW
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://www.nowtv.com.tr/canli-yayin/
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+http://66.160.192.241/foxturk/index.m3u8
 #EXTINF:-1 tvg-name="Kanal D" tvg-id="Kanal D.tr" tvg-logo="https://tinyurl.com/logo7kd" group-title="TEMEL LİSTE",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-name="Star" tvg-id="Star.tr" tvg-logo="https://tinyurl.com/logo7star" group-title="TEMEL LİSTE",Star
@@ -20,7 +18,7 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-name="TV8" tvg-id="TV8.tr" tvg-logo="https://tinyurl.com/logo7tv8" group-title="TEMEL LİSTE",TV8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://tinyurl.com/logo7atv" group-title="TEMEL LİSTE",ATV
-https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="Beyaz TV" tvg-id="Beyaz TV.tr" tvg-logo="https://tinyurl.com/logo7beyaz" group-title="TEMEL LİSTE",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-name="Kanal7" tvg-id="Kanal7.tr" tvg-logo="https://tinyurl.com/logo7k7" group-title="TEMEL LİSTE",Kanal 7
@@ -59,8 +57,8 @@ https://tv1.arectv30.sbs/live/discs.m3u8
 #EXTINF:-1 tvg-name="BBC Earth" tvg-id="BBC Earth.tr" tvg-logo="https://tinyurl.com/logo7bbce" group-title="TEMEL LİSTE",BBC Earth
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/bbc.m3u8
-#EXTINF:-1 tvg-name="DocuScreen" tvg-id="DocuScreen.tr" tvg-logo="https://tinyurl.com/logo7docu" group-title="TEMEL LİSTE",DocuScreen
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+EXTINF:-1 tvg-name="DocuScreen" tvg-id="DocuScreen.tr" tvg-logo="https://tinyurl.com/logo7docu" group-title="TEMEL LİSTE",DocuScreen
+EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/docubox.m3u8
 #EXTINF:-1 tvg-name="Love Nature" tvg-id="Love Nature.tr" tvg-logo="https://tinyurl.com/logo7nature2" group-title="TEMEL LİSTE",Love Nature
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -109,11 +107,11 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-name="Ekol TV" tvg-id="Ekol TV.tr" tvg-logo="https://tinyurl.com/logo7ekol" group-title="TEMEL LİSTE",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 #EXTINF:-1 tvg-name="KRT TV" tvg-id="KRT TV.tr" tvg-logo="https://tinyurl.com/logo7krt" group-title="TEMEL LİSTE",KRT
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=3rrff_65UMw.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=a2mrzUyp0Ck.m3u8
 #EXTINF:-1 tvg-name="Tele 1" tvg-id="Tele 1.tr" tvg-logo="https://tinyurl.com/logo7tele1" group-title="TEMEL LİSTE",Tele 1
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1 tvg-name="a Haber" tvg-id="a Haber.tr" tvg-logo="https://tinyurl.com/logo7ahbr" group-title="TEMEL LİSTE",A Haber
-https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=nmY9i63t6qo.m3u8
 #EXTINF:-1 tvg-name="Tabii TV" tvg-id="Tabii TV.tr" tvg-logo="https://tinyurl.com/logo7tabi" group-title="TEMEL LİSTE",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
 #EXTINF:-1 tvg-name="Tabii Spor" tvg-id="Tabii Spor.tr" tvg-logo="https://tinyurl.com/logo7tb0" group-title="TEMEL LİSTE",Tabii Spor
