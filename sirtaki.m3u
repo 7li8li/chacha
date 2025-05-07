@@ -48,14 +48,14 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-name="TRT Belgesel" tvg-id="TRT Belgesel.tr" tvg-logo="https://tinyurl.com/logo7trtb" group-title="TEMEL LİSTE",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery.tr" tvg-logo="https://tinyurl.com/logo7disc" group-title="TEMEL LİSTE",Discovery
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery.tr" tvg-logo="https://tinyurl.com/logo7disc" group-title="TEMEL LİSTE",Discovery
+EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/discovery.m3u8
-#EXTINF:-1 tvg-name="Discovery ID" tvg-id="Discovery ID.tr" tvg-logo="https://tinyurl.com/logo7id2" group-title="TEMEL LİSTE",Discovery ID
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+EXTINF:-1 tvg-name="Discovery ID" tvg-id="Discovery ID.tr" tvg-logo="https://tinyurl.com/logo7id2" group-title="TEMEL LİSTE",Discovery ID
+EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/discs.m3u8
-#EXTINF:-1 tvg-name="BBC Earth" tvg-id="BBC Earth.tr" tvg-logo="https://tinyurl.com/logo7bbce" group-title="TEMEL LİSTE",BBC Earth
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+EXTINF:-1 tvg-name="BBC Earth" tvg-id="BBC Earth.tr" tvg-logo="https://tinyurl.com/logo7bbce" group-title="TEMEL LİSTE",BBC Earth
+EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/bbc.m3u8
 EXTINF:-1 tvg-name="DocuScreen" tvg-id="DocuScreen.tr" tvg-logo="https://tinyurl.com/logo7docu" group-title="TEMEL LİSTE",DocuScreen
 EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -63,18 +63,18 @@ https://tv1.arectv30.sbs/live/docubox.m3u8
 #EXTINF:-1 tvg-name="Love Nature" tvg-id="Love Nature.tr" tvg-logo="https://tinyurl.com/logo7nature2" group-title="TEMEL LİSTE",Love Nature
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/lovenature.m3u8
-#EXTINF:-1 tvg-name="History Channel" tvg-id="History Channel.tr" tvg-logo="https://tinyurl.com/logo7history" group-title="TEMEL LİSTE",History Channel
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+EXTINF:-1 tvg-name="History Channel" tvg-id="History Channel.tr" tvg-logo="https://tinyurl.com/logo7history" group-title="TEMEL LİSTE",History Channel
+EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/history.m3u8
 #EXTINF:-1 tvg-name="Tarih TV" tvg-id="Tarih TV.tr" tvg-logo="https://tinyurl.com/logo7tarih" group-title="TEMEL LİSTE",Tarih TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/tarihtv.m3u8
-#EXTINF:-1 tvg-name="Viasat Explore" tvg-id="Viasat Explore.tr" tvg-logo="https://tinyurl.com/logo7viae" group-title="TEMEL LİSTE",Viasat Explore
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+EXTINF:-1 tvg-name="Viasat Explore" tvg-id="Viasat Explore.tr" tvg-logo="https://tinyurl.com/logo7viae" group-title="TEMEL LİSTE",Viasat Explore
+EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/viasathistory.m3u8
-#EXTINF:-1 tvg-name="S SPORT" tvg-id="S SPORT.tr" tvg-logo="https://tinyurl.com/logo7ss1" group-title="TEMEL LİSTE",S SPORT
+EXTINF:-1 tvg-name="S SPORT" tvg-id="S SPORT.tr" tvg-logo="https://tinyurl.com/logo7ss1" group-title="TEMEL LİSTE",S SPORT
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-name="S SPORT 2" tvg-id="S SPORT 2.tr" tvg-logo="https://tinyurl.com/logo7ss2" group-title="TEMEL LİSTE",S SPORT 2
+EXTINF:-1 tvg-name="S SPORT 2" tvg-id="S SPORT 2.tr" tvg-logo="https://tinyurl.com/logo7ss2" group-title="TEMEL LİSTE",S SPORT 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-name="TRT Spor" tvg-id="TRT Spor.tr" tvg-logo="https://tinyurl.com/logo7trts" group-title="TEMEL LİSTE",TRT Spor
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web
