@@ -1147,10 +1147,12 @@ https://vavoo.to/play/3307062704/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1343303170/index.m3u8
 #EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS
+http://y1.it1.com.mx/yapmayanariz.m3u8
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs1.m3u8
-#EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS B
+#EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs11.m3u8
