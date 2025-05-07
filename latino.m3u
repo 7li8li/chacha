@@ -593,15 +593,15 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 tvg-name="Bloomberg HT" tvg-id="Bloomberg HT.tr" tvg-logo="https://tinyurl.com/logo7bht" group-title="TEMEL LİSTE",Bloomberg HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://tinyurl.com/logo7cnbce" group-title="TEMEL LİSTE",CNBC-e
-https://tik.ink/cnbce
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=XihyuKSyUD0.m3u8
 #EXTINF:-1 tvg-name="TV 100" tvg-id="Tv 100.tr" tvg-logo="https://tinyurl.com/logo7tv100" group-title="TEMEL LİSTE",TV 100
 https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
 #EXTINF:-1 tvg-name="SZC TV" tvg-id="Szc Tv.tr" tvg-logo="https://tinyurl.com/logo7szc" group-title="TEMEL LİSTE",SZC TV
-https://tik.ink/sozcu
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8
 #EXTINF:-1 tvg-name="Halk TV" tvg-id="Halk TV.tr" tvg-logo="https://tinyurl.com/logo7halk" group-title="TEMEL LİSTE",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-name="UlusalTV" tvg-id="UlusalTV.tr" tvg-logo="https://tinyurl.com/logo7ulus" group-title="TEMEL LİSTE",Ulusal TV
-https://tik.ink/ulusal
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=dK96AZbCns0.m3u8
 #EXTINF:-1 tvg-name="TRT Haber" tvg-id="TRT Haber.tr" tvg-logo="https://tinyurl.com/logo7trth" group-title="TEMEL LİSTE",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Haber Turk" tvg-id="Haber Turk.tr" tvg-logo="https://tinyurl.com/logo7hbrt" group-title="TEMEL LİSTE",Haber Türk
@@ -611,7 +611,7 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-name="Ekol TV" tvg-id="Ekol TV.tr" tvg-logo="https://tinyurl.com/logo7ekol" group-title="TEMEL LİSTE",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 #EXTINF:-1 tvg-name="KRT TV" tvg-id="KRT TV.tr" tvg-logo="https://tinyurl.com/logo7krt" group-title="TEMEL LİSTE",KRT
-https://tik.ink/krt
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=v5srSbD2WBk.m3u8
 #EXTINF:-1 tvg-name="Tele 1" tvg-id="Tele 1.tr" tvg-logo="https://tinyurl.com/logo7tele1" group-title="TEMEL LİSTE",Tele 1
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1 tvg-name="a Haber" tvg-id="a Haber.tr" tvg-logo="https://tinyurl.com/logo7ahbr" group-title="TEMEL LİSTE",A Haber
@@ -633,31 +633,31 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor 6" tvg-id="Tabii Spor 6.tr" tvg-logo="https://tinyurl.com/logo7tb0" group-title="TEMEL LİSTE",Tabii Spor 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Gülşah Film" tvg-logo="https://tinyurl.com/logo7gulsah" group-title="YouTube 7/24",Gülşah Film
-https://tik.ink/01
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=hfx8H7YrmTw.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal" tvg-logo="https://tinyurl.com/logo7kemal" group-title="YouTube 7/24",Kemal Sunal
-https://tik.ink/02
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=u62XApSFaz8.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal 2" tvg-logo="https://tinyurl.com/logo7kemal" group-title="YouTube 7/24",Kemal Sunal 2
-https://tik.ink/03
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=FGL1GwoRRIw.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Arzu Film" tvg-logo="https://tinyurl.com/logo7arzu" group-title="YouTube 7/24",Arzu Film
-https://tik.ink/04
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=HWPlCP9k3ho.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Zeki-Metin" tvg-logo="https://tinyurl.com/logo7zkmtn" group-title="YouTube 7/24",Zeki-Metin
-https://tik.ink/05
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=9ZMh3wSverE.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Arkadaşım Hoşgeldin" tvg-logo="https://tinyurl.com/logo7tolga" group-title="YouTube 7/24",Arkadaşım Hoşgeldin
-https://tik.ink/06
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=FATDnY2ymoo.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Behzat Ç." tvg-logo="https://tinyurl.com/logo7behzat" group-title="YouTube 7/24",Behzat Ç.
-https://tik.ink/07
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=V6_46VDV1dY.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Cennet Mahallesi" tvg-logo="https://tinyurl.com/logo7cennet" group-title="YouTube 7/24",Cennet Mahallesi
-https://tik.ink/08
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=lf1NxAexRAE.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Çocuklar Duymasın" tvg-logo="https://tinyurl.com/logo7cocuk" group-title="YouTube 7/24",Çocuklar Duymasın
-https://tik.ink/09
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=EVZmJPw-7hY.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Güldür Güldür" tvg-logo="https://tinyurl.com/logo7guldur" group-title="YouTube 7/24",Güldür Güldür
-https://tik.ink/10
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=vPfDP715BZ4.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Leyla ile Mecnun" tvg-logo="https://tinyurl.com/logo7lm" group-title="YouTube 7/24",Leyla ile Mecnun
-https://tik.ink/11
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=3nlND4audLg.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Yalan Dünya" tvg-logo="https://tinyurl.com/logo7yalan" group-title="YouTube 7/24",Yalan Dünya
-https://tik.ink/12
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=swCdxaGHkM8.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Yedi Numara" tvg-logo="https://tinyurl.com/logo7numara" group-title="YouTube 7/24",Yedi Numara
-https://tik.ink/13
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=rS5dHYQsSxs.m3u8
 #EXTINF:-1 tvg-id="Dizi Smart Max.tr" tvg-name="Dizismart Max" tvg-logo="" group-title="M&S (Vavoo)",Dizismart Max
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
