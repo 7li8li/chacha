@@ -34,7 +34,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-name="A2 HD" tvg-id="A2 HD.tr" tvg-logo="https://tinyurl.com/logo7a22" group-title="TEMEL LİSTE",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
-#EXTINF:-1 tvg-name="TV8,5" tvg-id="TV8,5.tr" tvg-logo="https://tinyurl.com/logo7tv85" group-title="TEMEL LİSTE",TV 8,5
+#EXTINF:-1 tvg-name="TV8,5 HD" tvg-id="TV8,5 HD.tr" tvg-logo="https://tinyurl.com/logo7tv85" group-title="TEMEL LİSTE",TV 8,5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-name="TRT Türk" tvg-id="TRT Turk.tr" tvg-logo="https://tinyurl.com/logo7trtt" group-title="TEMEL LİSTE",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
