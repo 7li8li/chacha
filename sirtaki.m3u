@@ -136,8 +136,6 @@ https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=swCdxaGHkM8.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Yedi Numara" tvg-logo="https://tinyurl.com/logo7numara" group-title="YouTube 7/24",Yedi Numara
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=rS5dHYQsSxs.m3u8
 #EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS
-http://y1.it1.com.mx/yapmayanariz.m3u8
-#EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af92.workers.dev/static/bs1.m3u8
