@@ -1127,32 +1127,33 @@ https://vavoo.to/play/3307062704/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1343303170/index.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS
-http://it1.com.mx:80/live/Freesaku/Freesaku/2723.m3u8
+http://it1.com.mx:80/live/Freesaku/Freesaku/2742.m3u8
 #EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS
-http://it1.com.mx:80/live/Freesaku/Freesaku/2724.m3u8
+http://it1.com.mx:80/live/Freesaku/Freesaku/2743.m3u8
 #EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS
-http://it1.com.mx:80/live/Freesaku/Freesaku/2725.m3u8
+http://it1.com.mx:80/live/Freesaku/Freesaku/2744.m3u8
 #EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7b2",beIN SPORTS 2
-http://it1.com.mx:80/live/Freesaku/Freesaku/2726.m3u8
+http://it1.com.mx:80/live/Freesaku/Freesaku/2750.m3u8
 #EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7b2",beIN SPORTS 2
-http://it1.com.mx:80/live/Freesaku/Freesaku/2727.m3u8
+http://it1.com.mx:80/live/Freesaku/Freesaku/2751.m3u8
 #EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7b33",beIN SPORTS 3
-http://it1.com.mx:80/live/Freesaku/Freesaku/2728.m3u8
+http://it1.com.mx:80/live/Freesaku/Freesaku/2752.m3u8
 #EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7b33",beIN SPORTS 3
-http://it1.com.mx:80/live/Freesaku/Freesaku/2729.m3u8
+http://it1.com.mx:80/live/Freesaku/Freesaku/2753.m3u8
 #EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7b4",beIN SPORTS 4
-http://it1.com.mx:80/live/Freesaku/Freesaku/2730.m3u8
+http://it1.com.mx:80/live/Freesaku/Freesaku/2754.m3u8
 #EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7b4",beIN SPORTS 4
-http://it1.com.mx:80/live/Freesaku/Freesaku/2731.m3u8
+http://it1.com.mx:80/live/Freesaku/Freesaku/2755.m3u8
 #EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7bm1",beIN SPORTS Max
-http://it1.com.mx:80/live/Freesaku/Freesaku/2732.m3u8
+http://it1.com.mx:80/live/Freesaku/Freesaku/2756.m3u8
 #EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7bm1",beIN SPORTS Max
-http://it1.com.mx:80/live/Freesaku/Freesaku/2733.m3u8
+http://it1.com.mx:80/live/Freesaku/Freesaku/2757.m3u8
 #EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7bm2",beIN SPORTS Max 2
-http://it1.com.mx:80/live/Freesaku/Freesaku/2734.m3u8
+http://it1.com.mx:80/live/Freesaku/Freesaku/2758.m3u8
 #EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7bm2",beIN SPORTS Max 2
-http://it1.com.mx:80/live/Freesaku/Freesaku/2735.m3u8
+http://it1.com.mx:80/live/Freesaku/Freesaku/2759.m3u8
 #EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
