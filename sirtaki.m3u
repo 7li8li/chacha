@@ -132,33 +132,42 @@ https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=3nlND4audLg.m3u8
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=swCdxaGHkM8.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Yedi Numara" tvg-logo="https://tinyurl.com/logo7numara" group-title="YouTube 7/24",Yedi Numara
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=rS5dHYQsSxs.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS
-http://it1.com.mx:80/live/Freesaku/Freesaku/2742.m3u8
-#EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS
-http://it1.com.mx:80/live/Freesaku/Freesaku/2743.m3u8
-#EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS
-http://it1.com.mx:80/live/Freesaku/Freesaku/2744.m3u8
-#EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7b2",beIN SPORTS 2
-http://it1.com.mx:80/live/Freesaku/Freesaku/2750.m3u8
-#EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7b2",beIN SPORTS 2
-http://it1.com.mx:80/live/Freesaku/Freesaku/2751.m3u8
-#EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7b33",beIN SPORTS 3
-http://it1.com.mx:80/live/Freesaku/Freesaku/2752.m3u8
-#EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7b33",beIN SPORTS 3
-http://it1.com.mx:80/live/Freesaku/Freesaku/2753.m3u8
-#EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7b4",beIN SPORTS 4
-http://it1.com.mx:80/live/Freesaku/Freesaku/2754.m3u8
-#EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7b4",beIN SPORTS 4
-http://it1.com.mx:80/live/Freesaku/Freesaku/2755.m3u8
-#EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7bm1",beIN SPORTS Max
-http://it1.com.mx:80/live/Freesaku/Freesaku/2756.m3u8
-#EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7bm1",beIN SPORTS Max
-http://it1.com.mx:80/live/Freesaku/Freesaku/2757.m3u8
-#EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7bm2",beIN SPORTS Max 2
-http://it1.com.mx:80/live/Freesaku/Freesaku/2758.m3u8
-#EXTINF:-1 group-title="beIN SAKU" tvg-logo="https://tinyurl.com/logo7bm2",beIN SPORTS Max 2
-http://it1.com.mx:80/live/Freesaku/Freesaku/2759.m3u8
+#EXTINF:-1 group-title="beIN SAKU",beIN SPORTS
+http://it1.com.mx:80/live/Freesaku/Freesaku/2761.m3u8
+#EXTINF:-1 group-title="beIN SAKU",beIN SPORTS
+http://it1.com.mx:80/live/Freesaku/Freesaku/2762.m3u8
+#EXTINF:-1 group-title="beIN SAKU",beIN SPORTS (REC TV)
+http://it1.com.mx:80/live/Freesaku/Freesaku/2763.m3u8
+#EXTINF:-1 group-title="beIN SAKU",beIN SPORTS 50 FPS
+http://it1.com.mx:80/live/Freesaku/Freesaku/2764.m3u8
+#EXTINF:-1 group-title="beIN SAKU",beIN SPORTS
+http://it1.com.mx:80/live/Freesaku/Freesaku/2765.m3u8
+#EXTINF:-1 group-title="beIN SAKU",beIN SPORTS
+http://it1.com.mx:80/live/Freesaku/Freesaku/2766.m3u8
+#EXTINF:-1 group-title="beIN SAKU",beIN SPORTS YEDEK
+http://it1.com.mx:80/live/Freesaku/Freesaku/2767.m3u8
+#EXTINF:-1 group-title="beIN SAKU",beIN SPORTS SD
+http://it1.com.mx:80/live/Freesaku/Freesaku/2768.m3u8
+#EXTINF:-1 group-title="beIN SAKU",beIN SPORTS 2
+http://it1.com.mx:80/live/Freesaku/Freesaku/2769.m3u8
+#EXTINF:-1 group-title="beIN SAKU",beIN SPORTS 2
+http://it1.com.mx:80/live/Freesaku/Freesaku/2770.m3u8
+#EXTINF:-1 group-title="beIN SAKU",beIN SPORTS 3
+http://it1.com.mx:80/live/Freesaku/Freesaku/2771.m3u8
+#EXTINF:-1 group-title="beIN SAKU",beIN SPORTS 3
+http://it1.com.mx:80/live/Freesaku/Freesaku/2772.m3u8
+#EXTINF:-1 group-title="beIN SAKU",beIN SPORTS 4
+http://it1.com.mx:80/live/Freesaku/Freesaku/2773.m3u8
+#EXTINF:-1 group-title="beIN SAKU",beIN SPORTS 4
+http://it1.com.mx:80/live/Freesaku/Freesaku/2774.m3u8
+#EXTINF:-1 group-title="beIN SAKU",beIN SPORTS Max 1
+http://it1.com.mx:80/live/Freesaku/Freesaku/2775.m3u8
+#EXTINF:-1 group-title="beIN SAKU",beIN SPORTS Max 1
+http://it1.com.mx:80/live/Freesaku/Freesaku/2776.m3u8
+#EXTINF:-1 group-title="beIN SAKU",beIN SPORTS Max 2
+http://it1.com.mx:80/live/Freesaku/Freesaku/2777.m3u8
+#EXTINF:-1 group-title="beIN SAKU",beIN SPORTS Max 2
+http://it1.com.mx:80/live/Freesaku/Freesaku/2778.m3u8
 #EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
