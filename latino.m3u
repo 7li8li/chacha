@@ -1141,6 +1141,42 @@ https://vavoo.to/play/3307062704/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1343303170/index.m3u8
+#EXTINF:-1 group-title="beIN SAKU",beIN Sports 1 50 FPS
+http://it1.com.mx:80/Vip/Vip/2764
+#EXTINF:-1 group-title="beIN SAKU",beIN Sports 1 FHD
+http://it1.com.mx:80/Vip/Vip/2761
+#EXTINF:-1 group-title="beIN SAKU",beIN Sports 1 FHD
+http://it1.com.mx:80/Vip/Vip/2765
+#EXTINF:-1 group-title="beIN SAKU",beIN Sports 1 HD
+http://it1.com.mx:80/Vip/Vip/2762
+#EXTINF:-1 group-title="beIN SAKU",beIN Sports 1 HD
+http://it1.com.mx:80/Vip/Vip/2766
+#EXTINF:-1 group-title="beIN SAKU",beIN Sports 1 HD (REC TV)
+http://it1.com.mx:80/Vip/Vip/2763
+#EXTINF:-1 group-title="beIN SAKU",beIN Sports 1 SD
+http://it1.com.mx:80/Vip/Vip/2768
+#EXTINF:-1 group-title="beIN SAKU",beIN Sports 1 YEDEK
+http://it1.com.mx:80/Vip/Vip/2767
+#EXTINF:-1 group-title="beIN SAKU",beIN Sports 2 FHD
+http://it1.com.mx:80/Vip/Vip/2769
+#EXTINF:-1 group-title="beIN SAKU",beIN Sports 2 HD
+http://it1.com.mx:80/Vip/Vip/2770
+#EXTINF:-1 group-title="beIN SAKU",beIN Sports 3 FHD
+http://it1.com.mx:80/Vip/Vip/2771
+#EXTINF:-1 group-title="beIN SAKU",beIN Sports 3 HD
+http://it1.com.mx:80/Vip/Vip/2772
+#EXTINF:-1 group-title="beIN SAKU",beIN Sports 4 FHD
+http://it1.com.mx:80/Vip/Vip/2774
+#EXTINF:-1 group-title="beIN SAKU",beIN Sports 4 HD
+http://it1.com.mx:80/Vip/Vip/2773
+#EXTINF:-1 group-title="beIN SAKU",beIN Sports Max 1 FHD
+http://it1.com.mx:80/Vip/Vip/2775
+#EXTINF:-1 group-title="beIN SAKU",beIN Sports Max 1 HD
+http://it1.com.mx:80/Vip/Vip/2776
+#EXTINF:-1 group-title="beIN SAKU",beIN Sports Max 2 FHD
+http://it1.com.mx:80/Vip/Vip/2777
+#EXTINF:-1 group-title="beIN SAKU",beIN Sports Max 2 HD
+http://it1.com.mx:80/Vip/Vip/2778
 #EXTINF:-1 group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
