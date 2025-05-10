@@ -552,6 +552,17 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-name="TRT Belgesel" tvg-id="TRT Belgesel.tr" tvg-logo="https://tinyurl.com/logo7trtb" group-title="TEMEL LİSTE",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="CGTN Documentary" tvg-id="CGTN Documentary.tr" tvg-logo="https://tinyurl.com/logo7cgtn" group-title="TEMEL LİSTE",CGTN Documentary
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery.tr" tvg-logo="https://tinyurl.com/logo7disc" group-title="TEMEL LİSTE",Discovery
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://tv1.arectv30.sbs/live/discovery.m3u8
+#EXTINF:-1 tvg-name="Discovery ID" tvg-id="Discovery ID.tr" tvg-logo="https://tinyurl.com/logo7id2" group-title="TEMEL LİSTE",Discovery ID
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://tv1.arectv30.sbs/live/discs.m3u8
+#EXTINF:-1 tvg-name="DocuScreen" tvg-id="DocuScreen.tr" tvg-logo="https://tinyurl.com/logo7docu" group-title="TEMEL LİSTE",DocuScreen
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://tv1.arectv30.sbs/live/docubox.m3u8
 #EXTINF:-1 tvg-name="Tarih TV" tvg-id="Tarih TV.tr" tvg-logo="https://tinyurl.com/logo7tarih" group-title="TEMEL LİSTE",Tarih TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/tarihtv.m3u8
@@ -614,6 +625,8 @@ https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor 6" tvg-id="Tabii Spor 6.tr" tvg-logo="https://tinyurl.com/logo7tb0" group-title="TEMEL LİSTE",Tabii Spor 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Tabii Spor 7" tvg-id="Tabii Spor 7.tr" tvg-logo="https://tinyurl.com/logo7tb0" group-title="TEMEL LİSTE",Tabii Spor 7
+https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Gülşah Film" tvg-logo="https://tinyurl.com/logo7gulsah" group-title="YouTube 7/24",Gülşah Film
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=hfx8H7YrmTw.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="Kemal Sunal" tvg-logo="https://tinyurl.com/logo7kemal" group-title="YouTube 7/24",Kemal Sunal
