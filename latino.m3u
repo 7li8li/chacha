@@ -1141,42 +1141,42 @@ https://vavoo.to/play/3307062704/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1343303170/index.m3u8
-#EXTINF:-1 group-title="beIN SAKU",beIN Sports 1 50 FPS
-http://it1.com.mx:80/Vip/Vip/2764
-#EXTINF:-1 group-title="beIN SAKU",beIN Sports 1 FHD
-http://it1.com.mx:80/Vip/Vip/2761
-#EXTINF:-1 group-title="beIN SAKU",beIN Sports 1 FHD
-http://it1.com.mx:80/Vip/Vip/2765
-#EXTINF:-1 group-title="beIN SAKU",beIN Sports 1 HD
-http://it1.com.mx:80/Vip/Vip/2762
-#EXTINF:-1 group-title="beIN SAKU",beIN Sports 1 HD
-http://it1.com.mx:80/Vip/Vip/2766
-#EXTINF:-1 group-title="beIN SAKU",beIN Sports 1 HD (REC TV)
-http://it1.com.mx:80/Vip/Vip/2763
-#EXTINF:-1 group-title="beIN SAKU",beIN Sports 1 SD
-http://it1.com.mx:80/Vip/Vip/2768
-#EXTINF:-1 group-title="beIN SAKU",beIN Sports 1 YEDEK
-http://it1.com.mx:80/Vip/Vip/2767
-#EXTINF:-1 group-title="beIN SAKU",beIN Sports 2 FHD
-http://it1.com.mx:80/Vip/Vip/2769
-#EXTINF:-1 group-title="beIN SAKU",beIN Sports 2 HD
-http://it1.com.mx:80/Vip/Vip/2770
-#EXTINF:-1 group-title="beIN SAKU",beIN Sports 3 FHD
-http://it1.com.mx:80/Vip/Vip/2771
-#EXTINF:-1 group-title="beIN SAKU",beIN Sports 3 HD
-http://it1.com.mx:80/Vip/Vip/2772
-#EXTINF:-1 group-title="beIN SAKU",beIN Sports 4 FHD
-http://it1.com.mx:80/Vip/Vip/2774
-#EXTINF:-1 group-title="beIN SAKU",beIN Sports 4 HD
-http://it1.com.mx:80/Vip/Vip/2773
-#EXTINF:-1 group-title="beIN SAKU",beIN Sports Max 1 FHD
-http://it1.com.mx:80/Vip/Vip/2775
-#EXTINF:-1 group-title="beIN SAKU",beIN Sports Max 1 HD
-http://it1.com.mx:80/Vip/Vip/2776
-#EXTINF:-1 group-title="beIN SAKU",beIN Sports Max 2 FHD
-http://it1.com.mx:80/Vip/Vip/2777
-#EXTINF:-1 group-title="beIN SAKU",beIN Sports Max 2 HD
-http://it1.com.mx:80/Vip/Vip/2778
+#EXTINF:-1 group-title="SAKU beIN" tvg-id="" tvg-name="beIN Sports 1 50 FPS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png",beIN Sports 1 50 FPS
+http://omegasolder.com.mx/0GqO9wkMB7/Rmw4CQy3Ad/2764
+#EXTINF:-1 group-title="SAKU beIN" tvg-id="" tvg-name="beIN Sports 1 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png",beIN Sports 1 FHD
+http://omegasolder.com.mx/0GqO9wkMB7/Rmw4CQy3Ad/2761
+#EXTINF:-1 group-title="SAKU beIN" tvg-id="" tvg-name="beIN Sports 1 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png",beIN Sports 1 FHD
+http://omegasolder.com.mx/0GqO9wkMB7/Rmw4CQy3Ad/2765
+#EXTINF:-1 group-title="SAKU beIN" tvg-id="" tvg-name="beIN Sports 1 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png",beIN Sports 1 HD
+http://omegasolder.com.mx/0GqO9wkMB7/Rmw4CQy3Ad/2762
+#EXTINF:-1 group-title="SAKU beIN" tvg-id="" tvg-name="beIN Sports 1 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png",beIN Sports 1 HD
+http://omegasolder.com.mx/0GqO9wkMB7/Rmw4CQy3Ad/2766
+#EXTINF:-1 group-title="SAKU beIN" tvg-id="" tvg-name="beIN Sports 1 HD (REC TV)" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png",beIN Sports 1 HD (REC TV)
+http://omegasolder.com.mx/0GqO9wkMB7/Rmw4CQy3Ad/2763
+#EXTINF:-1 group-title="SAKU beIN" tvg-id="" tvg-name="beIN Sports 1 SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png",beIN Sports 1 SD
+http://omegasolder.com.mx/0GqO9wkMB7/Rmw4CQy3Ad/2768
+#EXTINF:-1 group-title="SAKU beIN" tvg-id="" tvg-name="beIN Sports 1 YEDEK" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png",beIN Sports 1 YEDEK
+http://omegasolder.com.mx/0GqO9wkMB7/Rmw4CQy3Ad/2767
+#EXTINF:-1 group-title="SAKU beIN" tvg-id="" tvg-name="beIN Sports 2 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png",beIN Sports 2 FHD
+http://omegasolder.com.mx/0GqO9wkMB7/Rmw4CQy3Ad/2769
+#EXTINF:-1 group-title="SAKU beIN" tvg-id="" tvg-name="beIN Sports 2 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png",beIN Sports 2 HD
+http://omegasolder.com.mx/0GqO9wkMB7/Rmw4CQy3Ad/2770
+#EXTINF:-1 group-title="SAKU beIN" tvg-id="" tvg-name="beIN Sports 3 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png",beIN Sports 3 FHD
+http://omegasolder.com.mx/0GqO9wkMB7/Rmw4CQy3Ad/2771
+#EXTINF:-1 group-title="SAKU beIN" tvg-id="" tvg-name="beIN Sports 3 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png",beIN Sports 3 HD
+http://omegasolder.com.mx/0GqO9wkMB7/Rmw4CQy3Ad/2772
+#EXTINF:-1 group-title="SAKU beIN" tvg-id="" tvg-name="beIN Sports 4 FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png",beIN Sports 4 FHD
+http://omegasolder.com.mx/0GqO9wkMB7/Rmw4CQy3Ad/2774
+#EXTINF:-1 group-title="SAKU beIN" tvg-id="" tvg-name="beIN Sports 4 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png",beIN Sports 4 HD
+http://omegasolder.com.mx/0GqO9wkMB7/Rmw4CQy3Ad/2773
+#EXTINF:-1 group-title="SAKU beIN" tvg-id="" tvg-name="beIN Sports Max 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png",beIN Sports Max 1 FHD
+http://omegasolder.com.mx/0GqO9wkMB7/Rmw4CQy3Ad/2775
+#EXTINF:-1 group-title="SAKU beIN" tvg-id="" tvg-name="beIN Sports Max 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png",beIN Sports Max 1 HD
+http://omegasolder.com.mx/0GqO9wkMB7/Rmw4CQy3Ad/2776
+#EXTINF:-1 group-title="SAKU beIN" tvg-id="" tvg-name="beIN Sports Max 2 FHD" tvg-logo="https://i.imgur.com/t7U20yR.png",beIN Sports Max 2 FHD
+http://omegasolder.com.mx/0GqO9wkMB7/Rmw4CQy3Ad/2777
+#EXTINF:-1 group-title="SAKU beIN" tvg-id="" tvg-name="beIN Sports Max 2 HD" tvg-logo="https://i.imgur.com/t7U20yR.png",beIN Sports Max 2 HD
+http://omegasolder.com.mx/0GqO9wkMB7/Rmw4CQy3Ad/2778
 #EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS 1.tr" group-title="RECTV+" tvg-logo="https://tinyurl.com/logo7b1",beIN SPORTS
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
